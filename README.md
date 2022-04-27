@@ -21,8 +21,6 @@ Table of Contents
    * [Frameworks for Training](#frameworks-for-training)
    * [Experiment Tracking](#experiment-tracking)
    * [Visualization](#visualization)
-   * [Data Management](#data-management)
-   * [Platforms for Training](#platforms-for-training)
 * [Model](#model)
    * [Model Management](#model-management)
    * [Pretrained Model](#pretrained-model)
@@ -30,12 +28,13 @@ Table of Contents
    * [Frameworks for Serving](#frameworks-for-serving)
    * [Optimizations](#optimizations)
    * [Observability](#observability)
-   * [Platforms for Serving](#platforms-for-serving)
-* [Large scale deployment](#large-scale-deployment)
+* [Large Scale Deployment](#large-scale-deployment)
+   * [ML Platforms](#ml-platforms)
    * [Workflow](#workflow)
    * [Scheduling](#scheduling)
 * [AutoML](#automl)
 * [Data](#data)
+   * [Data Management](#data-management)
    * [Data Ingestion](#data-ingestion)
    * [Data Storage](#data-storage)
    * [Data Transformation](#data-transformation)
@@ -108,7 +107,7 @@ Table of Contents
 
 ## Observability
 
-# Large scale deployment
+# Large Scale Deployment
 
 ## ML Platforms
 

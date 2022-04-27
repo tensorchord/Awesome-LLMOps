@@ -6,7 +6,7 @@ An awesome & curated list of best open source MLOps tools for data scientists.
 
 **Contribute**
 
-Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
 
 **Community**
 

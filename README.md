@@ -1,12 +1,16 @@
 **Awesome Open Source MLOps**
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/open-source-mlops/community.svg)](https://gitter.im/open-source-mlops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 An awesome & curated list of best opeb source MLOps tools for data scientists.
 
 **Contribute**
 
 Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+
+**Community**
+
+You can join our [gitter](https://gitter.im/open-source-mlops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) channel to discuss.
 
 Table of Contents
 =================

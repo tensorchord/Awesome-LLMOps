@@ -100,6 +100,8 @@ Table of Contents
 
 ## Frameworks for Serving
 
+- [MOSEC](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec?style=social) - A machine learning model serving framework with dynamic batching and pipelined stages, provides an easy-to-use Python interface.
+
 ## Optimizations
 
 - [Forward](https://github.com/Tencent/Forward) ![](https://img.shields.io/github/stars/Tencent/Forward.svg?style=social) - A library for high performance deep learning inference on NVIDIA GPUs.

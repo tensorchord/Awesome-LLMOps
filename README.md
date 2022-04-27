@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/open-source-mlops/community.svg)](https://gitter.im/open-source-mlops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-An awesome & curated list of best opeb source MLOps tools for data scientists.
+An awesome & curated list of best open source MLOps tools for data scientists.
 
 **Contribute**
 

@@ -97,21 +97,34 @@ Table of Contents
 
 ## Model Management
 
+- [dvc](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - Data Version Control | Git for Data & Models | ML Experiments Management
 - [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - Open Source ML Model Versioning, Metadata, and Experiment Management
 - [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts
 
 ## Pretrained Model
 
+- [HuggingFace](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleNLP.svg?style=social) - Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.
+- [PyTorch Image Models](https://github.com/rwightman/pytorch-image-models) ![](https://img.shields.io/github/stars/rwightman/pytorch-image-models.svg?style=social) - PyTorch image models, scripts, pretrained weights.
+
 # Serving
 
-## Frameworks for Serving
+## Frameworks/Servers for Serving
 
+- [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/BentoML.svg?style=social) - The Unified Model Serving Framework
 - [MOSEC](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec?style=social) - A machine learning model serving framework with dynamic batching and pipelined stages, provides an easy-to-use Python interface.
+- [Multi Model Server](https://github.com/awslabs/multi-model-server) ![](https://img.shields.io/github/stars/awslabs/multi-model-server.svg?style=social) - Multi Model Server is a tool for serving neural net models for inference.
+- [Service Streamer](https://github.com/ShannonAI/service-streamer) ![](https://img.shields.io/github/stars/ShannonAI/service-streamer.svg?style=social) - Boosting your Web Services of Deep Learning Applications.
+- [TFServing](https://github.com/tensorflow/serving) ![](https://img.shields.io/github/stars/tensorflow/serving.svg?style=social) - A flexible, high-performance serving system for machine learning models.
+- [Triton Server (TRTIS)](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 
 ## Optimizations
 
+- [FeatherCNN](https://github.com/Tencent/FeatherCNN) ![](https://img.shields.io/github/stars/Tencent/FeatherCNN.svg?style=social) - FeatherCNN is a high performance inference engine for convolutional neural networks.
 - [Forward](https://github.com/Tencent/Forward) ![](https://img.shields.io/github/stars/Tencent/Forward.svg?style=social) - A library for high performance deep learning inference on NVIDIA GPUs.
+- [NCNN](https://github.com/Tencent/ncnn) ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=social) - ncnn is a high-performance neural network inference framework optimized for the mobile platform.
 - [PocketFlow](https://github.com/Tencent/PocketFlow) ![](https://img.shields.io/github/stars/Tencent/PocketFlow.svg?style=social) - use AutoML to do model compression.
+- [TNN](https://github.com/Tencent/TNN) ![](https://img.shields.io/github/stars/Tencent/TNN.svg?style=social) - A uniform deep learning inference framework for mobile, desktop and server.
 
 ## Observability
 

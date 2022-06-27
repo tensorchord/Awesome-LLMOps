@@ -39,6 +39,7 @@ Table of Contents
    * [Data Storage](#data-storage)
    * [Data Transformation](#data-transformation)
    * [Feature Engineering](#feature-engineering)
+   * [Data & Feature enrichment](#data--feature-enrichment)
 * [Performance](#performance)
    * [ML Compiler](#ml-compiler)
    * [Profiling](#profiling)
@@ -221,6 +222,10 @@ Table of Contents
 ## Feature Engineering
 
 - [FeatureTools](https://github.com/Featuretools/featuretools) ![](https://img.shields.io/github/stars/Featuretools/featuretools.svg?style=social) - An open source python framework for automated feature engineering
+
+## Data & Feature enrichment
+
+- [Upgini](https://github.com/upgini/upgini) ![](https://img.shields.io/github/stars/upgini/upgini.svg?style=social) - Free automated data & feature enrichment library for machine learning: automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features
 
 # Performance
 

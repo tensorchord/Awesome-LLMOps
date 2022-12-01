@@ -116,8 +116,11 @@ Table of Contents
 - [ForestFlow](https://github.com/ForestFlow/ForestFlow) ![](https://img.shields.io/github/stars/ForestFlow/ForestFlow.svg?style=social) - Policy-driven Machine Learning Model Server.
 - [MOSEC](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec?style=social) - A machine learning model serving framework with dynamic batching and pipelined stages, provides an easy-to-use Python interface.
 - [Multi Model Server](https://github.com/awslabs/multi-model-server) ![](https://img.shields.io/github/stars/awslabs/multi-model-server.svg?style=social) - Multi Model Server is a tool for serving neural net models for inference.
+- [Neuropod](https://github.com/uber/neuropod) ![](https://img.shields.io/github/stars/uber/neuropod.svg?style=social) - A uniform interface to run deep learning models from multiple frameworks
+- [Pinferencia](https://github.com/underneathall/pinferencia) ![](https://img.shields.io/github/stars/underneathall/pinferencia.svg?style=social) - Python + Inference - Model Deployment library in Python. Simplest model inference server ever.
 - [Service Streamer](https://github.com/ShannonAI/service-streamer) ![](https://img.shields.io/github/stars/ShannonAI/service-streamer.svg?style=social) - Boosting your Web Services of Deep Learning Applications.
 - [TFServing](https://github.com/tensorflow/serving) ![](https://img.shields.io/github/stars/tensorflow/serving.svg?style=social) - A flexible, high-performance serving system for machine learning models.
+- [Torchserve](https://github.com/pytorch/serve) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - Serve, optimize and scale PyTorch models in production
 - [Triton Server (TRTIS)](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 
 ## Optimizations
@@ -134,11 +137,13 @@ Table of Contents
 
 ## ML Platforms
 
-- [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearmlsvg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management.
+- [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management.
 - [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform for the machine learning lifecycle.
+- [Kserve](https://github.com/kserve/kserve) ![](https://img.shields.io/github/stars/kserve/kserve.svg?style=social) - Standardized Serverless ML Inference Platform on Kubernetes
 - [Kubeflow](https://github.com/kubeflow/kubeflow) ![](https://img.shields.io/github/stars/kubeflow/kubeflow.svg?style=social) - Machine Learning Toolkit for Kubernetes.
 - [PAI](https://github.com/microsoft/pai) ![](https://img.shields.io/github/stars/microsoft/pai.svg?style=social) - Resource scheduling and cluster management for AI.
 - [Polyaxon](https://github.com/polyaxon/polyaxon) ![](https://img.shields.io/github/stars/polyaxon/polyaxon.svg?style=social) - Machine Learning Management & Orchestration Platform.
+- [Seldon-core](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 
 ## Workflow
 

@@ -1,16 +1,13 @@
 **Awesome Open Source MLOps**
 
-[![Discord](https://img.shields.io/discord/974584200327991326?label=discord&style=social)](https://discord.gg/h6Z227ZsWR) [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<a href="https://discord.gg/KqswhpVgdU"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/KqswhpVgdU?style=flat"></a>
+<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a>
 
-An awesome & curated list of best open source MLOps tools for data scientists.
+An awesome & curated list of the best open-source MLOps tools for data scientists.
 
 **Contribute**
 
 Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
-
-**Community**
-
-You can join our [gitter](https://gitter.im/open-source-mlops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) channel to discuss.
 
 Table of Contents
 =================
@@ -53,6 +50,7 @@ Table of Contents
 - [code server](https://github.com/coder/code-server) ![](https://img.shields.io/github/stars/coder/code-server.svg?style=social) - Run VS Code on any machine anywhere and access it in the browser.
 - [conda](https://github.com/conda/conda) ![](https://img.shields.io/github/stars/conda/conda.svg?style=social) -  OS-agnostic, system-level binary package manager and ecosystem.
 - [Docker](https://github.com/moby/moby) ![](https://img.shields.io/github/stars/moby/moby.svg?style=social) - Moby is an open-source project created by Docker to enable and accelerate software containerization.
+- [envd](https://github.com/tensorchord/envd) ![](https://img.shields.io/github/stars/tensorchord/envd.svg?style=social) - 🏕️ Reproducible development environment for AI/ML.
 - [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - The Jupyter notebook is a web-based notebook environment for interactive computing.
 
 ## Frameworks for Training

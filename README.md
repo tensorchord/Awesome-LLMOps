@@ -22,7 +22,8 @@ Table of Contents
    * [Model Management](#model-management)
    * [Pretrained Model](#pretrained-model)
 * [Serving](#serving)
-   * [Frameworks for Serving](#frameworks-for-serving)
+   * [Frameworks/Servers for Serving](#frameworksservers-for-serving)
+   * [Large Model Serving](#large-model-serving)
    * [Optimizations](#optimizations)
    * [Observability](#observability)
 * [Large Scale Deployment](#large-scale-deployment)
@@ -36,7 +37,7 @@ Table of Contents
    * [Data Storage](#data-storage)
    * [Data Transformation](#data-transformation)
    * [Feature Engineering](#feature-engineering)
-   * [Data & Feature enrichment](#data--feature-enrichment)
+   * [Data/Feature enrichment](#datafeature-enrichment)
 * [Performance](#performance)
    * [ML Compiler](#ml-compiler)
    * [Profiling](#profiling)
@@ -122,6 +123,12 @@ Table of Contents
 - [TFServing](https://github.com/tensorflow/serving) ![](https://img.shields.io/github/stars/tensorflow/serving.svg?style=social) - A flexible, high-performance serving system for machine learning models.
 - [Torchserve](https://github.com/pytorch/serve) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - Serve, optimize and scale PyTorch models in production
 - [Triton Server (TRTIS)](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+
+## Large Model Serving
+
+- [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed-MII.svg?style=social) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+- [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) ![](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=social) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.
+
 
 ## Optimizations
 
@@ -226,9 +233,10 @@ Table of Contents
 
 ## Feature Engineering
 
+- [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [FeatureTools](https://github.com/Featuretools/featuretools) ![](https://img.shields.io/github/stars/Featuretools/featuretools.svg?style=social) - An open source python framework for automated feature engineering
 
-## Data & Feature enrichment
+## Data/Feature enrichment
 
 - [Upgini](https://github.com/upgini/upgini) ![](https://img.shields.io/github/stars/upgini/upgini.svg?style=social) - Free automated data & feature enrichment library for machine learning: automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features
 
@@ -236,6 +244,10 @@ Table of Contents
 
 ## ML Compiler
 
+- [TVM](https://github.com/apache/tvm) ![](https://img.shields.io/github/stars/apache/tvm.svg?style=social) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+
 ## Profiling
+
+- [scalene](https://github.com/plasma-umass/scalene) ![](https://img.shields.io/github/stars/plasma-umass/scalene.svg?style=social) - a high-performance, high-precision CPU, GPU, and memory profiler for Python
 
 **[⬆ back to top](#)**

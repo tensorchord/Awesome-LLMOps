@@ -67,6 +67,7 @@ Table of Contents
 - [Keras](https://github.com/keras-team/keras) ![](https://img.shields.io/github/stars/keras-team/keras.svg?style=social) - Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow.
 - [LightGBM](https://github.com/microsoft/LightGBM) ![](https://img.shields.io/github/stars/microsoft/LightGBM.svg?style=social) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - [MegEngine](https://github.com/MegEngine/MegEngine) ![](https://img.shields.io/github/stars/MegEngine/MegEngine.svg?style=social) - MegEngine is a fast, scalable and easy-to-use deep learning framework, with auto-differentiation.
+- [metric-learn](https://github.com/scikit-learn-contrib/metric-learn) ![](https://img.shields.io/github/stars/scikit-learn-contrib/metric-learn.svg?style=social) - Metric Learning Algorithms in Python.
 - [MindSpore](https://github.com/mindspore-ai/mindspore) ![](https://img.shields.io/github/stars/mindspore-ai/mindspore.svg?style=social) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [MXNet](https://github.com/apache/incubator-mxnet) ![](https://img.shields.io/github/stars/apache/incubator-mxnet.svg?style=social) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler.
 - [Oneflow](https://github.com/Oneflow-Inc/oneflow) ![](https://img.shields.io/github/stars/Oneflow-Inc/oneflow.svg?style=social) - OneFlow is a performance-centered and open-source deep learning framework.
@@ -74,6 +75,7 @@ Table of Contents
 - [PyTorch](https://github.com/pytorch/pytorch) ![](https://img.shields.io/github/stars/pytorch/pytorch.svg?style=social) -  Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [PyTorchLightning](https://github.com/PyTorchLightning/pytorch-lightning) ![](https://img.shields.io/github/stars/PyTorchLightning/pytorch-lightning.svg?style=social) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [XGBoost](https://github.com/dmlc/xgboost) ![](https://img.shields.io/github/stars/dmlc/xgboost.svg?style=social) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) ![](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg?style=social) - Machine Learning in Python.
 - [TensorFlow](https://github.com/tensorflow/tensorflow) ![](https://img.shields.io/github/stars/tensorflow/tensorflow.svg?style=social) - An Open Source Machine Learning Framework for Everyone.
 - [VectorFlow](https://github.com/Netflix/vectorflow) ![](https://img.shields.io/github/stars/Netflix/vectorflow.svg?style=social) - A minimalist neural network library optimized for sparse data and single machine environments.
 
@@ -110,6 +112,7 @@ Table of Contents
 - [HuggingFace](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleNLP.svg?style=social) - Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.
 - [PyTorch Image Models](https://github.com/rwightman/pytorch-image-models) ![](https://img.shields.io/github/stars/rwightman/pytorch-image-models.svg?style=social) - PyTorch image models, scripts, pretrained weights.
+- [TensorFlow Hub](https://github.com/tensorflow/hub) ![](https://img.shields.io/github/stars/tensorflow/hub.svg?style=social) - A library for transfer learning by reusing parts of TensorFlow models.
 
 # Serving
 
@@ -137,6 +140,7 @@ Table of Contents
 - [Forward](https://github.com/Tencent/Forward) ![](https://img.shields.io/github/stars/Tencent/Forward.svg?style=social) - A library for high performance deep learning inference on NVIDIA GPUs.
 - [NCNN](https://github.com/Tencent/ncnn) ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=social) - ncnn is a high-performance neural network inference framework optimized for the mobile platform.
 - [PocketFlow](https://github.com/Tencent/PocketFlow) ![](https://img.shields.io/github/stars/Tencent/PocketFlow.svg?style=social) - use AutoML to do model compression.
+- [TensorFlow Model Optimization](https://github.com/tensorflow/model-optimization) ![](https://img.shields.io/github/stars/tensorflow/model-optimization.svg?style=social) - A suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution.
 - [TNN](https://github.com/Tencent/TNN) ![](https://img.shields.io/github/stars/Tencent/TNN.svg?style=social) - A uniform deep learning inference framework for mobile, desktop and server.
 
 ## Observability
@@ -266,6 +270,7 @@ Table of Contents
 
 ## ML Compiler
 
+- [ONNX-MLIR](https://github.com/onnx/onnx-mlir) ![](https://img.shields.io/github/stars/onnx/onnx-mlir.svg?style=social) - Compiler technology to transform a valid Open Neural Network Exchange (ONNX) graph into code that implements the graph with minimum runtime support.
 - [TVM](https://github.com/apache/tvm) ![](https://img.shields.io/github/stars/apache/tvm.svg?style=social) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 
 ## Profiling

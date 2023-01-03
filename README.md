@@ -281,6 +281,9 @@ Table of Contents
 # Awesome Lists
 
 - [Awesome Argo](https://github.com/terrytangyuan/awesome-argo) ![](https://img.shields.io/github/stars/terrytangyuan/awesome-argo.svg?style=social) - A curated list of awesome projects and resources related to Argo
+- [Awesome AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) - Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)
+- [Awesome AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources
+- [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) ![](https://img.shields.io/github/stars/kelvins/awesome-mlops.svg?style=social) - A curated list of awesome MLOps tools.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social) - An awesome list of references for MLOps - Machine Learning Operations
 - [Awesome Open MLOps](https://github.com/fuzzylabs/awesome-open-mlops) ![](https://img.shields.io/github/stars/fuzzylabs/awesome-open-mlops.svg?style=social) - This is the Fuzzy Labs guide to the universe of free and open source MLOps tools.

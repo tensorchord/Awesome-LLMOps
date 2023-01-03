@@ -43,6 +43,7 @@ Table of Contents
 * [Performance](#performance)
    * [ML Compiler](#ml-compiler)
    * [Profiling](#profiling)
+* [Awesome Lists](#awesome-lists)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
@@ -276,5 +277,14 @@ Table of Contents
 ## Profiling
 
 - [scalene](https://github.com/plasma-umass/scalene) ![](https://img.shields.io/github/stars/plasma-umass/scalene.svg?style=social) - a high-performance, high-precision CPU, GPU, and memory profiler for Python
+
+# Awesome Lists
+
+- [Awesome Argo](https://github.com/terrytangyuan/awesome-argo) ![](https://img.shields.io/github/stars/terrytangyuan/awesome-argo.svg?style=social) - A curated list of awesome projects and resources related to Argo
+- [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) ![](https://img.shields.io/github/stars/kelvins/awesome-mlops.svg?style=social) - A curated list of awesome MLOps tools.
+- [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social) - An awesome list of references for MLOps - Machine Learning Operations
+- [Awesome Open MLOps](https://github.com/fuzzylabs/awesome-open-mlops) ![](https://img.shields.io/github/stars/fuzzylabs/awesome-open-mlops.svg?style=social) - This is the Fuzzy Labs guide to the universe of free and open source MLOps tools.
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+- [Awesome Tensor Compilers](https://github.com/merrymercy/awesome-tensor-compilers) ![](https://img.shields.io/github/stars/merrymercy/awesome-tensor-compilers.svg?style=social) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 
 **[⬆ back to top](#)**

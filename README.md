@@ -160,6 +160,7 @@ Table of Contents
 
 - [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management.
 - [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform for the machine learning lifecycle.
+- [ModelFox](https://github.com/modelfoxdotdev/modelfox) ![](https://img.shields.io/github/stars/modelfoxdotdev/modelfox.svg?style=social) - ModelFox is a platform for managing and deploying machine learning models.
 - [Kserve](https://github.com/kserve/kserve) ![](https://img.shields.io/github/stars/kserve/kserve.svg?style=social) - Standardized Serverless ML Inference Platform on Kubernetes
 - [Kubeflow](https://github.com/kubeflow/kubeflow) ![](https://img.shields.io/github/stars/kubeflow/kubeflow.svg?style=social) - Machine Learning Toolkit for Kubernetes.
 - [PAI](https://github.com/microsoft/pai) ![](https://img.shields.io/github/stars/microsoft/pai.svg?style=social) - Resource scheduling and cluster management for AI.

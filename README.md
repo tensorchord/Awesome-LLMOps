@@ -30,6 +30,7 @@ Table of Contents
    * [ML Platforms](#ml-platforms)
    * [Workflow](#workflow)
    * [Scheduling](#scheduling)
+* [LLMOps](#llmops)
 * [AutoML](#automl)
 * [Search](#search)
    * [Vector search](#vector-search)
@@ -181,6 +182,10 @@ Table of Contents
 - [Slurm](https://github.com/SchedMD/slurm) ![](https://img.shields.io/github/stars/SchedMD/slurm.svg?style=social) - A Highly Scalable Workload Manager.
 - [Volcano](https://github.com/volcano-sh/volcano) ![](https://img.shields.io/github/stars/volcano-sh/volcano.svg?style=social) - A Cloud Native Batch System (Project under CNCF).
 - [Yunikorn](https://github.com/apache/yunikorn-core) ![](https://img.shields.io/github/stars/apache/yunikorn-core.svg?style=social) - Light-weight, universal resource scheduler for container orchestrator systems.
+
+# LLMOps
+
+- [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability
 
 # AutoML
 

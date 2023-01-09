@@ -170,6 +170,7 @@ Table of Contents
 
 ## Workflow
 
+- [Airflow](https://airflow.apache.org/) ![](https://img.shields.io/github/stars/apache/airflow?style=social) - A platform to programmatically author, schedule and monitor workflows.
 - [aqueduct](https://github.com/aqueducthq/aqueduct) ![](https://img.shields.io/github/stars/aqueducthq/aqueduct.svg?style=social) - An Open-Source Platform for Production Data Science
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) ![](https://img.shields.io/github/stars/argoproj/argo-workflows.svg?style=social) - Workflow engine for Kubernetes.
 - [Flyte](https://github.com/flyteorg/flyte) ![](https://img.shields.io/github/stars/flyteorg/flyte.svg?style=social) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale.

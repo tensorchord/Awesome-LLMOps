@@ -255,6 +255,7 @@ Table of Contents
 - [FATE](https://github.com/FederatedAI/FATE) ![](https://img.shields.io/github/stars/FederatedAI/FATE.svg?style=social) - An Industrial Grade Federated Learning Framework
 - [FedML](https://github.com/FedML-AI/FedML) ![](https://img.shields.io/github/stars/FedML-AI/FedML.svg?style=social) - The federated learning and analytics library enabling secure and collaborative machine learning on decentralized data anywhere at any scale. Supporting large-scale cross-silo federated learning, cross-device federated learning on smartphones/IoTs, and research simulation.
 - [Flower](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower.svg?style=social) - A Friendly Federated Learning Framework
+- [Harmonia](https://github.com/ailabstw/harmonia) ![](https://img.shields.io/github/stars/ailabstw/harmonia.svg?style=social) - Harmonia is an open-source project aiming at developing systems/infrastructures and libraries to ease the adoption of federated learning (abbreviated to FL) for researches and production usage.
 - [TensorFlow Federated](https://github.com/tensorflow/federated) ![](https://img.shields.io/github/stars/tensorflow/federated.svg?style=social) - A framework for implementing federated learning
 
 # Data

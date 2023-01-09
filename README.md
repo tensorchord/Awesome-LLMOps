@@ -177,6 +177,7 @@ Table of Contents
 - [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) ![](https://img.shields.io/github/stars/kubeflow/pipelines.svg?style=social) - Machine Learning Pipelines for Kubeflow.
 - [Metaflow](https://github.com/Netflix/metaflow) ![](https://img.shields.io/github/stars/Netflix/metaflow.svg?style=social) - Build and manage real-life data science projects with ease!
 - [Ploomber](https://github.com/ploomber/ploomber) ![](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social) - The fastest way to build data pipelines. Develop iteratively, deploy anywhere.
+- [Prefect](https://github.com/PrefectHQ/prefect) ![](https://img.shields.io/github/stars/PrefectHQ/prefect.svg?style=social) - The easiest way to automate your data.
 - [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - MLOps framework to create reproducible pipelines.
 
 ## Scheduling

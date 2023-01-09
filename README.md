@@ -123,6 +123,7 @@ Table of Contents
 ## Frameworks/Servers for Serving
 
 - [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/BentoML.svg?style=social) - The Unified Model Serving Framework
+- [Cortex](https://www.cortex.dev/) ![](https://img.shields.io/github/stars/cortexlabs/cortex?style=social) - Open source platform for deploying machine learning models in production.
 - [ForestFlow](https://github.com/ForestFlow/ForestFlow) ![](https://img.shields.io/github/stars/ForestFlow/ForestFlow.svg?style=social) - Policy-driven Machine Learning Model Server.
 - [MOSEC](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec?style=social) - A machine learning model serving framework with dynamic batching and pipelined stages, provides an easy-to-use Python interface.
 - [Multi Model Server](https://github.com/awslabs/multi-model-server) ![](https://img.shields.io/github/stars/awslabs/multi-model-server.svg?style=social) - Multi Model Server is a tool for serving neural net models for inference.

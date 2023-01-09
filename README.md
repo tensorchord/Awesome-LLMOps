@@ -259,7 +259,7 @@ Table of Contents
 # Data
 
 ## Data Management
-
+- [ArtiVC](https://github.com/InfuseAI/ArtiVC) ![](https://img.shields.io/github/stars/InfuseAI/ArtiVC.svg?style=social) - A version control system to manage large files.
 - [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Git for Data.
 - [DVC](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - Data Version Control | Git for Data & Models | ML Experiments Management.
 - [Hub](https://github.com/activeloopai/Hub) ![](https://img.shields.io/github/stars/activeloopai/Hub.svg?style=social) - Hub is a dataset format with a simple API for creating, storing, and collaborating on AI datasets of any size.

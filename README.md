@@ -12,30 +12,30 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 Table of Contents
 =================
 
-- [Table of Contents](#table-of-contents)
-- [Training](#training)
+- [Table of Contents](#table-of-contents) ![](https://img.shields.io/github/stars/.svg?style=social) 
+- [Training](#training) ![](https://img.shields.io/github/stars/.svg?style=social) 
   - [IDEs and Workspaces](#ides-and-workspaces)
   - [Frameworks for Training](#frameworks-for-training)
   - [Experiment Tracking](#experiment-tracking)
   - [Visualization](#visualization)
-- [Model](#model)
+- [Model](#model) ![](https://img.shields.io/github/stars/.svg?style=social) 
   - [Model Management](#model-management)
   - [Pretrained Model](#pretrained-model)
-- [Serving](#serving)
+- [Serving](#serving) ![](https://img.shields.io/github/stars/.svg?style=social) 
   - [Frameworks/Servers for Serving](#frameworksservers-for-serving)
   - [Large Model Serving](#large-model-serving)
   - [Optimizations](#optimizations)
   - [Observability](#observability)
-- [Large Scale Deployment](#large-scale-deployment)
+- [Large Scale Deployment](#large-scale-deployment) ![](https://img.shields.io/github/stars/ment.svg?style=social) 
   - [ML Platforms](#ml-platforms)
   - [Workflow](#workflow)
   - [Scheduling](#scheduling)
-- [LLMOps](#llmops)
-- [AutoML](#automl)
-- [Search](#search)
+- [LLMOps](#llmops) ![](https://img.shields.io/github/stars/.svg?style=social) 
+- [AutoML](#automl) ![](https://img.shields.io/github/stars/.svg?style=social) 
+- [Search](#search) ![](https://img.shields.io/github/stars/.svg?style=social) 
   - [Vector search](#vector-search)
-- [Federated ML](#federated-ml)
-- [Data](#data)
+- [Federated ML](#federated-ml) ![](https://img.shields.io/github/stars/.svg?style=social) 
+- [Data](#data) ![](https://img.shields.io/github/stars/.svg?style=social) 
   - [Data Management](#data-management)
   - [Data Ingestion](#data-ingestion)
   - [Data Storage](#data-storage)
@@ -43,10 +43,10 @@ Table of Contents
   - [Data Tracking](#data-tracking)
   - [Feature Engineering](#feature-engineering)
   - [Data/Feature enrichment](#datafeature-enrichment)
-- [Performance](#performance)
+- [Performance](#performance) ![](https://img.shields.io/github/stars/.svg?style=social) 
   - [ML Compiler](#ml-compiler)
   - [Profiling](#profiling)
-- [Awesome Lists](#awesome-lists)
+- [Awesome Lists](#awesome-lists) ![](https://img.shields.io/github/stars/.svg?style=social) 
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
@@ -276,6 +276,7 @@ Table of Contents
 
 ## Data Storage
 
+- [JuiceFS](https://github.com/juicedata/juicefs) ![](https://img.shields.io/github/stars/juicedata/juicefs.svg?style=social) -  A distributed POSIX file system built on top of Redis and S3.
 - [LakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Git-like capabilities for your object storage.
 
 ## Data Transformation

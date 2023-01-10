@@ -276,6 +276,7 @@ Table of Contents
 
 ## Data Storage
 
+- [JuiceFS](https://github.com/juicedata/juicefs) ![](https://img.shields.io/github/stars/juicedata/juicefs.svg?style=social) -  A distributed POSIX file system built on top of Redis and S3.
 - [LakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Git-like capabilities for your object storage.
 
 ## Data Transformation

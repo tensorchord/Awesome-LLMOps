@@ -179,6 +179,7 @@ Table of Contents
 - [Metaflow](https://github.com/Netflix/metaflow) ![](https://img.shields.io/github/stars/Netflix/metaflow.svg?style=social) - Build and manage real-life data science projects with ease!
 - [Ploomber](https://github.com/ploomber/ploomber) ![](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social) - The fastest way to build data pipelines. Develop iteratively, deploy anywhere.
 - [Prefect](https://github.com/PrefectHQ/prefect) ![](https://img.shields.io/github/stars/PrefectHQ/prefect.svg?style=social) - The easiest way to automate your data.
+- [VDP](https://github.com/instill-ai/vdp) ![](https://img.shields.io/github/stars/instill-ai/vdp.svg?style=social) - An open-source unstructured data ETL tool to streamline the end-to-end unstructured data processing pipeline.
 - [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - MLOps framework to create reproducible pipelines.
 
 ## Scheduling

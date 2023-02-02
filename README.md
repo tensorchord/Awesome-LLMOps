@@ -285,6 +285,7 @@ Table of Contents
 ## Data Tracking
 
 - [Piperider](https://github.com/InfuseAI/piperider) ![](https://img.shields.io/github/stars/InfuseAI/piperider.svg?style=social) - A CLI tool that allows you to build data profiles and write assertion tests for easily evaluating and tracking your data's reliability over time.
+- [LUX](https://github.com/lux-org/lux) ![](https://img.shields.io/github/stars/lux-org/lux.svg?style=social) - A Python library that facilitates fast and easy data exploration by automating the visualization and data analysis process.
 
 ## Feature Engineering
 

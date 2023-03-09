@@ -109,6 +109,7 @@ Table of Contents
 
 - [dvc](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - Data Version Control | Git for Data & Models | ML Experiments Management
 - [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - Open Source ML Model Versioning, Metadata, and Experiment Management
+- [MLEM](https://github.com/iterative/mlem) ![](https://img.shields.io/github/stars/iterative/mlem.svg?style=social) - A tool to package, serve, and deploy any ML model on any platform.
 - [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts
 
 ## Pretrained Model

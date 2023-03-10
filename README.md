@@ -109,6 +109,7 @@ Table of Contents
 
 - [dvc](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - Data Version Control | Git for Data & Models | ML Experiments Management
 - [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - Open Source ML Model Versioning, Metadata, and Experiment Management
+- [MLEM](https://github.com/iterative/mlem) ![](https://img.shields.io/github/stars/iterative/mlem.svg?style=social) - A tool to package, serve, and deploy any ML model on any platform.
 - [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts
 
 ## Pretrained Model
@@ -161,6 +162,7 @@ Table of Contents
 
 - [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management.
 - [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform for the machine learning lifecycle.
+- [MLRun](https://github.com/mlrun/mlrun) ![](https://img.shields.io/github/stars/mlrun/mlrun.svg?style=social) - An open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 - [ModelFox](https://github.com/modelfoxdotdev/modelfox) ![](https://img.shields.io/github/stars/modelfoxdotdev/modelfox.svg?style=social) - ModelFox is a platform for managing and deploying machine learning models.
 - [Kserve](https://github.com/kserve/kserve) ![](https://img.shields.io/github/stars/kserve/kserve.svg?style=social) - Standardized Serverless ML Inference Platform on Kubernetes
 - [Kubeflow](https://github.com/kubeflow/kubeflow) ![](https://img.shields.io/github/stars/kubeflow/kubeflow.svg?style=social) - Machine Learning Toolkit for Kubernetes.
@@ -231,6 +233,7 @@ Table of Contents
 - [NASGym](https://github.com/gomerudo/nas-env) ![](https://img.shields.io/github/stars/gomerudo/nas-env.svg?style=social) - a proof-of-concept OpenAI Gym environment for Neural Architecture Search (NAS).
 - [NNI](https://github.com/Microsoft/nni) ![](https://img.shields.io/github/stars/Microsoft/nni.svg?style=social) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [Optuna](https://github.com/optuna/optuna) ![](https://img.shields.io/github/stars/optuna/optuna.svg?style=social) - A hyperparameter optimization framework.
+- [Pycaret](https://github.com/pycaret/pycaret) ![](https://img.shields.io/github/stars/pycaret/pycaret.svg?style=social) - An open-source, low-code machine learning library in Python that automates machine learning workflows.
 - [Ray Tune](github.com/ray-project/ray) ![](https://img.shields.io/github/stars/ect/ray.svg?style=social) - Scalable Hyperparameter Tuning.
 - [REMBO](https://github.com/ziyuw/rembo) ![](https://img.shields.io/github/stars/ziyuw/rembo.svg?style=social) - Bayesian optimization in high-dimensions via random embedding.
 - [RoBO](https://github.com/automl/RoBO) ![](https://img.shields.io/github/stars/automl/RoBO.svg?style=social) - a Robust Bayesian Optimization framework.
@@ -295,6 +298,7 @@ Table of Contents
 ## Data/Feature enrichment
 
 - [Upgini](https://github.com/upgini/upgini) ![](https://img.shields.io/github/stars/upgini/upgini.svg?style=social) - Free automated data & feature enrichment library for machine learning: automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features
+- [Feast](https://github.com/feast-dev/feast) ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - An open source feature store for machine learning.
 
 # Performance
 

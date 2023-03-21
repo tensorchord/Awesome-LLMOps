@@ -194,6 +194,7 @@ Table of Contents
 
 # LLMOps
 
+- [Deep Lake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/Hub.svg?style=social) - Stream large multimodal datasets to achieve near 100% GPU utilization. Query, visualize, & version control data. Access data w/o the need to recompute the embeddings for the model finetuning.
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability
 
 # AutoML
@@ -269,10 +270,10 @@ Table of Contents
 
 ## Data Management
 - [ArtiVC](https://github.com/InfuseAI/ArtiVC) ![](https://img.shields.io/github/stars/InfuseAI/ArtiVC.svg?style=social) - A version control system to manage large files.
+Lake is a dataset format with a simple API for creating, storing, and collaborating on AI datasets of any size.
 - [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Git for Data.
 - [DVC](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - Data Version Control | Git for Data & Models | ML Experiments Management.
 - [Delta-Lake](https://github.com/delta-io/delta) ![](https://img.shields.io/github/stars/delta-io/delta.svg?style=social) - Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.
-- [Hub](https://github.com/activeloopai/Hub) ![](https://img.shields.io/github/stars/activeloopai/Hub.svg?style=social) - Hub is a dataset format with a simple API for creating, storing, and collaborating on AI datasets of any size.
 - [Pachyderm](https://github.com/pachyderm/pachyderm) ![](https://img.shields.io/github/stars/pachyderm/pachyderm.svg?style=social) - Pachyderm is a version control system for data.
 - [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - A self-organizing data hub for S3.
 

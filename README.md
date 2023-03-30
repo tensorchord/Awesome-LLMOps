@@ -283,6 +283,7 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 
 - [JuiceFS](https://github.com/juicedata/juicefs) ![](https://img.shields.io/github/stars/juicedata/juicefs.svg?style=social) -  A distributed POSIX file system built on top of Redis and S3.
 - [LakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Git-like capabilities for your object storage.
+- [Lance](https://github.com/eto-ai/lance) ![](https://img.shields.io/github/stars/eto-ai/lance.svg?style=social) - Modern columnar data format for ML implemented in Rust.
 
 ## Data Transformation
 
@@ -324,5 +325,6 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Awesome Tensor Compilers](https://github.com/merrymercy/awesome-tensor-compilers) ![](https://img.shields.io/github/stars/merrymercy/awesome-tensor-compilers.svg?style=social) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) ![](https://img.shields.io/github/stars/kelvins/awesome-mlops.svg?style=social) - A curated list of awesome MLOps tools.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social) - An awesome list of references for MLOps - Machine Learning Operations
+- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) ![](https://img.shields.io/github/stars/currentslab/awesome-vector-search.svg?style=social) - A curated list of awesome vector search framework/engine, library, cloud service and research papers to vector similarity search.
 
 **[⬆ back to top](#)**

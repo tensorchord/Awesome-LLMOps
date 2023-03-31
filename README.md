@@ -3,7 +3,7 @@
 <a href="https://discord.gg/KqswhpVgdU"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/KqswhpVgdU?style=flat"></a>
 <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a>
 
-An awesome & curated list of the best open-source MLOps tools for data scientists.
+An awesome & curated list of the best open-source LLMOps tools for data scientists.
 
 **Contribute**
 
@@ -12,41 +12,43 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 Table of Contents
 =================
 
-- [Table of Contents](#table-of-contents)
-- [Training](#training)
-  - [IDEs and Workspaces](#ides-and-workspaces)
-  - [Frameworks for Training](#frameworks-for-training)
-  - [Experiment Tracking](#experiment-tracking)
-  - [Visualization](#visualization)
-- [Model](#model)
-  - [Model Management](#model-management)
-  - [Pretrained Model](#pretrained-model)
-- [Serving](#serving)
-  - [Frameworks/Servers for Serving](#frameworksservers-for-serving)
-  - [Large Model Serving](#large-model-serving)
-  - [Optimizations](#optimizations)
-  - [Observability](#observability)
-- [Large Scale Deployment](#large-scale-deployment)
-  - [ML Platforms](#ml-platforms)
-  - [Workflow](#workflow)
-  - [Scheduling](#scheduling)
-- [LLMOps](#llmops)
-- [AutoML](#automl)
-- [Search](#search)
-  - [Vector search](#vector-search)
-- [Federated ML](#federated-ml)
-- [Data](#data)
-  - [Data Management](#data-management)
-  - [Data Ingestion](#data-ingestion)
-  - [Data Storage](#data-storage)
-  - [Data Transformation](#data-transformation)
-  - [Data Tracking](#data-tracking)
-  - [Feature Engineering](#feature-engineering)
-  - [Data/Feature enrichment](#datafeature-enrichment)
-- [Performance](#performance)
-  - [ML Compiler](#ml-compiler)
-  - [Profiling](#profiling)
-- [Awesome Lists](#awesome-lists)
+* [Table of Contents](#table-of-contents)
+* [Training](#training)
+   * [IDEs and Workspaces](#ides-and-workspaces)
+   * [Foundation Model Fine Tuning](#foundation-model-fine-tuning)
+   * [Frameworks for Training](#frameworks-for-training)
+   * [Experiment Tracking](#experiment-tracking)
+   * [Visualization](#visualization)
+* [Model](#model)
+   * [Model Management](#model-management)
+   * [Large Language Model](#large-language-model)
+   * [CV Foundation Model](#cv-foundation-model)
+* [Serving](#serving)
+   * [Frameworks/Servers for Serving](#frameworksservers-for-serving)
+   * [Large Model Serving](#large-model-serving)
+   * [Optimizations](#optimizations)
+   * [Observability](#observability)
+* [Large Scale Deployment](#large-scale-deployment)
+   * [ML Platforms](#ml-platforms)
+   * [Workflow](#workflow)
+   * [Scheduling](#scheduling)
+* [LLMOps](#llmops)
+* [AutoML](#automl)
+* [Search](#search)
+   * [Vector search](#vector-search)
+* [Federated ML](#federated-ml)
+* [Data](#data)
+   * [Data Management](#data-management)
+   * [Data Ingestion](#data-ingestion)
+   * [Data Storage](#data-storage)
+   * [Data Transformation](#data-transformation)
+   * [Data Tracking](#data-tracking)
+   * [Feature Engineering](#feature-engineering)
+   * [Data/Feature enrichment](#datafeature-enrichment)
+* [Performance](#performance)
+   * [ML Compiler](#ml-compiler)
+   * [Profiling](#profiling)
+* [Awesome Lists](#awesome-lists)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
@@ -59,6 +61,13 @@ Table of Contents
 - [Docker](https://github.com/moby/moby) ![](https://img.shields.io/github/stars/moby/moby.svg?style=social) - Moby is an open-source project created by Docker to enable and accelerate software containerization.
 - [envd](https://github.com/tensorchord/envd) ![](https://img.shields.io/github/stars/tensorchord/envd.svg?style=social) - 🏕️ Reproducible development environment for AI/ML.
 - [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - The Jupyter notebook is a web-based notebook environment for interactive computing.
+
+## Foundation Model Fine Tuning
+
+- [alpaca-lora](https://github.com/tloen/alpaca-lora) ![](https://img.shields.io/github/stars/tloen/alpaca-lora.svg?style=social) - Instruct-tune LLaMA on consumer hardware
+- [LMFlow](https://github.com/OptimalScale/LMFlow) ![](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg?style=social) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models
+- [Lora](https://github.com/cloneofsimo/lora) ![](https://img.shields.io/github/stars/cloneofsimo/lora.svg?style=social) - Using Low-rank adaptation to quickly fine-tune diffusion models.
+- [peft](https://github.com/huggingface/peft) ![](https://img.shields.io/github/stars/huggingface/peft.svg?style=social) - State-of-the-art Parameter-Efficient Fine-Tuning.
 
 ## Frameworks for Training
 
@@ -112,12 +121,17 @@ Table of Contents
 - [MLEM](https://github.com/iterative/mlem) ![](https://img.shields.io/github/stars/iterative/mlem.svg?style=social) - A tool to package, serve, and deploy any ML model on any platform.
 - [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts
 
-## Pretrained Model
+## Large Language Model
 
-- [HuggingFace](https://github.com/huggingface/transformers) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleNLP.svg?style=social) - Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.
-- [PyTorch Image Models](https://github.com/rwightman/pytorch-image-models) ![](https://img.shields.io/github/stars/rwightman/pytorch-image-models.svg?style=social) - PyTorch image models, scripts, pretrained weights.
-- [TensorFlow Hub](https://github.com/tensorflow/hub) ![](https://img.shields.io/github/stars/tensorflow/hub.svg?style=social) - A library for transfer learning by reusing parts of TensorFlow models.
+- [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg?style=social) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [Bloom](https://github.com/bigscience-workshop/model_card) ![](https://img.shields.io/github/stars/bigscience-workshop/model_card.svg?style=social) - BigScience Large Open-science Open-access Multilingual Language Model
+- [GLM-130B (ChatGLM)](https://github.com/THUDM/GLM-130B) ![](https://img.shields.io/github/stars/THUDM/GLM-130B.svg?style=social) - An Open Bilingual Pre-Trained Model (ICLR 2023)
+- [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+
+## CV Foundation Model
+
+- [stable-diffusion](https://github.com/CompVis/stable-diffusion) ![](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social) - A latent text-to-image diffusion model
+- [stable-diffusion v2](https://github.com/Stability-AI/stablediffusion) ![](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg?style=social) - High-Resolution Image Synthesis with Latent Diffusion Models
 
 # Serving
 
@@ -126,7 +140,6 @@ Table of Contents
 - [BentoML](https://github.com/bentoml/BentoML) ![](https://img.shields.io/github/stars/bentoml/BentoML.svg?style=social) - The Unified Model Serving Framework
 - [Cortex](https://www.cortex.dev/) ![](https://img.shields.io/github/stars/cortexlabs/cortex?style=social) - Open source platform for deploying machine learning models in production.
 - [ForestFlow](https://github.com/ForestFlow/ForestFlow) ![](https://img.shields.io/github/stars/ForestFlow/ForestFlow.svg?style=social) - Policy-driven Machine Learning Model Server.
-- [MOSEC](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec?style=social) - A machine learning model serving framework with dynamic batching and pipelined stages, provides an easy-to-use Python interface.
 - [Multi Model Server](https://github.com/awslabs/multi-model-server) ![](https://img.shields.io/github/stars/awslabs/multi-model-server.svg?style=social) - Multi Model Server is a tool for serving neural net models for inference.
 - [Neuropod](https://github.com/uber/neuropod) ![](https://img.shields.io/github/stars/uber/neuropod.svg?style=social) - A uniform interface to run deep learning models from multiple frameworks
 - [Pinferencia](https://github.com/underneathall/pinferencia) ![](https://img.shields.io/github/stars/underneathall/pinferencia.svg?style=social) - Python + Inference - Model Deployment library in Python. Simplest model inference server ever.
@@ -137,7 +150,12 @@ Table of Contents
 
 ## Large Model Serving
 
+- [Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve) ![](https://img.shields.io/github/stars/deep-diver/Alpaca-LoRA-Serve.svg?style=social) - Alpaca-LoRA as Chatbot service
 - [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed-MII.svg?style=social) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+- [FlexGen](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social) - Running large language models on a single GPU for throughput-oriented scenarios.
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) ![](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social) - Port of Facebook's LLaMA model in C/C++
+- [MOSEC](https://github.com/mosecorg/mosec) ![](https://img.shields.io/github/stars/mosecorg/mosec?style=social) - A machine learning model serving framework with dynamic batching and pipelined stages, provides an easy-to-use Python interface.
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=social) - Port of OpenAI's Whisper model in C/C++
 - [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) ![](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=social) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.
 
 ## Optimizations

@@ -132,7 +132,7 @@ Table of Contents
 
 ## CV Foundation Model
 
-- [disco-diffusion](https://github.com/alembics/disco-diffusion) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
+- [disco-diffusion](https://github.com/alembics/disco-diffusion) ![](https://img.shields.io/github/stars/alembics/disco-diffusion.svg?style=social) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 - [stable-diffusion](https://github.com/CompVis/stable-diffusion) ![](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social) - A latent text-to-image diffusion model
 - [stable-diffusion v2](https://github.com/Stability-AI/stablediffusion) ![](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg?style=social) - High-Resolution Image Synthesis with Latent Diffusion Models
 
@@ -191,7 +191,7 @@ Table of Contents
 
 - [deeplake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/Hub.svg?style=social) - Stream large multimodal datasets to achieve near 100% GPU utilization. Query, visualize, & version control data. Access data w/o the need to recompute the embeddings for the model finetuning.
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability
-- [LlamaIndex (
+- [LlamaIndex ( ![](https://img.shields.io/github/stars/.svg?style=social) 
 Index)](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) - Provides a central interface to connect your LLMs with external data.
 
 **[⬆ back to ToC](#table-of-contents)**
@@ -307,7 +307,7 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 
 ## Profiling
 
-- [octoml-profile](https://github.com/octoml/octoml-profile) - octoml-profile is a python library and cloud service designed to provide the simplest experience for assessing and optimizing the performance of PyTorch models on cloud hardware with state-of-the-art ML acceleration technology.
+- [octoml-profile](https://github.com/octoml/octoml-profile) ![](https://img.shields.io/github/stars/octoml/octoml-profile.svg?style=social) - octoml-profile is a python library and cloud service designed to provide the simplest experience for assessing and optimizing the performance of PyTorch models on cloud hardware with state-of-the-art ML acceleration technology.
 - [scalene](https://github.com/plasma-umass/scalene) ![](https://img.shields.io/github/stars/plasma-umass/scalene.svg?style=social) - a high-performance, high-precision CPU, GPU, and memory profiler for Python
 
 **[⬆ back to ToC](#table-of-contents)**

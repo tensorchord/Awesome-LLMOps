@@ -33,9 +33,7 @@ Table of Contents
    * [Vector search](#vector-search)
 * [Data](#data)
    * [Data Management](#data-management)
-   * [Data Ingestion](#data-ingestion)
    * [Data Storage](#data-storage)
-   * [Data Transformation](#data-transformation)
    * [Data Tracking](#data-tracking)
    * [Feature Engineering](#feature-engineering)
    * [Data/Feature enrichment](#datafeature-enrichment)
@@ -121,6 +119,8 @@ Table of Contents
 - [MLEM](https://github.com/iterative/mlem) ![](https://img.shields.io/github/stars/iterative/mlem.svg?style=social) - A tool to package, serve, and deploy any ML model on any platform.
 - [ormb](https://github.com/kleveross/ormb) ![](https://img.shields.io/github/stars/kleveross/ormb.svg?style=social) - Docker for Your ML/DL Models Based on OCI Artifacts
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Large Language Model
 
 - [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg?style=social) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -128,11 +128,15 @@ Table of Contents
 - [GLM-130B (ChatGLM)](https://github.com/THUDM/GLM-130B) ![](https://img.shields.io/github/stars/THUDM/GLM-130B.svg?style=social) - An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## CV Foundation Model
 
 - [disco-diffusion](https://github.com/alembics/disco-diffusion) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 - [stable-diffusion](https://github.com/CompVis/stable-diffusion) ![](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social) - A latent text-to-image diffusion model
 - [stable-diffusion v2](https://github.com/Stability-AI/stablediffusion) ![](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg?style=social) - High-Resolution Image Synthesis with Latent Diffusion Models
+
+**[⬆ back to ToC](#table-of-contents)**
 
 # Serving
 
@@ -149,6 +153,8 @@ Table of Contents
 - [Torchserve](https://github.com/pytorch/serve) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - Serve, optimize and scale PyTorch models in production
 - [Triton Server (TRTIS)](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Large Model Serving
 
 - [Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve) ![](https://img.shields.io/github/stars/deep-diver/Alpaca-LoRA-Serve.svg?style=social) - Alpaca-LoRA as Chatbot service
@@ -159,6 +165,8 @@ Table of Contents
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=social) - Port of OpenAI's Whisper model in C/C++
 - [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) ![](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=social) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Optimizations
 
 - [FeatherCNN](https://github.com/Tencent/FeatherCNN) ![](https://img.shields.io/github/stars/Tencent/FeatherCNN.svg?style=social) - FeatherCNN is a high performance inference engine for convolutional neural networks.
@@ -168,6 +176,8 @@ Table of Contents
 - [TensorFlow Model Optimization](https://github.com/tensorflow/model-optimization) ![](https://img.shields.io/github/stars/tensorflow/model-optimization.svg?style=social) - A suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution.
 - [TNN](https://github.com/Tencent/TNN) ![](https://img.shields.io/github/stars/Tencent/TNN.svg?style=social) - A uniform deep learning inference framework for mobile, desktop and server.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Observability
 
 - [Deepchecks](https://github.com/deepchecks/deepchecks) ![](https://img.shields.io/github/stars/deepchecks/deepchecks.svg?style=social) - Tests for Continuous Validation of ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort.
@@ -175,12 +185,16 @@ Table of Contents
 - [Great Expectations](https://github.com/great-expectations/great_expectations) ![](https://img.shields.io/github/stars/great-expectations/great_expectations.svg?style=social) - Always know what to expect from your data.
 - [whylogs](https://github.com/whylabs/whylogs) ![](https://img.shields.io/github/stars/whylabs/whylogs.svg?style=social) - The open standard for data logging
 
+**[⬆ back to ToC](#table-of-contents)**
+
 # LLMOps
 
 - [deeplake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/Hub.svg?style=social) - Stream large multimodal datasets to achieve near 100% GPU utilization. Query, visualize, & version control data. Access data w/o the need to recompute the embeddings for the model finetuning.
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability
 - [LlamaIndex (
 Index)](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) - Provides a central interface to connect your LLMs with external data.
+
+**[⬆ back to ToC](#table-of-contents)**
 
 # Search
 
@@ -196,6 +210,8 @@ Index)](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/git
 - [Vearch](https://github.com/vearch/vearch) ![](https://img.shields.io/github/stars/vearch/vearch.svg?style=social) - A distributed system for embedding-based vector retrieval
 - [Weaviate](https://github.com/semi-technologies/weaviate) ![](https://img.shields.io/github/stars/semi-technologies/weaviate.svg?style=social) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 # Data
 
 ## Data Management
@@ -207,7 +223,7 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Pachyderm](https://github.com/pachyderm/pachyderm) ![](https://img.shields.io/github/stars/pachyderm/pachyderm.svg?style=social) - Pachyderm is a version control system for data.
 - [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - A self-organizing data hub for S3.
 
-## Data Ingestion
+**[⬆ back to ToC](#table-of-contents)**
 
 ## Data Storage
 
@@ -215,22 +231,28 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [LakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Git-like capabilities for your object storage.
 - [Lance](https://github.com/eto-ai/lance) ![](https://img.shields.io/github/stars/eto-ai/lance.svg?style=social) - Modern columnar data format for ML implemented in Rust.
 
-## Data Transformation
+**[⬆ back to ToC](#table-of-contents)**
 
 ## Data Tracking
 
 - [Piperider](https://github.com/InfuseAI/piperider) ![](https://img.shields.io/github/stars/InfuseAI/piperider.svg?style=social) - A CLI tool that allows you to build data profiles and write assertion tests for easily evaluating and tracking your data's reliability over time.
 - [LUX](https://github.com/lux-org/lux) ![](https://img.shields.io/github/stars/lux-org/lux.svg?style=social) - A Python library that facilitates fast and easy data exploration by automating the visualization and data analysis process.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Feature Engineering
 
 - [Featureform](https://github.com/featureform/featureform) ![](https://img.shields.io/github/stars/featureform/featureform.svg?style=social) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [FeatureTools](https://github.com/Featuretools/featuretools) ![](https://img.shields.io/github/stars/Featuretools/featuretools.svg?style=social) - An open source python framework for automated feature engineering
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Data/Feature enrichment
 
 - [Upgini](https://github.com/upgini/upgini) ![](https://img.shields.io/github/stars/upgini/upgini.svg?style=social) - Free automated data & feature enrichment library for machine learning: automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features
 - [Feast](https://github.com/feast-dev/feast) ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social) - An open source feature store for machine learning.
+
+**[⬆ back to ToC](#table-of-contents)**
 
 # Large Scale Deployment
 
@@ -247,6 +269,8 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Primehub](https://github.com/InfuseAI/primehub) ![](https://img.shields.io/github/stars/InfuseAI/primehub.svg?style=social) - An effortless infrastructure for machine learning built on the top of Kubernetes.
 - [Seldon-core](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Workflow
 
 - [Airflow](https://airflow.apache.org/) ![](https://img.shields.io/github/stars/apache/airflow?style=social) - A platform to programmatically author, schedule and monitor workflows.
@@ -260,6 +284,8 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [VDP](https://github.com/instill-ai/vdp) ![](https://img.shields.io/github/stars/instill-ai/vdp.svg?style=social) - An open-source unstructured data ETL tool to streamline the end-to-end unstructured data processing pipeline.
 - [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - MLOps framework to create reproducible pipelines.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Scheduling
 
 - [Kueue](https://github.com/kubernetes-sigs/kueue) ![](https://img.shields.io/github/stars/kubernetes-sigs/kueue.svg?style=social) - Kubernetes-native Job Queueing.
@@ -268,6 +294,8 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Volcano](https://github.com/volcano-sh/volcano) ![](https://img.shields.io/github/stars/volcano-sh/volcano.svg?style=social) - A Cloud Native Batch System (Project under CNCF).
 - [Yunikorn](https://github.com/apache/yunikorn-core) ![](https://img.shields.io/github/stars/apache/yunikorn-core.svg?style=social) - Light-weight, universal resource scheduler for container orchestrator systems.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 # Performance
 
 ## ML Compiler
@@ -275,10 +303,14 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [ONNX-MLIR](https://github.com/onnx/onnx-mlir) ![](https://img.shields.io/github/stars/onnx/onnx-mlir.svg?style=social) - Compiler technology to transform a valid Open Neural Network Exchange (ONNX) graph into code that implements the graph with minimum runtime support.
 - [TVM](https://github.com/apache/tvm) ![](https://img.shields.io/github/stars/apache/tvm.svg?style=social) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Profiling
 
 - [octoml-profile](https://github.com/octoml/octoml-profile) - octoml-profile is a python library and cloud service designed to provide the simplest experience for assessing and optimizing the performance of PyTorch models on cloud hardware with state-of-the-art ML acceleration technology.
 - [scalene](https://github.com/plasma-umass/scalene) ![](https://img.shields.io/github/stars/plasma-umass/scalene.svg?style=social) - a high-performance, high-precision CPU, GPU, and memory profiler for Python
+
+**[⬆ back to ToC](#table-of-contents)**
 
 # AutoML
 
@@ -327,6 +359,8 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Torchmeta](https://github.com/tristandeleu/pytorch-meta) ![](https://img.shields.io/github/stars/tristandeleu/pytorch-meta.svg?style=social) - A Meta-Learning library for PyTorch.
 - [Vegas](https://github.com/huawei-noah/vega) ![](https://img.shields.io/github/stars/huawei-noah/vega.svg?style=social) - an AutoML algorithm tool chain by Huawei Noah's Arb Lab.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 # Federated ML
 
 - [FATE](https://github.com/FederatedAI/FATE) ![](https://img.shields.io/github/stars/FederatedAI/FATE.svg?style=social) - An Industrial Grade Federated Learning Framework
@@ -334,6 +368,8 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Flower](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower.svg?style=social) - A Friendly Federated Learning Framework
 - [Harmonia](https://github.com/ailabstw/harmonia) ![](https://img.shields.io/github/stars/ailabstw/harmonia.svg?style=social) - Harmonia is an open-source project aiming at developing systems/infrastructures and libraries to ease the adoption of federated learning (abbreviated to FL) for researches and production usage.
 - [TensorFlow Federated](https://github.com/tensorflow/federated) ![](https://img.shields.io/github/stars/tensorflow/federated.svg?style=social) - A framework for implementing federated learning
+
+**[⬆ back to ToC](#table-of-contents)**
 
 # Awesome Lists
 
@@ -349,4 +385,4 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social) - An awesome list of references for MLOps - Machine Learning Operations
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) ![](https://img.shields.io/github/stars/currentslab/awesome-vector-search.svg?style=social) - A curated list of awesome vector search framework/engine, library, cloud service and research papers to vector similarity search.
 
-**[⬆ back to top](#)**
+**[⬆ back to ToC](#table-of-contents)**

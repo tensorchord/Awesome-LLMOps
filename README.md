@@ -60,12 +60,16 @@ Table of Contents
 - [envd](https://github.com/tensorchord/envd) ![](https://img.shields.io/github/stars/tensorchord/envd.svg?style=social) - 🏕️ Reproducible development environment for AI/ML.
 - [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - The Jupyter notebook is a web-based notebook environment for interactive computing.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Foundation Model Fine Tuning
 
 - [alpaca-lora](https://github.com/tloen/alpaca-lora) ![](https://img.shields.io/github/stars/tloen/alpaca-lora.svg?style=social) - Instruct-tune LLaMA on consumer hardware
 - [LMFlow](https://github.com/OptimalScale/LMFlow) ![](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg?style=social) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models
 - [Lora](https://github.com/cloneofsimo/lora) ![](https://img.shields.io/github/stars/cloneofsimo/lora.svg?style=social) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [peft](https://github.com/huggingface/peft) ![](https://img.shields.io/github/stars/huggingface/peft.svg?style=social) - State-of-the-art Parameter-Efficient Fine-Tuning.
+
+**[⬆ back to ToC](#table-of-contents)**
 
 ## Frameworks for Training
 
@@ -90,6 +94,8 @@ Table of Contents
 - [TensorFlow](https://github.com/tensorflow/tensorflow) ![](https://img.shields.io/github/stars/tensorflow/tensorflow.svg?style=social) - An Open Source Machine Learning Framework for Everyone.
 - [VectorFlow](https://github.com/Netflix/vectorflow) ![](https://img.shields.io/github/stars/Netflix/vectorflow.svg?style=social) - A minimalist neural network library optimized for sparse data and single machine environments.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Experiment Tracking
 
 - [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim.svg?style=social) - an easy-to-use and performant open-source experiment tracker.
@@ -100,6 +106,8 @@ Table of Contents
 - [LabNotebook](https://github.com/henripal/labnotebook) ![](https://img.shields.io/github/stars/henripal/labnotebook.svg?style=social) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
 - [Sacred](https://github.com/IDSIA/sacred) ![](https://img.shields.io/github/stars/IDSIA/sacred.svg?style=social) - Sacred is a tool to help you configure, organize, log and reproduce experiments.
 
+**[⬆ back to ToC](#table-of-contents)**
+
 ## Visualization
 
 - [Maniford](https://github.com/uber/manifold) ![](https://img.shields.io/github/stars/uber/manifold.svg?style=social) - A model-agnostic visual debugging tool for machine learning.
@@ -109,6 +117,8 @@ Table of Contents
 - [TensorSpace](https://github.com/tensorspace-team/tensorspace) ![](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg?style=social) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js.
 - [dtreeviz](https://github.com/parrt/dtreeviz) ![](https://img.shields.io/github/stars/parrt/dtreeviz.svg?style=social) - A python library for decision tree visualization and model interpretation.
 - [Zetane Viewer](https://github.com/zetane/viewer) ![](https://img.shields.io/github/stars/zetane/viewer.svg?style=social) - ML models and internal tensors 3D visualizer.
+
+**[⬆ back to ToC](#table-of-contents)**
 
 # Model
 

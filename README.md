@@ -219,6 +219,7 @@ Index)](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/git
 - [Vald](https://github.com/vdaas/vald) ![](https://img.shields.io/github/stars/vdaas/vald.svg?style=social) - A Highly Scalable Distributed Vector Search Engine
 - [Vearch](https://github.com/vearch/vearch) ![](https://img.shields.io/github/stars/vearch/vearch.svg?style=social) - A distributed system for embedding-based vector retrieval
 - [Weaviate](https://github.com/semi-technologies/weaviate) ![](https://img.shields.io/github/stars/semi-technologies/weaviate.svg?style=social) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
+- [Chroma](https://github.com/chroma-core/chroma) ![](https://img.shields.io/github/stars/chroma-core/chroma.svg?style=social) - the open source embedding database
 
 **[⬆ back to ToC](#table-of-contents)**
 

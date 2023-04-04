@@ -1,9 +1,9 @@
-**Awesome Open Source LLMOps**
+**Awesome LLMOps**
 
 <a href="https://discord.gg/KqswhpVgdU"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/KqswhpVgdU?style=flat"></a>
 <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a>
 
-An awesome & curated list of the best open-source LLMOps tools for data scientists.
+An awesome & curated list of the best LLMOps tools for developers.
 
 **Contribute**
 
@@ -143,6 +143,7 @@ Table of Contents
 ## CV Foundation Model
 
 - [disco-diffusion](https://github.com/alembics/disco-diffusion) ![](https://img.shields.io/github/stars/alembics/disco-diffusion.svg?style=social) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
+- [midjourney](https://www.midjourney.com/home/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [stable-diffusion](https://github.com/CompVis/stable-diffusion) ![](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social) - A latent text-to-image diffusion model
 - [stable-diffusion v2](https://github.com/Stability-AI/stablediffusion) ![](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg?style=social) - High-Resolution Image Synthesis with Latent Diffusion Models
 
@@ -201,8 +202,7 @@ Table of Contents
 
 - [deeplake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/Hub.svg?style=social) - Stream large multimodal datasets to achieve near 100% GPU utilization. Query, visualize, & version control data. Access data w/o the need to recompute the embeddings for the model finetuning.
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability
-- [LlamaIndex ( ![](https://img.shields.io/github/stars/.svg?style=social) 
-Index)](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) - Provides a central interface to connect your LLMs with external data.
+- [LlamaIndex](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) - Provides a central interface to connect your LLMs with external data.
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -215,6 +215,7 @@ Index)](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/git
 - [Jina](https://github.com/jina-ai/jina) ![](https://img.shields.io/github/stars/jina-ai/jina.svg?style=social) - Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [Marqo](https://github.com/marqo-ai/marqo) ![](https://img.shields.io/github/stars/marqo-ai/marqo.svg?style=social) - Tensor search for humans.
 - [Milvus](https://github.com/milvus-io/milvus) ![](https://img.shields.io/github/stars/milvus-io/milvus.svg?style=social) - Vector database for scalable similarity search and AI applications.
+- [Pinecone](https://www.pinecone.io/) - The Pinecone vector database makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles
 - [Qdrant](https://github.com/qdrant/qdrant) ![](https://img.shields.io/github/stars/qdrant/qdrant.svg?style=social) - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud
 - [txtai](https://github.com/neuml/txtai) ![](https://img.shields.io/github/stars/neuml/txtai.svg?style=social) - Build AI-powered semantic search applications
 - [Vald](https://github.com/vdaas/vald) ![](https://img.shields.io/github/stars/vdaas/vald.svg?style=social) - A Highly Scalable Distributed Vector Search Engine

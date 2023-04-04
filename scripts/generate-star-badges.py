@@ -13,6 +13,10 @@ def is_link_line(line) -> bool:
         return False
     return True
 
+def is_github_project(line) -> bool:
+    if "https://github.com" in line:
+        return True
+    return False
 
 def contains_star_badge(line) -> bool:
     if "https://img.shields.io/github/stars" in line:
@@ -36,7 +40,7 @@ def generate_badge_link(line) -> str:
 
 def generate_star_badge(line) -> str:
     """Add the GitHub star badge if it does not exist."""
-    if not is_link_line(line):
+    if not is_link_line(line) or not is_github_project(line):
         "Return other lines unchanged."
         return line
     if contains_star_badge(line):

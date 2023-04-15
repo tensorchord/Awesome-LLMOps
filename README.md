@@ -117,6 +117,7 @@ Table of Contents
 - [TensorSpace](https://github.com/tensorspace-team/tensorspace) ![](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg?style=social) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js.
 - [dtreeviz](https://github.com/parrt/dtreeviz) ![](https://img.shields.io/github/stars/parrt/dtreeviz.svg?style=social) - A python library for decision tree visualization and model interpretation.
 - [Zetane Viewer](https://github.com/zetane/viewer) ![](https://img.shields.io/github/stars/zetane/viewer.svg?style=social) - ML models and internal tensors 3D visualizer.
+- [Zeno](https://github.com/zeno-ml/zeno) ![](https://img.shields.io/github/stars/zeno-ml/zeno.svg?style=social) - AI evaluation platform for interactively exploring data and model outputs.
 
 **[⬆ back to ToC](#table-of-contents)**
 

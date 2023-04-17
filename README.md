@@ -136,6 +136,7 @@ Table of Contents
 
 - [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg?style=social) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [Bloom](https://github.com/bigscience-workshop/model_card) ![](https://img.shields.io/github/stars/bigscience-workshop/model_card.svg?style=social) - BigScience Large Open-science Open-access Multilingual Language Model
+- [dolly](https://github.com/databrickslabs/dolly) ![](https://img.shields.io/github/stars/databrickslabs/dolly.svg?style=social) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [GLM-130B (ChatGLM)](https://github.com/THUDM/GLM-130B) ![](https://img.shields.io/github/stars/THUDM/GLM-130B.svg?style=social) - An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 

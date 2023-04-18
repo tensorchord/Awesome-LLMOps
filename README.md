@@ -207,6 +207,7 @@ Table of Contents
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) - Provides a central interface to connect your LLMs with external data.
 - [xTuring](https://github.com/stochasticai/xturing) ![](https://img.shields.io/github/stars/stochasticai/xturing.svg?style=social) - Build and control your personal LLMs with fast and efficient fine-tuning.
+- [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - Open-source framework for orchestrating, experimenting and deploying production-grade ML solutions, with built-in `langchain` & `llama_index` integrations.
 
 **[⬆ back to ToC](#table-of-contents)**
 

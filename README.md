@@ -379,6 +379,7 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 
 # Federated ML
 
+- [EasyFL](https://github.com/EasyFL-AI/EasyFL) ![](https://img.shields.io/github/stars/EasyFL-AI/EasyFL.svg?style=social) - An Easy-to-use Federated Learning Platform
 - [FATE](https://github.com/FederatedAI/FATE) ![](https://img.shields.io/github/stars/FederatedAI/FATE.svg?style=social) - An Industrial Grade Federated Learning Framework
 - [FedML](https://github.com/FedML-AI/FedML) ![](https://img.shields.io/github/stars/FedML-AI/FedML.svg?style=social) - The federated learning and analytics library enabling secure and collaborative machine learning on decentralized data anywhere at any scale. Supporting large-scale cross-silo federated learning, cross-device federated learning on smartphones/IoTs, and research simulation.
 - [Flower](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower.svg?style=social) - A Friendly Federated Learning Framework
@@ -394,6 +395,7 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Awesome AutoML](https://github.com/windmaple/awesome-AutoML) ![](https://img.shields.io/github/stars/windmaple/awesome-AutoML.svg?style=social) - Curating a list of AutoML-related research, tools, projects and other resources
 - [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers) ![](https://img.shields.io/github/stars/hibayesian/awesome-automl-papers.svg?style=social) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [Awesome Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) ![](https://img.shields.io/github/stars/chaoyanghe/Awesome-Federated-Learning.svg?style=social) - A curated list of federated learning publications, re-organized from Arxiv (mostly)
+- [awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning) ![](https://img.shields.io/github/stars/weimingwill/awesome-federated-learning.svg?style=social) - All materials you need for Federated Learning: blogs, videos, papers, and softwares, etc.
 - [Awesome Open MLOps](https://github.com/fuzzylabs/awesome-open-mlops) ![](https://img.shields.io/github/stars/fuzzylabs/awesome-open-mlops.svg?style=social) - This is the Fuzzy Labs guide to the universe of free and open source MLOps tools.
 - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [Awesome Tensor Compilers](https://github.com/merrymercy/awesome-tensor-compilers) ![](https://img.shields.io/github/stars/merrymercy/awesome-tensor-compilers.svg?style=social) - A list of awesome compiler projects and papers for tensor computation and deep learning.

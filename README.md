@@ -139,6 +139,7 @@ Table of Contents
 - [dolly](https://github.com/databrickslabs/dolly) ![](https://img.shields.io/github/stars/databrickslabs/dolly.svg?style=social) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [GLM-130B (ChatGLM)](https://github.com/THUDM/GLM-130B) ![](https://img.shields.io/github/stars/THUDM/GLM-130B.svg?style=social) - An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [StableLM](https://github.com/Stability-AI/StableLM) ![](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?style=social) - StableLM: Stability AI Language Models
 
 **[⬆ back to ToC](#table-of-contents)**
 

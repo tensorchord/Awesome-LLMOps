@@ -16,6 +16,7 @@ Table of Contents
 * [Model](#model)
    * [Large Language Model](#large-language-model)
    * [CV Foundation Model](#cv-foundation-model)
+   * [Audio Foundation Model](#audio-foundation-model)
 * [Serving](#serving)
    * [Large Model Serving](#large-model-serving)
    * [Frameworks/Servers for Serving](#frameworksservers-for-serving)
@@ -73,6 +74,11 @@ Table of Contents
 - [stable-diffusion v2](https://github.com/Stability-AI/stablediffusion) ![](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg?style=social) - High-Resolution Image Synthesis with Latent Diffusion Models
 
 **[⬆ back to ToC](#table-of-contents)**
+
+## Audio Foundation Model
+
+- [bark](https://github.com/suno-ai/bark) ![](https://img.shields.io/github/stars/suno-ai/bark.svg?style=social) - Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
+- [whisper](https://github.com/openai/whisper) ![](https://img.shields.io/github/stars/openai/whisper.svg?style=social) - Robust Speech Recognition via Large-Scale Weak Supervision
 
 # Serving
 

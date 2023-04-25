@@ -68,6 +68,7 @@ Table of Contents
 
 - [disco-diffusion](https://github.com/alembics/disco-diffusion) ![](https://img.shields.io/github/stars/alembics/disco-diffusion.svg?style=social) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 - [midjourney](https://www.midjourney.com/home/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+- [segment-anything (SAM)](https://github.com/facebookresearch/segment-anything) ![](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social) - produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image.
 - [stable-diffusion](https://github.com/CompVis/stable-diffusion) ![](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social) - A latent text-to-image diffusion model
 - [stable-diffusion v2](https://github.com/Stability-AI/stablediffusion) ![](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg?style=social) - High-Resolution Image Synthesis with Latent Diffusion Models
 
@@ -214,6 +215,7 @@ Table of Contents
 # Data
 
 ## Data Management
+
 - [ArtiVC](https://github.com/InfuseAI/ArtiVC) ![](https://img.shields.io/github/stars/InfuseAI/ArtiVC.svg?style=social) - A version control system to manage large files.
 Lake is a dataset format with a simple API for creating, storing, and collaborating on AI datasets of any size.
 - [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Git for Data.

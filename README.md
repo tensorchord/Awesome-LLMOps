@@ -156,6 +156,7 @@ Table of Contents
 - [Docker](https://github.com/moby/moby) ![](https://img.shields.io/github/stars/moby/moby.svg?style=social) - Moby is an open-source project created by Docker to enable and accelerate software containerization.
 - [envd](https://github.com/tensorchord/envd) ![](https://img.shields.io/github/stars/tensorchord/envd.svg?style=social) - 🏕️ Reproducible development environment for AI/ML.
 - [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - The Jupyter notebook is a web-based notebook environment for interactive computing.
+- [Kurtosis](https://github.com/kurtosis-tech/kurtosis) ![](https://img.shields.io/github/stars/kurtosis-tech/kurtosis.svg?style=social) - A build, packaging, and run system for ephemeral multi-container environments.
 
 **[⬆ back to ToC](#table-of-contents)**
 

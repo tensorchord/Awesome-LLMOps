@@ -88,6 +88,7 @@ Table of Contents
 - [Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve) ![](https://img.shields.io/github/stars/deep-diver/Alpaca-LoRA-Serve.svg?style=social) - Alpaca-LoRA as Chatbot service
 - [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed-MII.svg?style=social) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
 - [FlexGen](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social) - Running large language models on a single GPU for throughput-oriented scenarios.
+- [Flowise](https://github.com/FlowiseAI/Flowise) ![](https://img.shields.io/github/stars/FlowiseAI/Flowise.svg?style=social) - Drag & drop UI to build your customized LLM flow using LangchainJS.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) ![](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social) - Port of Facebook's LLaMA model in C/C++
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=social) - Port of OpenAI's Whisper model in C/C++
 - [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) ![](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=social) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.

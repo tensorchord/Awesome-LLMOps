@@ -57,6 +57,7 @@ Table of Contents
 ## Large Language Model
 
 - [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg?style=social) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [BELLE](https://github.com/LianjiaTech/BELLE) ![](https://img.shields.io/github/stars/LianjiaTech/BELLE.svg?style=social) - A 7B Large Language Model fine-tune by 34B Chinese Character Corpus, based on LLaMA and Alpaca.
 - [Bloom](https://github.com/bigscience-workshop/model_card) ![](https://img.shields.io/github/stars/bigscience-workshop/model_card.svg?style=social) - BigScience Large Open-science Open-access Multilingual Language Model
 - [dolly](https://github.com/databrickslabs/dolly) ![](https://img.shields.io/github/stars/databrickslabs/dolly.svg?style=social) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [GLM-6B (ChatGLM)](https://github.com/THUDM/ChatGLM-6B) ![](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg?style=social) - An Open Bilingual Pre-Trained Model, quantization of ChatGLM-130B, can run on consumer-level GPUs.

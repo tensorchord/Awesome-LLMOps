@@ -59,6 +59,7 @@ Table of Contents
 - [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg?style=social) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [Bloom](https://github.com/bigscience-workshop/model_card) ![](https://img.shields.io/github/stars/bigscience-workshop/model_card.svg?style=social) - BigScience Large Open-science Open-access Multilingual Language Model
 - [dolly](https://github.com/databrickslabs/dolly) ![](https://img.shields.io/github/stars/databrickslabs/dolly.svg?style=social) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+- [GLM-6B (ChatGLM)](https://github.com/THUDM/ChatGLM-6B) ![](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg?style=social) - An Open Bilingual Pre-Trained Model, quantization of ChatGLM-130B, can run on consumer-level GPUs.
 - [GLM-130B (ChatGLM)](https://github.com/THUDM/GLM-130B) ![](https://img.shields.io/github/stars/THUDM/GLM-130B.svg?style=social) - An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [StableLM](https://github.com/Stability-AI/StableLM) ![](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?style=social) - StableLM: Stability AI Language Models
@@ -113,7 +114,6 @@ Table of Contents
 **[⬆ back to ToC](#table-of-contents)**
 
 # LLMOps
-
 - [deeplake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/Hub.svg?style=social) - Stream large multimodal datasets to achieve near 100% GPU utilization. Query, visualize, & version control data. Access data w/o the need to recompute the embeddings for the model finetuning.
 - [Haystack](https://github.com/deepset-ai/haystack) ![](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social) - Quickly compose applications with LLM Agents, semantic search, question-answering and more. 
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability

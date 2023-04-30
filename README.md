@@ -62,6 +62,7 @@ Table of Contents
 - [GLM-6B (ChatGLM)](https://github.com/THUDM/ChatGLM-6B) ![](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg?style=social) - An Open Bilingual Pre-Trained Model, quantization of ChatGLM-130B, can run on consumer-level GPUs.
 - [GLM-130B (ChatGLM)](https://github.com/THUDM/GLM-130B) ![](https://img.shields.io/github/stars/THUDM/GLM-130B.svg?style=social) - An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM) ![](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM.svg?style=social) - A Chinese LLM, Based on LLaMA and fine tune by Stanford Alpaca、Alpaca LoRA、Japanese-Alpaca-LoRA.
 - [StableLM](https://github.com/Stability-AI/StableLM) ![](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?style=social) - StableLM: Stability AI Language Models
 
 **[⬆ back to ToC](#table-of-contents)**
@@ -80,6 +81,7 @@ Table of Contents
 
 - [bark](https://github.com/suno-ai/bark) ![](https://img.shields.io/github/stars/suno-ai/bark.svg?style=social) - Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
 - [whisper](https://github.com/openai/whisper) ![](https://img.shields.io/github/stars/openai/whisper.svg?style=social) - Robust Speech Recognition via Large-Scale Weak Supervision
+
 
 # Serving
 

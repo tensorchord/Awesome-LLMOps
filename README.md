@@ -166,6 +166,7 @@ Table of Contents
 - [LMFlow](https://github.com/OptimalScale/LMFlow) ![](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg?style=social) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models
 - [Lora](https://github.com/cloneofsimo/lora) ![](https://img.shields.io/github/stars/cloneofsimo/lora.svg?style=social) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [peft](https://github.com/huggingface/peft) ![](https://img.shields.io/github/stars/huggingface/peft.svg?style=social) - State-of-the-art Parameter-Efficient Fine-Tuning.
+- [p-tuning-v2](https://github.com/THUDM/P-tuning-v2) ![](https://img.shields.io/github/stars/THUDM/P-tuning-v2.svg?style=social) - An optimized prompt tuning strategy achieving comparable performance to fine-tuning on small/medium-sized models and sequence tagging challenges. [(ACL 2022)](https://arxiv.org/abs/2110.07602)
 
 **[⬆ back to ToC](#table-of-contents)**
 

@@ -124,6 +124,7 @@ Table of Contents
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) - Provides a central interface to connect your LLMs with external data.
 - [xTuring](https://github.com/stochasticai/xturing) ![](https://img.shields.io/github/stars/stochasticai/xturing.svg?style=social) - Build and control your personal LLMs with fast and efficient fine-tuning.
 - [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - Open-source framework for orchestrating, experimenting and deploying production-grade ML solutions, with built-in `langchain` & `llama_index` integrations.
+- [GPTCache](https://github.com/zilliztech/GPTCache) ![](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?style=social) - Creating semantic cache to store responses from LLM queries.
 
 **[⬆ back to ToC](#table-of-contents)**
 

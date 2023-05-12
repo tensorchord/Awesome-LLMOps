@@ -9,46 +9,45 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
 
-Table of Contents
-=================
+# Table of Contents
 
-* [Table of Contents](#table-of-contents)
-* [Model](#model)
-   * [Large Language Model](#large-language-model)
-   * [CV Foundation Model](#cv-foundation-model)
-   * [Audio Foundation Model](#audio-foundation-model)
-* [Serving](#serving)
-   * [Large Model Serving](#large-model-serving)
-   * [Frameworks/Servers for Serving](#frameworksservers-for-serving)
-   * [Observability](#observability)
-* [LLMOps](#llmops)
-* [Search](#search)
-   * [Vector search](#vector-search)
-* [Code AI](#code-ai)
-* [Training](#training)
-   * [IDEs and Workspaces](#ides-and-workspaces)
-   * [Foundation Model Fine Tuning](#foundation-model-fine-tuning)
-   * [Frameworks for Training](#frameworks-for-training)
-   * [Experiment Tracking](#experiment-tracking)
-   * [Visualization](#visualization)
-* [Data](#data)
-   * [Data Management](#data-management)
-   * [Data Storage](#data-storage)
-   * [Data Tracking](#data-tracking)
-   * [Feature Engineering](#feature-engineering)
-   * [Data/Feature enrichment](#datafeature-enrichment)
-* [Large Scale Deployment](#large-scale-deployment)
-   * [ML Platforms](#ml-platforms)
-   * [Workflow](#workflow)
-   * [Scheduling](#scheduling)
-   * [Model Management](#model-management)
-* [Performance](#performance)
-   * [ML Compiler](#ml-compiler)
-   * [Profiling](#profiling)
-* [AutoML](#automl)
-* [Optimizations](#optimizations)
-* [Federated ML](#federated-ml)
-* [Awesome Lists](#awesome-lists)
+- [Table of Contents](#table-of-contents)
+- [Model](#model)
+  - [Large Language Model](#large-language-model)
+  - [CV Foundation Model](#cv-foundation-model)
+  - [Audio Foundation Model](#audio-foundation-model)
+- [Serving](#serving)
+  - [Large Model Serving](#large-model-serving)
+  - [Frameworks/Servers for Serving](#frameworksservers-for-serving)
+  - [Observability](#observability)
+- [LLMOps](#llmops)
+- [Search](#search)
+  - [Vector search](#vector-search)
+- [Code AI](#code-ai)
+- [Training](#training)
+  - [IDEs and Workspaces](#ides-and-workspaces)
+  - [Foundation Model Fine Tuning](#foundation-model-fine-tuning)
+  - [Frameworks for Training](#frameworks-for-training)
+  - [Experiment Tracking](#experiment-tracking)
+  - [Visualization](#visualization)
+- [Data](#data)
+  - [Data Management](#data-management)
+  - [Data Storage](#data-storage)
+  - [Data Tracking](#data-tracking)
+  - [Feature Engineering](#feature-engineering)
+  - [Data/Feature enrichment](#datafeature-enrichment)
+- [Large Scale Deployment](#large-scale-deployment)
+  - [ML Platforms](#ml-platforms)
+  - [Workflow](#workflow)
+  - [Scheduling](#scheduling)
+  - [Model Management](#model-management)
+- [Performance](#performance)
+  - [ML Compiler](#ml-compiler)
+  - [Profiling](#profiling)
+- [AutoML](#automl)
+- [Optimizations](#optimizations)
+- [Federated ML](#federated-ml)
+- [Awesome Lists](#awesome-lists)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
@@ -82,7 +81,6 @@ Table of Contents
 
 - [bark](https://github.com/suno-ai/bark) ![](https://img.shields.io/github/stars/suno-ai/bark.svg?style=social) - Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
 - [whisper](https://github.com/openai/whisper) ![](https://img.shields.io/github/stars/openai/whisper.svg?style=social) - Robust Speech Recognition via Large-Scale Weak Supervision
-
 
 # Serving
 
@@ -118,12 +116,14 @@ Table of Contents
 **[⬆ back to ToC](#table-of-contents)**
 
 # LLMOps
+
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix) ![](https://img.shields.io/github/stars/Arize-ai/phoenix.svg?style=social) - ML observability for LLMs, vision, language, and tabular models.
 - [deeplake](https://github.com/activeloopai/deeplake) ![](https://img.shields.io/github/stars/activeloopai/Hub.svg?style=social) - Stream large multimodal datasets to achieve near 100% GPU utilization. Query, visualize, & version control data. Access data w/o the need to recompute the embeddings for the model finetuning.
 - [GPTCache](https://github.com/zilliztech/GPTCache) ![](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?style=social) - Creating semantic cache to store responses from LLM queries.
-- [Haystack](https://github.com/deepset-ai/haystack) ![](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social) - Quickly compose applications with LLM Agents, semantic search, question-answering and more. 
+- [Haystack](https://github.com/deepset-ai/haystack) ![](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social) - Quickly compose applications with LLM Agents, semantic search, question-answering and more.
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) ![](https://img.shields.io/github/stars/jerryjliu/llama_index.svg?style=social) - Provides a central interface to connect your LLMs with external data.
+- [Weights & Biases (Prompts)](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - A suite of LLMOps tools within the developer-first W&B MLOps platform. Utilize W&B Prompts for visualizing and inspecting LLM execution flow, tracking inputs and outputs, viewing intermediate results, securely managing prompts and LLM chain configurations.
 - [xTuring](https://github.com/stochasticai/xturing) ![](https://img.shields.io/github/stars/stochasticai/xturing.svg?style=social) - Build and control your personal LLMs with fast and efficient fine-tuning.
 - [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - Open-source framework for orchestrating, experimenting and deploying production-grade ML solutions, with built-in `langchain` & `llama_index` integrations.
 
@@ -158,7 +158,7 @@ Table of Contents
 ## IDEs and Workspaces
 
 - [code server](https://github.com/coder/code-server) ![](https://img.shields.io/github/stars/coder/code-server.svg?style=social) - Run VS Code on any machine anywhere and access it in the browser.
-- [conda](https://github.com/conda/conda) ![](https://img.shields.io/github/stars/conda/conda.svg?style=social) -  OS-agnostic, system-level binary package manager and ecosystem.
+- [conda](https://github.com/conda/conda) ![](https://img.shields.io/github/stars/conda/conda.svg?style=social) - OS-agnostic, system-level binary package manager and ecosystem.
 - [Docker](https://github.com/moby/moby) ![](https://img.shields.io/github/stars/moby/moby.svg?style=social) - Moby is an open-source project created by Docker to enable and accelerate software containerization.
 - [envd](https://github.com/tensorchord/envd) ![](https://img.shields.io/github/stars/tensorchord/envd.svg?style=social) - 🏕️ Reproducible development environment for AI/ML.
 - [Jupyter Notebooks](https://github.com/jupyter/notebook) ![](https://img.shields.io/github/stars/jupyter/notebook.svg?style=social) - The Jupyter notebook is a web-based notebook environment for interactive computing.
@@ -177,9 +177,10 @@ Table of Contents
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Frameworks for Training
+
 - [Accelerate](https://github.com/huggingface/accelerate) ![](https://img.shields.io/github/stars/huggingface/accelerate.svg?style=social) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision.
 - [Apache MXNet](https://github.com/apache/mxnet) ![](https://img.shields.io/github/stars/apache/mxnet.svg?style=social) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler.
-- [Caffe](https://github.com/BVLC/caffe) ![](https://img.shields.io/github/stars/BVLC/caffe.svg?style=social) - A fast open framework for deep learning. 
+- [Caffe](https://github.com/BVLC/caffe) ![](https://img.shields.io/github/stars/BVLC/caffe.svg?style=social) - A fast open framework for deep learning.
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) ![](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg?style=social) - An integrated large-scale model training system with efficient parallelization techniques.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [Horovod](https://github.com/horovod/horovod) ![](https://img.shields.io/github/stars/horovod/horovod.svg?style=social) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
@@ -192,7 +193,7 @@ Table of Contents
 - [MindSpore](https://github.com/mindspore-ai/mindspore) ![](https://img.shields.io/github/stars/mindspore-ai/mindspore.svg?style=social) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [Oneflow](https://github.com/Oneflow-Inc/oneflow) ![](https://img.shields.io/github/stars/Oneflow-Inc/oneflow.svg?style=social) - OneFlow is a performance-centered and open-source deep learning framework.
 - [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ![](https://img.shields.io/github/stars/PaddlePaddle/Paddle.svg?style=social) - Machine Learning Framework from Industrial Practice.
-- [PyTorch](https://github.com/pytorch/pytorch) ![](https://img.shields.io/github/stars/pytorch/pytorch.svg?style=social) -  Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+- [PyTorch](https://github.com/pytorch/pytorch) ![](https://img.shields.io/github/stars/pytorch/pytorch.svg?style=social) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [PyTorchLightning](https://github.com/PyTorchLightning/pytorch-lightning) ![](https://img.shields.io/github/stars/PyTorchLightning/pytorch-lightning.svg?style=social) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [XGBoost](https://github.com/dmlc/xgboost) ![](https://img.shields.io/github/stars/dmlc/xgboost.svg?style=social) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) ![](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg?style=social) - Machine Learning in Python.
@@ -210,6 +211,7 @@ Table of Contents
 - [Kedro-Viz](https://github.com/kedro-org/kedro-viz) ![](https://img.shields.io/github/stars/kedro-org/kedro-viz.svg?style=social) - Kedro-Viz is an interactive development tool for building data science pipelines with Kedro. Kedro-Viz also allows users to view and compare different runs in the Kedro project.
 - [LabNotebook](https://github.com/henripal/labnotebook) ![](https://img.shields.io/github/stars/henripal/labnotebook.svg?style=social) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
 - [Sacred](https://github.com/IDSIA/sacred) ![](https://img.shields.io/github/stars/IDSIA/sacred.svg?style=social) - Sacred is a tool to help you configure, organize, log and reproduce experiments.
+- [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - A developer first, lightweight, user-friendly experiment tracking and visualization tool for machine learning projects, streamlining collaboration and simplifying MLOps. W&B excels at tracking LLM-powered applications, featuring W&B Prompts for LLM execution flow visualization, input and output monitoring, and secure management of prompts and LLM chain configurations.
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -231,7 +233,7 @@ Table of Contents
 ## Data Management
 
 - [ArtiVC](https://github.com/InfuseAI/ArtiVC) ![](https://img.shields.io/github/stars/InfuseAI/ArtiVC.svg?style=social) - A version control system to manage large files.
-Lake is a dataset format with a simple API for creating, storing, and collaborating on AI datasets of any size.
+  Lake is a dataset format with a simple API for creating, storing, and collaborating on AI datasets of any size.
 - [Dolt](https://github.com/dolthub/dolt) ![](https://img.shields.io/github/stars/dolthub/dolt.svg?style=social) - Git for Data.
 - [DVC](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - Data Version Control | Git for Data & Models | ML Experiments Management.
 - [Delta-Lake](https://github.com/delta-io/delta) ![](https://img.shields.io/github/stars/delta-io/delta.svg?style=social) - Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.
@@ -242,7 +244,7 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 
 ## Data Storage
 
-- [JuiceFS](https://github.com/juicedata/juicefs) ![](https://img.shields.io/github/stars/juicedata/juicefs.svg?style=social) -  A distributed POSIX file system built on top of Redis and S3.
+- [JuiceFS](https://github.com/juicedata/juicefs) ![](https://img.shields.io/github/stars/juicedata/juicefs.svg?style=social) - A distributed POSIX file system built on top of Redis and S3.
 - [LakeFS](https://github.com/treeverse/lakeFS) ![](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=social) - Git-like capabilities for your object storage.
 - [Lance](https://github.com/eto-ai/lance) ![](https://img.shields.io/github/stars/eto-ai/lance.svg?style=social) - Modern columnar data format for ML implemented in Rust.
 
@@ -283,6 +285,7 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Polyaxon](https://github.com/polyaxon/polyaxon) ![](https://img.shields.io/github/stars/polyaxon/polyaxon.svg?style=social) - Machine Learning Management & Orchestration Platform.
 - [Primehub](https://github.com/InfuseAI/primehub) ![](https://img.shields.io/github/stars/InfuseAI/primehub.svg?style=social) - An effortless infrastructure for machine learning built on the top of Kubernetes.
 - [Seldon-core](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
+- [Weights & Biases](https://github.com/wandb/wandb) ![](https://img.shields.io/github/stars/wandb/wandb.svg?style=social) - A lightweight and flexible platform for machine learning experiment tracking, dataset versioning, and model management, enhancing collaboration and streamlining MLOps workflows. W&B excels at tracking LLM-powered applications, featuring W&B Prompts for LLM execution flow visualization, input and output monitoring, and secure management of prompts and LLM chain configurations.
 
 **[⬆ back to ToC](#table-of-contents)**
 

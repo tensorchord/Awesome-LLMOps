@@ -139,7 +139,9 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Jina](https://github.com/jina-ai/jina) ![](https://img.shields.io/github/stars/jina-ai/jina.svg?style=social) - Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [Marqo](https://github.com/marqo-ai/marqo) ![](https://img.shields.io/github/stars/marqo-ai/marqo.svg?style=social) - Tensor search for humans.
 - [Milvus](https://github.com/milvus-io/milvus) ![](https://img.shields.io/github/stars/milvus-io/milvus.svg?style=social) - Vector database for scalable similarity search and AI applications.
-- [Pinecone](https://www.pinecone.io/) - The Pinecone vector database makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles
+- [Pinecone](https://www.pinecone.io/) - The Pinecone vector database makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.
+- [pgvector](https://github.com/pgvector/pgvector) ![](https://img.shields.io/github/stars/pgvector/pgvector.svg?style=social) - Open-source vector similarity search for Postgres.
+- [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) ![](https://img.shields.io/github/stars/tensorchord/pgvecto.rs.svg?style=social) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM.
 - [Qdrant](https://github.com/qdrant/qdrant) ![](https://img.shields.io/github/stars/qdrant/qdrant.svg?style=social) - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud
 - [txtai](https://github.com/neuml/txtai) ![](https://img.shields.io/github/stars/neuml/txtai.svg?style=social) - Build AI-powered semantic search applications
 - [Vald](https://github.com/vdaas/vald) ![](https://img.shields.io/github/stars/vdaas/vald.svg?style=social) - A Highly Scalable Distributed Vector Search Engine
@@ -151,6 +153,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 # Code AI
 
 - [CodeGen](https://github.com/salesforce/CodeGen) ![](https://img.shields.io/github/stars/salesforce/CodeGen.svg?style=social) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+- [CodeT5](https://github.com/salesforce/CodeT5) ![](https://img.shields.io/github/stars/salesforce/CodeT5.svg?style=social) - Open Code LLMs for Code Understanding and Generation.
 - [fauxpilot](https://github.com/fauxpilot/fauxpilot) ![](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg?style=social) - An open-source alternative to GitHub Copilot server
 - [tabby](https://github.com/TabbyML/tabby) ![](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=social) - Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.
 

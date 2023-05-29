@@ -104,6 +104,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [TFServing](https://github.com/tensorflow/serving) ![](https://img.shields.io/github/stars/tensorflow/serving.svg?style=social) - A flexible, high-performance serving system for machine learning models.
 - [Torchserve](https://github.com/pytorch/serve) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - Serve, optimize and scale PyTorch models in production
 - [Triton Server (TRTIS)](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+- [langchain-serve](https://github.com/jina-ai/langchain-serve) ![](https://img.shields.io/github/stars/jina-ai/langchain-serve.svg?style=social) - Serverless LLM apps on Production with Jina AI Cloud
 
 **[⬆ back to ToC](#table-of-contents)**
 

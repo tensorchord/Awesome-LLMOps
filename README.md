@@ -59,6 +59,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [BELLE](https://github.com/LianjiaTech/BELLE) ![](https://img.shields.io/github/stars/LianjiaTech/BELLE.svg?style=social) - A 7B Large Language Model fine-tune by 34B Chinese Character Corpus, based on LLaMA and Alpaca.
 - [Bloom](https://github.com/bigscience-workshop/model_card) ![](https://img.shields.io/github/stars/bigscience-workshop/model_card.svg?style=social) - BigScience Large Open-science Open-access Multilingual Language Model
 - [dolly](https://github.com/databrickslabs/dolly) ![](https://img.shields.io/github/stars/databrickslabs/dolly.svg?style=social) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+- [Falcon 40B](https://huggingface.co/tiiuae/falcon-40b-instruct) - Falcon-40B-Instruct is a 40B parameters causal decoder-only model built by TII based on Falcon-40B and finetuned on a mixture of Baize. It is made available under the Apache 2.0 license.
 - [FastChat (Vicuna)](https://github.com/lm-sys/FastChat) ![](https://img.shields.io/github/stars/lm-sys/FastChat.svg?style=social) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [GLM-6B (ChatGLM)](https://github.com/THUDM/ChatGLM-6B) ![](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg?style=social) - An Open Bilingual Pre-Trained Model, quantization of ChatGLM-130B, can run on consumer-level GPUs.
 - [GLM-130B (ChatGLM)](https://github.com/THUDM/GLM-130B) ![](https://img.shields.io/github/stars/THUDM/GLM-130B.svg?style=social) - An Open Bilingual Pre-Trained Model (ICLR 2023)
@@ -92,6 +93,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [FlexGen](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [Flowise](https://github.com/FlowiseAI/Flowise) ![](https://img.shields.io/github/stars/FlowiseAI/Flowise.svg?style=social) - Drag & drop UI to build your customized LLM flow using LangchainJS.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) ![](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social) - Port of Facebook's LLaMA model in C/C++
+- [Modelz-LLM](https://github.com/tensorchord/modelz-llm) ![](https://img.shields.io/github/stars/tensorchord/modelz-llm.svg?style=social) - OpenAI compatible API for LLMs and embeddings (LLaMA, Vicuna, ChatGLM and many others)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=social) - Port of OpenAI's Whisper model in C/C++
 - [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) ![](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=social) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.
 

@@ -108,6 +108,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Torchserve](https://github.com/pytorch/serve) ![](https://img.shields.io/github/stars/pytorch/serve.svg?style=social) - Serve, optimize and scale PyTorch models in production
 - [Triton Server (TRTIS)](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) ![](https://img.shields.io/github/stars/jina-ai/langchain-serve.svg?style=social) - Serverless LLM apps on Production with Jina AI Cloud
+- [lanarky](https://github.com/ajndkr/lanarky) ![](https://img.shields.io/github/stars/ajndkr/lanarky.svg?style=social) - FastAPI framework to build production-grade LLM applications
 
 **[⬆ back to ToC](#table-of-contents)**
 

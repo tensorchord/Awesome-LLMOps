@@ -94,6 +94,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Flowise](https://github.com/FlowiseAI/Flowise) ![](https://img.shields.io/github/stars/FlowiseAI/Flowise.svg?style=social) - Drag & drop UI to build your customized LLM flow using LangchainJS.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) ![](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social) - Port of Facebook's LLaMA model in C/C++
 - [Modelz-LLM](https://github.com/tensorchord/modelz-llm) ![](https://img.shields.io/github/stars/tensorchord/modelz-llm.svg?style=social) - OpenAI compatible API for LLMs and embeddings (LLaMA, Vicuna, ChatGLM and many others)
+- [vllm](https://github.com/vllm-project/vllm) ![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=social) - Port of OpenAI's Whisper model in C/C++
 - [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) ![](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=social) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.
 
@@ -288,6 +289,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 ## ML Platforms
 
 - [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management.
+- [OpenLLM](https://github.com/bentoml/OpenLLM) ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg?style=social) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 - [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform for the machine learning lifecycle.
 - [MLRun](https://github.com/mlrun/mlrun) ![](https://img.shields.io/github/stars/mlrun/mlrun.svg?style=social) - An open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 - [ModelFox](https://github.com/modelfoxdotdev/modelfox) ![](https://img.shields.io/github/stars/modelfoxdotdev/modelfox.svg?style=social) - ModelFox is a platform for managing and deploying machine learning models.

@@ -313,6 +313,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [aqueduct](https://github.com/aqueducthq/aqueduct) ![](https://img.shields.io/github/stars/aqueducthq/aqueduct.svg?style=social) - An Open-Source Platform for Production Data Science
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) ![](https://img.shields.io/github/stars/argoproj/argo-workflows.svg?style=social) - Workflow engine for Kubernetes.
 - [Flyte](https://github.com/flyteorg/flyte) ![](https://img.shields.io/github/stars/flyteorg/flyte.svg?style=social) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale.
+- [Hamilton](https://github.com/dagworks-inc/hamilton) ![](https://img.shields.io/github/stars/dagworks-inc/hamilton.svg?style=social) - A lightweight framework to represent ML/language model pipelines as a series of python functions.
 - [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) ![](https://img.shields.io/github/stars/kubeflow/pipelines.svg?style=social) - Machine Learning Pipelines for Kubeflow.
 - [LangFlow](https://github.com/logspace-ai/langflow) ![](https://img.shields.io/github/stars/logspace-ai/langflow.svg?style=social) - An effortless way to experiment and prototype LangChain flows with drag-and-drop components and a chat interface.
 - [Metaflow](https://github.com/Netflix/metaflow) ![](https://img.shields.io/github/stars/Netflix/metaflow.svg?style=social) - Build and manage real-life data science projects with ease!

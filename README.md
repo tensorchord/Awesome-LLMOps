@@ -118,6 +118,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Evidently](https://github.com/evidentlyai/evidently) ![](https://img.shields.io/github/stars/evidentlyai/evidently.svg?style=social) - Evaluate and monitor ML models from validation to production.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) ![](https://img.shields.io/github/stars/great-expectations/great_expectations.svg?style=social) - Always know what to expect from your data.
 - [whylogs](https://github.com/whylabs/whylogs) ![](https://img.shields.io/github/stars/whylabs/whylogs.svg?style=social) - The open standard for data logging
+- [Portkey](https://portkey.ai/) - Provides logging, caching, tagging, tracing, retries, and more for LLM apps.
 
 **[⬆ back to ToC](#table-of-contents)**
 

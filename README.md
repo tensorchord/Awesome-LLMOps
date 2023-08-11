@@ -120,7 +120,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Great Expectations](https://github.com/great-expectations/great_expectations) ![](https://img.shields.io/github/stars/great-expectations/great_expectations.svg?style=social) - Always know what to expect from your data.
 - [Portkey](https://portkey.ai/) - Provides logging, caching, tagging, tracing, retries, and more for LLM apps.
 - [whylogs](https://github.com/whylabs/whylogs) ![](https://img.shields.io/github/stars/whylabs/whylogs.svg?style=social) - The open standard for data logging
-
+- [Giskard](https://github.com/Giskard-AI/giskard) ![](https://img.shields.io/github/stars/Giskard-AI/giskard.svg?style=social) - Testing framework dedicated to ML models, from tabular to LLMs. Detect risks of biases, performance issues and errors in 4 lines of code.
 
 **[⬆ back to ToC](#table-of-contents)**
 

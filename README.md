@@ -197,6 +197,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 ## Foundation Model Fine Tuning
 
 - [alpaca-lora](https://github.com/tloen/alpaca-lora) ![](https://img.shields.io/github/stars/tloen/alpaca-lora.svg?style=social) - Instruct-tune LLaMA on consumer hardware
+- [finetuning-scheduler](https://github.com/speediedan/finetuning-scheduler) ![](https://img.shields.io/github/stars/speediedan/finetuning-scheduler.svg?style=social) - A PyTorch Lightning extension that accelerates and enhances foundation model experimentation with flexible fine-tuning schedules.
 - [LMFlow](https://github.com/OptimalScale/LMFlow) ![](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg?style=social) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models
 - [Lora](https://github.com/cloneofsimo/lora) ![](https://img.shields.io/github/stars/cloneofsimo/lora.svg?style=social) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [peft](https://github.com/huggingface/peft) ![](https://img.shields.io/github/stars/huggingface/peft.svg?style=social) - State-of-the-art Parameter-Efficient Fine-Tuning.

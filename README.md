@@ -30,6 +30,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
   - [Frameworks for Training](#frameworks-for-training)
   - [Experiment Tracking](#experiment-tracking)
   - [Visualization](#visualization)
+  - [Model Editing](#model-editing)
 - [Data](#data)
   - [Data Management](#data-management)
   - [Data Storage](#data-storage)
@@ -62,6 +63,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Falcon 40B](https://huggingface.co/tiiuae/falcon-40b-instruct) - Falcon-40B-Instruct is a 40B parameters causal decoder-only model built by TII based on Falcon-40B and finetuned on a mixture of Baize. It is made available under the Apache 2.0 license.
 - [FastChat (Vicuna)](https://github.com/lm-sys/FastChat) ![](https://img.shields.io/github/stars/lm-sys/FastChat.svg?style=social) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [GLM-6B (ChatGLM)](https://github.com/THUDM/ChatGLM-6B) ![](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg?style=social) - An Open Bilingual Pre-Trained Model, quantization of ChatGLM-130B, can run on consumer-level GPUs.
+- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) ![](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B.svg?style=social) - ChatGLM2-6B is the second-generation version of the open-source bilingual (Chinese-English) chat model [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B).
 - [GLM-130B (ChatGLM)](https://github.com/THUDM/GLM-130B) ![](https://img.shields.io/github/stars/THUDM/GLM-130B.svg?style=social) - An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM) ![](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM.svg?style=social) - A Chinese LLM, Based on LLaMA and fine tune by Stanford Alpaca, Alpaca LoRA, Japanese-Alpaca-LoRA.
@@ -110,7 +112,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Triton Server (TRTIS)](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) ![](https://img.shields.io/github/stars/jina-ai/langchain-serve.svg?style=social) - Serverless LLM apps on Production with Jina AI Cloud
 - [lanarky](https://github.com/ajndkr/lanarky) ![](https://img.shields.io/github/stars/ajndkr/lanarky.svg?style=social) - FastAPI framework to build production-grade LLM applications
-
+- [xorbits](https://github.com/xorbitsai/xorbits) ![](https://img.shields.io/github/stars/xorbitsai/xorbits.svg?style=social) - Scalable Python DS & ML, in an API compatible & lightning fast way.
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Observability
@@ -255,6 +257,9 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [dtreeviz](https://github.com/parrt/dtreeviz) ![](https://img.shields.io/github/stars/parrt/dtreeviz.svg?style=social) - A python library for decision tree visualization and model interpretation.
 - [Zetane Viewer](https://github.com/zetane/viewer) ![](https://img.shields.io/github/stars/zetane/viewer.svg?style=social) - ML models and internal tensors 3D visualizer.
 - [Zeno](https://github.com/zeno-ml/zeno) ![](https://img.shields.io/github/stars/zeno-ml/zeno.svg?style=social) - AI evaluation platform for interactively exploring data and model outputs.
+
+## Model Editing
+[FastEdit](https://github.com/hiyouga/FastEdit) ![](https://img.shields.io/github/stars/hiyouga/FastEdit.svg?style=social) - FastEdit aims to assist developers with injecting fresh and customized knowledge into large language models efficiently using one single command.
 
 **[⬆ back to ToC](#table-of-contents)**
 

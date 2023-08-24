@@ -30,6 +30,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
   - [Frameworks for Training](#frameworks-for-training)
   - [Experiment Tracking](#experiment-tracking)
   - [Visualization](#visualization)
+  - [Model Editing](#model-editing)
 - [Data](#data)
   - [Data Management](#data-management)
   - [Data Storage](#data-storage)
@@ -256,6 +257,9 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [dtreeviz](https://github.com/parrt/dtreeviz) ![](https://img.shields.io/github/stars/parrt/dtreeviz.svg?style=social) - A python library for decision tree visualization and model interpretation.
 - [Zetane Viewer](https://github.com/zetane/viewer) ![](https://img.shields.io/github/stars/zetane/viewer.svg?style=social) - ML models and internal tensors 3D visualizer.
 - [Zeno](https://github.com/zeno-ml/zeno) ![](https://img.shields.io/github/stars/zeno-ml/zeno.svg?style=social) - AI evaluation platform for interactively exploring data and model outputs.
+
+## Model Editing
+[FastEdit](https://github.com/hiyouga/FastEdit) ![](https://img.shields.io/github/stars/hiyouga/FastEdit.svg?style=social) - FastEdit aims to assist developers with injecting fresh and customized knowledge into large language models efficiently using one single command.
 
 **[⬆ back to ToC](#table-of-contents)**
 

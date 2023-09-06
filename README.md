@@ -103,6 +103,9 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [lmdeploy](https://github.com/InternLM/lmdeploy) ![](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social)  -  A toolkit for compressing, deploying, and serving LLMs. Seems faster than text-generation-inference
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg?style=social)  - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2) ![](https://img.shields.io/github/stars/OpenNMT/CTranslate2.svg?style=social)  - Fast inference engine for Transformer models
+- [OpenLLM](https://github.com/bentoml/OpenLLM)  ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg?style=social)  - Operating LLMs in production
+- [mlc-llm](https://github.com/mlc-ai/mlc-llm) ![](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg?style=social)  - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- 
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -117,6 +120,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) ![](https://img.shields.io/github/stars/jina-ai/langchain-serve.svg?style=social) - Serverless LLM apps on Production with Jina AI Cloud
 - [lanarky](https://github.com/ajndkr/lanarky) ![](https://img.shields.io/github/stars/ajndkr/lanarky.svg?style=social) - FastAPI framework to build production-grade LLM applications
 - [xorbits](https://github.com/xorbitsai/xorbits) ![](https://img.shields.io/github/stars/xorbitsai/xorbits.svg?style=social) - Scalable Python DS & ML, in an API compatible & lightning fast way.
+- [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) ![](https://img.shields.io/github/stars/ray-project/ray.svg?style=social) - A scalable model serving library for building online inference APIs
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Observability

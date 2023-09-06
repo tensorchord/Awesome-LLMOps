@@ -101,7 +101,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=social) - Port of OpenAI's Whisper model in C/C++
 - [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) ![](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=social) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.
 - [lmdeploy](https://github.com/InternLM/lmdeploy) ![](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social)  -  A toolkit for compressing, deploying, and serving LLMs. Seems faster than text-generation-inference
-- [text-generation-webui] (https://github.com/oobabooga/text-generation-webui) ![](https://img.shields.io/github/stars//oobabooga/text-generation-webui.svg?style=social)  - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![](https://img.shields.io/github/stars//oobabooga/text-generation-webui.svg?style=social)  - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 
 **[⬆ back to ToC](#table-of-contents)**
 

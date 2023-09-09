@@ -113,7 +113,8 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Triton Server (TRTIS)](https://github.com/triton-inference-server/server) ![](https://img.shields.io/github/stars/triton-inference-server/server.svg?style=social) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) ![](https://img.shields.io/github/stars/jina-ai/langchain-serve.svg?style=social) - Serverless LLM apps on Production with Jina AI Cloud
 - [lanarky](https://github.com/ajndkr/lanarky) ![](https://img.shields.io/github/stars/ajndkr/lanarky.svg?style=social) - FastAPI framework to build production-grade LLM applications
-- [xorbits](https://github.com/xorbitsai/xorbits) ![](https://img.shields.io/github/stars/xorbitsai/xorbits.svg?style=social) - Scalable Python DS & ML, in an API compatible & lightning fast way.
+- [Xinference](https://github.com/xorbitsai/inference) ![](https://img.shields.io/github/stars/xorbitsai/inference.svg?style=social) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
+
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Observability

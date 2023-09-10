@@ -241,8 +241,8 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 ## Experiment Tracking
 
 - [Aim](https://github.com/aimhubio/aim) ![](https://img.shields.io/github/stars/aimhubio/aim.svg?style=social) - an easy-to-use and performant open-source experiment tracker.
-- [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Comet is an MLOps platform that offers experiment tracking, model production management, a model registry, and full data lineage from training straight through to production. Comet plays nicely with all your favorite tools, so you don't have to change your existing workflow. Check out CometLLM for all your prompt engineering needs!
-- [Comet](https://github.com/comet-ml/comet-examples) ![](https://img.shields.io/github/stars/comet-ml/comet-examples.svg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
+- [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management 
+- [Comet](https://github.com/comet-ml/comet-examples) ![](https://img.shields.io/github/stars/comet-ml/comet-examples.svg?style=social) - Comet is an MLOps platform that offers experiment tracking, model production management, a model registry, and full data lineage from training straight through to production. Comet plays nicely with all your favorite tools, so you don't have to change your existing workflow. Check out CometLLM for all your prompt engineering needs!
 - [Guild AI](https://github.com/guildai/guildai) ![](https://img.shields.io/github/stars/guildai/guildai.svg?style=social) - Experiment tracking, ML developer tools.
 - [MLRun](https://github.com/mlrun/mlrun) ![](https://img.shields.io/github/stars/mlrun/mlrun.svg?style=social) - Machine Learning automation and tracking.
 - [Kedro-Viz](https://github.com/kedro-org/kedro-viz) ![](https://img.shields.io/github/stars/kedro-org/kedro-viz.svg?style=social) - Kedro-Viz is an interactive development tool for building data science pipelines with Kedro. Kedro-Viz also allows users to view and compare different runs in the Kedro project.
@@ -315,6 +315,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 ## ML Platforms
 
+- [Comet](https://github.com/comet-ml/comet-examples) ![](https://img.shields.io/github/stars/comet-ml/comet-examples.svg?style=social) - Comet is an MLOps platform that offers experiment tracking, model production management, a model registry, and full data lineage from training straight through to production. Comet plays nicely with all your favorite tools, so you don't have to change your existing workflow. Check out CometLLM for all your prompt engineering needs!
 - [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management.
 - [OpenLLM](https://github.com/bentoml/OpenLLM) ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg?style=social) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 - [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform for the machine learning lifecycle.
@@ -361,6 +362,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 ## Model Management
 
+- [Comet](https://github.com/comet-ml/comet-examples) ![](https://img.shields.io/github/stars/comet-ml/comet-examples.svg?style=social) - Comet is an MLOps platform that offers Model Production Management, a Model Registry, and full model lineage from training straight through to production. Use Comet for model reproducibility, model debugging, model versioning, model visibility, model auditing, model governance, and model monitoring.
 - [dvc](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - Data Version Control | Git for Data & Models | ML Experiments Management
 - [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - Open Source ML Model Versioning, Metadata, and Experiment Management
 - [MLEM](https://github.com/iterative/mlem) ![](https://img.shields.io/github/stars/iterative/mlem.svg?style=social) - A tool to package, serve, and deploy any ML model on any platform.

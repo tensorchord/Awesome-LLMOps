@@ -315,6 +315,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 ## ML Platforms
 
+- [Comet](https://github.com/comet-ml/comet-examples) ![](https://img.shields.io/github/stars/comet-ml/comet-examples.svg?style=social) - Comet is an MLOps platform that offers experiment tracking, model production management, a model registry, and full data lineage from training straight through to production. Comet plays nicely with all your favorite tools, so you don't have to change your existing workflow. Check out CometLLM for all your prompt engineering needs!
 - [ClearML](https://github.com/allegroai/clearml) ![](https://img.shields.io/github/stars/allegroai/clearml.svg?style=social) - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management.
 - [OpenLLM](https://github.com/bentoml/OpenLLM) ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg?style=social) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 - [MLflow](https://github.com/mlflow/mlflow) ![](https://img.shields.io/github/stars/mlflow/mlflow.svg?style=social) - Open source platform for the machine learning lifecycle.

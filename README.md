@@ -361,6 +361,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 ## Model Management
 
+- [Comet](https://github.com/comet-ml/comet-examples) ![](https://img.shields.io/github/stars/comet-ml/comet-examples.svg?style=social) - Comet is an MLOps platform that offers Model Production Management, a Model Registry, and full model lineage from training straight through to production. Use Comet for model reproducibility, model debugging, model versioning, model visibility, model auditing, model governance, and model monitoring.
 - [dvc](https://github.com/iterative/dvc) ![](https://img.shields.io/github/stars/iterative/dvc.svg?style=social) - Data Version Control | Git for Data & Models | ML Experiments Management
 - [ModelDB](https://github.com/VertaAI/modeldb) ![](https://img.shields.io/github/stars/VertaAI/modeldb.svg?style=social) - Open Source ML Model Versioning, Metadata, and Experiment Management
 - [MLEM](https://github.com/iterative/mlem) ![](https://img.shields.io/github/stars/iterative/mlem.svg?style=social) - A tool to package, serve, and deploy any ML model on any platform.

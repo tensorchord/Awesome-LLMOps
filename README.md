@@ -119,6 +119,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 ## Observability
 
+- [Azure OpenAI Logger](https://github.com/aavetis/azure-openai-logger) ![](https://img.shields.io/github/stars/aavetis/azure-openai-logger?style=social) - "Batteries included" logging solution for your Azure OpenAI instance.
 - [Deepchecks](https://github.com/deepchecks/deepchecks) ![](https://img.shields.io/github/stars/deepchecks/deepchecks.svg?style=social) - Tests for Continuous Validation of ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort.
 - [Evidently](https://github.com/evidentlyai/evidently) ![](https://img.shields.io/github/stars/evidentlyai/evidently.svg?style=social) - Evaluate and monitor ML models from validation to production.
 - [Giskard](https://github.com/Giskard-AI/giskard) ![](https://img.shields.io/github/stars/Giskard-AI/giskard.svg?style=social) - Testing framework dedicated to ML models, from tabular to LLMs. Detect risks of biases, performance issues and errors in 4 lines of code.

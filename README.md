@@ -184,9 +184,10 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 **[⬆ back to ToC](#table-of-contents)**
 
 # Code AI
-
+- [CodeGeeX](https://github.com/THUDM/CodeGeeX) ![](https://img.shields.io/github/stars/THUDM/CodeGeeX.svg?style=social) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [CodeGen](https://github.com/salesforce/CodeGen) ![](https://img.shields.io/github/stars/salesforce/CodeGen.svg?style=social) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [CodeT5](https://github.com/salesforce/CodeT5) ![](https://img.shields.io/github/stars/salesforce/CodeT5.svg?style=social) - Open Code LLMs for Code Understanding and Generation.
+- [Continue](https://github.com/continuedev/continue) ![](https://img.shields.io/github/stars/continuedev/continue.svg?style=social) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code
 - [fauxpilot](https://github.com/fauxpilot/fauxpilot) ![](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg?style=social) - An open-source alternative to GitHub Copilot server
 - [tabby](https://github.com/TabbyML/tabby) ![](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=social) - Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.
 

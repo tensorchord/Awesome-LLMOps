@@ -166,6 +166,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 ## Vector search
 
 - [AquilaDB](https://github.com/Aquila-Network/AquilaDB) ![](https://img.shields.io/github/stars/Aquila-Network/AquilaDB.svg?style=social) - An easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search.
+- [Awadb](https://github.com/awa-ai/awadb) ![](https://img.shields.io/github/stars/awa-ai/awadb.svg?style=social) - AI Native database for embedding vectors
 - [Chroma](https://github.com/chroma-core/chroma) ![](https://img.shields.io/github/stars/chroma-core/chroma.svg?style=social) - the open source embedding database
 - [Lancedb](https://github.com/lancedb/lancedb) ![](https://img.shields.io/github/starslancedb/lancedb.svg?style=social) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 - [Marqo](https://github.com/marqo-ai/marqo) ![](https://img.shields.io/github/stars/marqo-ai/marqo.svg?style=social) - Tensor search for humans.

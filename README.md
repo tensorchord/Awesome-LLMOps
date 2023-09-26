@@ -167,6 +167,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 - [AquilaDB](https://github.com/Aquila-Network/AquilaDB) ![](https://img.shields.io/github/stars/Aquila-Network/AquilaDB.svg?style=social) - An easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search.
 - [Chroma](https://github.com/chroma-core/chroma) ![](https://img.shields.io/github/stars/chroma-core/chroma.svg?style=social) - the open source embedding database
+- [Lancedb](https://github.com/lancedb/lancedb) ![](https://img.shields.io/github/starslancedb/lancedb.svg?style=social) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 - [Marqo](https://github.com/marqo-ai/marqo) ![](https://img.shields.io/github/stars/marqo-ai/marqo.svg?style=social) - Tensor search for humans.
 - [Milvus](https://github.com/milvus-io/milvus) ![](https://img.shields.io/github/stars/milvus-io/milvus.svg?style=social) - Vector database for scalable similarity search and AI applications.
 - [Pinecone](https://www.pinecone.io/) - The Pinecone vector database makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.

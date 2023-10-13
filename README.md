@@ -472,5 +472,5 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) ![](https://img.shields.io/github/stars/kelvins/awesome-mlops.svg?style=social) - A curated list of awesome MLOps tools.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social) - An awesome list of references for MLOps - Machine Learning Operations
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) ![](https://img.shields.io/github/stars/currentslab/awesome-vector-search.svg?style=social) - A curated list of awesome vector search framework/engine, library, cloud service and research papers to vector similarity search.
-
+- [pleisto/flappy](https://github.com/pleisto/flappy) ![](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) - Production-Ready LLM Agent SDK for Every Developer
 **[⬆ back to ToC](#table-of-contents)**

@@ -91,12 +91,18 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 ## Large Model Serving
 
 - [Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve) ![](https://img.shields.io/github/stars/deep-diver/Alpaca-LoRA-Serve.svg?style=social) - Alpaca-LoRA as Chatbot service
+- [CTranslate2](https://github.com/OpenNMT/CTranslate2) ![](https://img.shields.io/github/stars/OpenNMT/CTranslate2.svg?style=social) - fast inference engine for Transformer models in C++
+- [Clip-as-a-service](https://github.com/jina-ai/clip-as-service) ![](https://img.shields.io/github/stars/jina-ai/clip-as-service.svg?style=social) - serving the OpenAI CLIP model
 - [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed-MII.svg?style=social) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+- [Faster Whisper](https://github.com/guillaumekln/faster-whisper) ![](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg?style=social) - fast inference engine for whisper in C++ using CTranslate2.
 - [FlexGen](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [Flowise](https://github.com/FlowiseAI/Flowise) ![](https://img.shields.io/github/stars/FlowiseAI/Flowise.svg?style=social) - Drag & drop UI to build your customized LLM flow using LangchainJS.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) ![](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social) - Port of Facebook's LLaMA model in C/C++
+- [Infinity](https://github.com/michaelfeil/infinity) ![](https://img.shields.io/github/stars/michaelfeil/infinity.svg?style=social) - Rest API server for serving text-embeddings
 - [Modelz-LLM](https://github.com/tensorchord/modelz-llm) ![](https://img.shields.io/github/stars/tensorchord/modelz-llm.svg?style=social) - OpenAI compatible API for LLMs and embeddings (LLaMA, Vicuna, ChatGLM and many others)
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) - Inference engine for TensorRT on Nvidia GPUs
 - [text-generation-inference](https://github.com/huggingface/text-generation-inference) ![](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social) - Large Language Model Text Generation Inference
+- [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) ![](https://img.shields.io/github/stars/huggingface/text-embeddings-inference.svg?style=social) - Inference for text-embedding models
 - [vllm](https://github.com/vllm-project/vllm) ![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=social) - Port of OpenAI's Whisper model in C/C++
 - [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) ![](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=social) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.
@@ -213,7 +219,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [peft](https://github.com/huggingface/peft) ![](https://img.shields.io/github/stars/huggingface/peft.svg?style=social) - State-of-the-art Parameter-Efficient Fine-Tuning.
 - [p-tuning-v2](https://github.com/THUDM/P-tuning-v2) ![](https://img.shields.io/github/stars/THUDM/P-tuning-v2.svg?style=social) - An optimized prompt tuning strategy achieving comparable performance to fine-tuning on small/medium-sized models and sequence tagging challenges. [(ACL 2022)](https://arxiv.org/abs/2110.07602)
 - [QLoRA](https://github.com/artidoro/qlora) ![](https://img.shields.io/github/stars/artidoro/qlora.svg?style=social) - Efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance.
-
+- [TRL](https://github.com/huggingface/trl) ![](https://img.shields.io/github/stars/huggingface/trl.svg?style=social) - Train transformer language models with reinforcement learning. 
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Frameworks for Training

@@ -20,6 +20,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
   - [Large Model Serving](#large-model-serving)
   - [Frameworks/Servers for Serving](#frameworksservers-for-serving)
   - [Observability](#observability)
+- [Security](#security)
 - [LLMOps](#llmops)
 - [Search](#search)
   - [Vector search](#vector-search)
@@ -121,6 +122,15 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [lanarky](https://github.com/ajndkr/lanarky) ![](https://img.shields.io/github/stars/ajndkr/lanarky.svg?style=social) - FastAPI framework to build production-grade LLM applications
 - [ray-llm](https://github.com/ray-project/ray-llm) ![](https://img.shields.io/github/stars/ray-project/ray-llm.svg?style=social) - RayLLM - LLMs on Ray
 - [Xinference](https://github.com/xorbitsai/inference) ![](https://img.shields.io/github/stars/xorbitsai/inference.svg?style=social) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
+
+**[⬆ back to ToC](#table-of-contents)**
+
+# Security
+
+## Frameworks for LLM security
+
+- [Plexiglass](https://github.com/kortex-labs/plexiglass) ![](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social
+) - A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms.
 
 **[⬆ back to ToC](#table-of-contents)**
 

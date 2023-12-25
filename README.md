@@ -102,6 +102,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) ![](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg?style=social) - Port of Facebook's LLaMA model in C/C++
 - [Infinity](https://github.com/michaelfeil/infinity) ![](https://img.shields.io/github/stars/michaelfeil/infinity.svg?style=social) - Rest API server for serving text-embeddings
 - [Modelz-LLM](https://github.com/tensorchord/modelz-llm) ![](https://img.shields.io/github/stars/tensorchord/modelz-llm.svg?style=social) - OpenAI compatible API for LLMs and embeddings (LLaMA, Vicuna, ChatGLM and many others)
+- [Ollama](https://github.com/jmorganca/ollama) ![](https://img.shields.io/github/stars/jmorganca/ollama.svg?style=social) - Serve Llama 2 and other large language models locally from command line or through a browser interface.
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) - Inference engine for TensorRT on Nvidia GPUs
 - [text-generation-inference](https://github.com/huggingface/text-generation-inference) ![](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social) - Large Language Model Text Generation Inference
 - [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) ![](https://img.shields.io/github/stars/huggingface/text-embeddings-inference.svg?style=social) - Inference for text-embedding models

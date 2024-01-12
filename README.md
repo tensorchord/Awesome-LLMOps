@@ -141,6 +141,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Azure OpenAI Logger](https://github.com/aavetis/azure-openai-logger) ![](https://img.shields.io/github/stars/aavetis/azure-openai-logger?style=social) - "Batteries included" logging solution for your Azure OpenAI instance.
 - [Deepchecks](https://github.com/deepchecks/deepchecks) ![](https://img.shields.io/github/stars/deepchecks/deepchecks.svg?style=social) - Tests for Continuous Validation of ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort.
 - [Evidently](https://github.com/evidentlyai/evidently) ![](https://img.shields.io/github/stars/evidentlyai/evidently.svg?style=social) - Evaluate and monitor ML models from validation to production.
+- [Fiddler AI](https://github.com/fiddler-labs/fiddler-auditor) ![](https://img.shields.io/github/stars/fiddler-labs/fiddler-auditor.svg?style=social) - Evaluate, monitor, analyze, and improve machine learning and generative models from pre-production to production. Ship more ML and LLMs into production, and monitor ML and LLM metrics like hallucination, PII, and toxicity.
 - [Giskard](https://github.com/Giskard-AI/giskard) ![](https://img.shields.io/github/stars/Giskard-AI/giskard.svg?style=social) - Testing framework dedicated to ML models, from tabular to LLMs. Detect risks of biases, performance issues and errors in 4 lines of code.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) ![](https://img.shields.io/github/stars/great-expectations/great_expectations.svg?style=social) - Always know what to expect from your data.
 - [Portkey](https://portkey.ai/) - Provides logging, caching, tagging, tracing, retries, and more for LLM apps.
@@ -158,6 +159,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Dify](https://github.com/langgenius/dify) ![](https://img.shields.io/github/stars/langgenius/dify.svg?style=social) - Open-source framework aims to enable developers (and even non-developers) to quickly build useful applications based on large language models, ensuring they are visual, operable, and improvable.
 - [Dstack](https://github.com/dstackai/dstack) ![](https://img.shields.io/github/stars/dstackai/dstack.svg?style=social) - Cost-effective LLM development in any cloud (AWS, GCP, Azure, Lambda, etc).
 - [Embedchain](https://github.com/embedchain/embedchain) ![](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
+- [Fiddler AI](https://www.fiddler.ai/llmops) - Evaluate, monitor, analyze, and improve MLOps and LLMOps from pre-production to production.
 - [GPTCache](https://github.com/zilliztech/GPTCache) ![](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?style=social) - Creating semantic cache to store responses from LLM queries.
 - [Haystack](https://github.com/deepset-ai/haystack) ![](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social) - Quickly compose applications with LLM Agents, semantic search, question-answering and more.
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability
@@ -278,6 +280,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 
 ## Visualization
 
+- [Fiddler AI](https://github.com/fiddler-labs) - Rich dashboards, reports, and UMAP to perform root cause analysis, pinpoint problem areas, like correctness, safety, and privacy issues, and improve LLM outcomes. 
 - [Maniford](https://github.com/uber/manifold) ![](https://img.shields.io/github/stars/uber/manifold.svg?style=social) - A model-agnostic visual debugging tool for machine learning.
 - [netron](https://github.com/lutzroeder/netron) ![](https://img.shields.io/github/stars/lutzroeder/netron.svg?style=social) - Visualizer for neural network, deep learning, and machine learning models.
 - [OpenOps](https://github.com/ThePlugJumbo/openops) ![](https://img.shields.io/github/stars/theplugjumbo/openops.svg?style=social) - Bring multiple data streams into one dashboard.

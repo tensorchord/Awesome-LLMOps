@@ -160,6 +160,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Dstack](https://github.com/dstackai/dstack) ![](https://img.shields.io/github/stars/dstackai/dstack.svg?style=social) - Cost-effective LLM development in any cloud (AWS, GCP, Azure, Lambda, etc).
 - [Embedchain](https://github.com/embedchain/embedchain) ![](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
 - [Fiddler AI](https://www.fiddler.ai/llmops) - Evaluate, monitor, analyze, and improve MLOps and LLMOps from pre-production to production.
+- [Glide](https://github.com/EinStack/glide) ![](https://img.shields.io/github/stars/einstack/glide.svg?style=social) - Cloud-Native LLM Routing Engine. Improve LLM app resilience and speed.
 - [GPTCache](https://github.com/zilliztech/GPTCache) ![](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?style=social) - Creating semantic cache to store responses from LLM queries.
 - [Haystack](https://github.com/deepset-ai/haystack) ![](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social) - Quickly compose applications with LLM Agents, semantic search, question-answering and more.
 - [langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=social) - Building applications with LLMs through composability

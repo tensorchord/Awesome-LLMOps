@@ -69,6 +69,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM) ![](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM.svg?style=social) - A Chinese LLM, Based on LLaMA and fine tune by Stanford Alpaca, Alpaca LoRA, Japanese-Alpaca-LoRA.
 - [Mixtral-8x7B-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1) - The Mixtral-8x7B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts.
+- [Prompteams] (https://www.prompteams.com/) - Prompt management system. Version, test, collaborate, and retrieve prompts through real-time API's. Have GitHub style with repos, branches, and commits (and commit history).
 - [StableLM](https://github.com/Stability-AI/StableLM) ![](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?style=social) - StableLM: Stability AI Language Models
 
 **[⬆ back to ToC](#table-of-contents)**

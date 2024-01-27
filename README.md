@@ -182,6 +182,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Weights & Biases (Prompts)](https://docs.wandb.ai/guides/prompts)- A suite of LLMOps tools within the developer-first W&B MLOps platform. Utilize W&B Prompts for visualizing and inspecting LLM execution flow, tracking inputs and outputs, viewing intermediate results, securely managing prompts and LLM chain configurations.
 - [xTuring](https://github.com/stochasticai/xturing) ![](https://img.shields.io/github/stars/stochasticai/xturing.svg?style=social) - Build and control your personal LLMs with fast and efficient fine-tuning.
 - [ZenML](https://github.com/zenml-io/zenml) ![](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=social) - Open-source framework for orchestrating, experimenting and deploying production-grade ML solutions, with built-in `langchain` & `llama_index` integrations.
+- [Parea AI](https://www.parea.ai/) ![](https://img.shields.io/github/stars/parea-ai/parea-sdk-py?style=social)- Platform and SDK for AI Engineers providing tools for LLM evaluation, observability, and a version-controlled enhanced prompt playground.
 
 **[⬆ back to ToC](#table-of-contents)**
 

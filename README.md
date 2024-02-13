@@ -461,6 +461,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [TPOT](http://automl.info/tpot/) ![](https://img.shields.io/github/stars/tpot/.svg?style=social) - one of the very first AutoML methods and open-source software packages.
 - [Torchmeta](https://github.com/tristandeleu/pytorch-meta) ![](https://img.shields.io/github/stars/tristandeleu/pytorch-meta.svg?style=social) - A Meta-Learning library for PyTorch.
 - [Vegas](https://github.com/huawei-noah/vega) ![](https://img.shields.io/github/stars/huawei-noah/vega.svg?style=social) - an AutoML algorithm tool chain by Huawei Noah's Arb Lab.
+- [Intelli](https://github.com/intelligentnode/Intelli) ![](https://img.shields.io/github/stars/intelligentnode/Intelli?style=social) - a framework to connect a flow of ML models by applying graph theory.
 
 **[⬆ back to ToC](#table-of-contents)**
 

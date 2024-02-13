@@ -443,7 +443,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 - [Hypernets](https://github.com/DataCanvasIO/Hypernets) ![](https://img.shields.io/github/stars/DataCanvasIO/Hypernets.svg?style=social) - A General Automated Machine Learning Framework.
 - [Hyperopt](https://github.com/hyperopt/hyperopt) ![](https://img.shields.io/github/stars/hyperopt/hyperopt.svg?style=social) - Distributed Asynchronous Hyperparameter Optimization in Python.
 - [hyperunity](https://github.com/gdikov/hypertunity) ![](https://img.shields.io/github/stars/gdikov/hypertunity.svg?style=social) - A toolset for black-box hyperparameter optimisation.
-- [Intelli](https://github.com/intelligentnode/Intelli) ![](https://img.shields.io/github/stars/intelligentnode/Intelli?style=social) - a framework to connect a flow of ML models by applying graph theory.
+- [Intelli](https://github.com/intelligentnode/Intelli) ![](https://img.shields.io/github/stars/intelligentnode/Intelli?style=social) - A framework to connect a flow of ML models by applying graph theory.
 - [Katib](https://github.com/kubeflow/katib) ![](https://img.shields.io/github/stars/kubeflow/katib.svg?style=social) - Katib is a Kubernetes-native project for automated machine learning (AutoML).
 - [Keras Tuner](https://github.com/keras-team/keras-tuner) ![](https://img.shields.io/github/stars/keras-team/keras-tuner.svg?style=social) - Hyperparameter tuning for humans.
 - [learn2learn](https://github.com/learnables/learn2learn) ![](https://img.shields.io/github/stars/learnables/learn2learn.svg?style=social) - PyTorch Meta-learning Framework for Researchers.

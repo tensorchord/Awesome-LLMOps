@@ -227,6 +227,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Vald](https://github.com/vdaas/vald) | A Highly Scalable Distributed Vector Search Engine | ![GitHub Badge](https://img.shields.io/github/stars/vdaas/vald.svg?style=flat-square) |
 | [Vearch](https://github.com/vearch/vearch) | A distributed system for embedding-based vector retrieval | ![GitHub Badge](https://img.shields.io/github/stars/vearch/vearch.svg?style=flat-square) |
 | [VectorDB](https://github.com/jina-ai/vectordb) | A Python vector database you just need - no more, no less. | ![GitHub Badge](https://img.shields.io/github/stars/jina-ai/vectordb.svg?style=flat-square) |
+| [Vellum](https://www.vellum.ai/products/retrieval) | A managed service for ingesting documents and performing hybrid semantic/keyword search across them. Comes with out-of-box support for OCR, text chunking, embedding model experimentation, metadata filtering, and production-grade APIs. | |
 | [Weaviate](https://github.com/semi-technologies/weaviate) | Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. | ![GitHub Badge](https://img.shields.io/github/stars/semi-technologies/weaviate.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

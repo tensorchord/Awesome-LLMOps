@@ -204,6 +204,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Portkey](https://portkey.ai/) | Control Panel with an observability suite & an AI gateway — to ship fast, reliable, and cost-efficient apps. | |
 | [Vellum](https://www.vellum.ai/) | An AI product development platform to experiment with, evaluate, and deploy advanced LLM apps. | |
 | [Weights & Biases (Prompts)](https://docs.wandb.ai/guides/prompts) | A suite of LLMOps tools within the developer-first W&B MLOps platform. Utilize W&B Prompts for visualizing and inspecting LLM execution flow, tracking inputs and outputs, viewing intermediate results, securely managing prompts and LLM chain configurations. | |
+| [Wordware](https://www.wordware.ai) | A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks. | |
 | [xTuring](https://github.com/stochasticai/xturing) | Build and control your personal LLMs with fast and efficient fine-tuning. | ![GitHub Badge](https://img.shields.io/github/stars/stochasticai/xturing.svg?style=flat-square) |
 | [ZenML](https://github.com/zenml-io/zenml) | Open-source framework for orchestrating, experimenting and deploying production-grade ML solutions, with built-in `langchain` & `llama_index` integrations. | ![GitHub Badge](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=flat-square) |
 
@@ -258,6 +259,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [envd](https://github.com/tensorchord/envd) | 🏕️ Reproducible development environment for AI/ML. | ![GitHub Badge](https://img.shields.io/github/stars/tensorchord/envd.svg?style=flat-square) |
 | [Jupyter Notebooks](https://github.com/jupyter/notebook) | The Jupyter notebook is a web-based notebook environment for interactive computing. | ![GitHub Badge](https://img.shields.io/github/stars/jupyter/notebook.svg?style=flat-square) |
 | [Kurtosis](https://github.com/kurtosis-tech/kurtosis) | A build, packaging, and run system for ephemeral multi-container environments. | ![GitHub Badge](https://img.shields.io/github/stars/kurtosis-tech/kurtosis.svg?style=flat-square) |
+| [Wordware](https://www.wordware.ai) | A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks. | |
 
 **[⬆ back to ToC](#table-of-contents)**
 

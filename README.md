@@ -177,6 +177,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Embedchain](https://github.com/embedchain/embedchain) | Framework to create ChatGPT like bots over your dataset. | ![GitHub Badge](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=flat-square) |
 | [Fiddler AI](https://www.fiddler.ai/llmops) | Evaluate, monitor, analyze, and improve MLOps and LLMOps from pre-production to production. | |
 | [Glide](https://github.com/EinStack/glide) | Cloud-Native LLM Routing Engine. Improve LLM app resilience and speed. | ![GitHub Badge](https://img.shields.io/github/stars/einstack/glide.svg?style=flat-square) |
+| [gotoHuman](https://www.gotohuman.com) | Bring a **human into the loop** in your LLM-based workflows. Prompt users to approve actions, select next steps, or review and validate generated results. |
 | [GPTCache](https://github.com/zilliztech/GPTCache) | Creating semantic cache to store responses from LLM queries. | ![GitHub Badge](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?style=flat-square) |
 | [Haystack](https://github.com/deepset-ai/haystack) | Quickly compose applications with LLM Agents, semantic search, question-answering and more. | ![GitHub Badge](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=flat-square) |
 | [Izlo](https://getizlo.com/) | Prompt management tools for teams. Store, improve, test, and deploy your prompts in one unified workspace. | |

@@ -158,6 +158,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Fiddler AI](https://github.com/fiddler-labs/fiddler-auditor) | Evaluate, monitor, analyze, and improve machine learning and generative models from pre-production to production. Ship more ML and LLMs into production, and monitor ML and LLM metrics like hallucination, PII, and toxicity. | ![GitHub Badge](https://img.shields.io/github/stars/fiddler-labs/fiddler-auditor.svg?style=flat-square) |
 | [Giskard](https://github.com/Giskard-AI/giskard) | Testing framework dedicated to ML models, from tabular to LLMs. Detect risks of biases, performance issues and errors in 4 lines of code. | ![GitHub Badge](https://img.shields.io/github/stars/Giskard-AI/giskard.svg?style=flat-square) |
 | [Great Expectations](https://github.com/great-expectations/great_expectations) | Always know what to expect from your data. | ![GitHub Badge](https://img.shields.io/github/stars/great-expectations/great_expectations.svg?style=flat-square) |
+| [Langfuse](https://github.com/langfuse/langfuse) | Open Source LLM Observability: Powerful, model & framework agnostic tracing as well as dataset testing and experimentation | ![GitHub Badge](https://img.shields.io/github/stars/langfuse/langfuse.svg?style=flat-square) |
 | [whylogs](https://github.com/whylabs/whylogs) | The open standard for data logging | ![GitHub Badge](https://img.shields.io/github/stars/whylabs/whylogs.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

@@ -180,6 +180,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Glide](https://github.com/EinStack/glide) | Cloud-Native LLM Routing Engine. Improve LLM app resilience and speed. | ![GitHub Badge](https://img.shields.io/github/stars/einstack/glide.svg?style=flat-square) |
 | [GPTCache](https://github.com/zilliztech/GPTCache) | Creating semantic cache to store responses from LLM queries. | ![GitHub Badge](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?style=flat-square) |
 | [Haystack](https://github.com/deepset-ai/haystack) | Quickly compose applications with LLM Agents, semantic search, question-answering and more. | ![GitHub Badge](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=flat-square) |
+| [Helicone](https://github.com/Helicone/helicone) | Open-source LLM observability platform for logging, monitoring, and debugging AI applications. Simple 1-line integration to get started. | ![GitHub Badge](https://img.shields.io/github/stars/helicone/helicone.svg?style=flat-square) |
 | [Izlo](https://getizlo.com/) | Prompt management tools for teams. Store, improve, test, and deploy your prompts in one unified workspace. | |
 | [Keywords AI](https://keywordsai.co/) | A unified DevOps platform for AI software. Keywords AI makes it easy for developers to build LLM applications. | |
 | [langchain](https://github.com/hwchase17/langchain) | Building applications with LLMs through composability | ![GitHub Badge](https://img.shields.io/github/stars/hwchase17/langchain.svg?style=flat-square) |

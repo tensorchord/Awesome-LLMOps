@@ -179,6 +179,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Fiddler AI](https://www.fiddler.ai/llmops) | Evaluate, monitor, analyze, and improve MLOps and LLMOps from pre-production to production. | |
 | [Glide](https://github.com/EinStack/glide) | Cloud-Native LLM Routing Engine. Improve LLM app resilience and speed. | ![GitHub Badge](https://img.shields.io/github/stars/einstack/glide.svg?style=flat-square) |
 | [GPTCache](https://github.com/zilliztech/GPTCache) | Creating semantic cache to store responses from LLM queries. | ![GitHub Badge](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?style=flat-square) |
+| [GPUStack](https://github.com/gpustack/gpustack) | An open-source GPU cluster manager for running and managing LLMs | ![GitHub Badge](https://img.shields.io/github/stars/gpustack/gpustack.svg?style=flat-square) |
 | [Haystack](https://github.com/deepset-ai/haystack) | Quickly compose applications with LLM Agents, semantic search, question-answering and more. | ![GitHub Badge](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=flat-square) |
 | [Helicone](https://github.com/Helicone/helicone) | Open-source LLM observability platform for logging, monitoring, and debugging AI applications. Simple 1-line integration to get started. | ![GitHub Badge](https://img.shields.io/github/stars/helicone/helicone.svg?style=flat-square) |
 | [Izlo](https://getizlo.com/) | Prompt management tools for teams. Store, improve, test, and deploy your prompts in one unified workspace. | |

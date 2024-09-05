@@ -178,6 +178,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Evidently](https://github.com/evidentlyai/evidently) | An open-source framework to evaluate, test and monitor ML and LLM-powered systems. | ![GitHub Badge](https://img.shields.io/github/stars/evidentlyai/evidently.svg?style=flat-square) |
 | [Fiddler AI](https://www.fiddler.ai/llmops) | Evaluate, monitor, analyze, and improve MLOps and LLMOps from pre-production to production. | |
 | [Glide](https://github.com/EinStack/glide) | Cloud-Native LLM Routing Engine. Improve LLM app resilience and speed. | ![GitHub Badge](https://img.shields.io/github/stars/einstack/glide.svg?style=flat-square) |
+| [gotoHuman](https://www.gotohuman.com) | Bring a **human into the loop** in your LLM-based and agentic workflows. Prompt users to approve actions, select next steps, or review and validate generated results. |
 | [GPTCache](https://github.com/zilliztech/GPTCache) | Creating semantic cache to store responses from LLM queries. | ![GitHub Badge](https://img.shields.io/github/stars/zilliztech/GPTCache.svg?style=flat-square) |
 | [GPUStack](https://github.com/gpustack/gpustack) | An open-source GPU cluster manager for running and managing LLMs | ![GitHub Badge](https://img.shields.io/github/stars/gpustack/gpustack.svg?style=flat-square) |
 | [Haystack](https://github.com/deepset-ai/haystack) | Quickly compose applications with LLM Agents, semantic search, question-answering and more. | ![GitHub Badge](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=flat-square) |

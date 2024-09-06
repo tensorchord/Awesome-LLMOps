@@ -115,6 +115,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | Inference engine for TensorRT on Nvidia GPUs | ![GitHub Badge](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=flat-square) |
 | [text-generation-inference](https://github.com/huggingface/text-generation-inference) | Large Language Model Text Generation Inference | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=flat-square) |
 | [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) | Inference for text-embedding models | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/text-embeddings-inference.svg?style=flat-square) |
+| [tokenizers](https://github.com/huggingface/tokenizers) |  💥 Fast State-of-the-Art Tokenizers optimized for Research and Production | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/tokenizers.svg?style=flat-square) |
 | [vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs. | ![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=flat-square) |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ | ![GitHub Badge](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=flat-square) |
 | [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) | Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention. | ![GitHub Badge](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=flat-square) |
@@ -297,6 +298,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Apache MXNet](https://github.com/apache/mxnet) | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler. | ![GitHub Badge](https://img.shields.io/github/stars/apache/mxnet.svg?style=flat-square) |
 | [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) | A tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures. | ![GitHub Badge](https://img.shields.io/github/stars/OpenAccess-AI-Collective/axolotl.svg?style=flat-square) |
 | [Caffe](https://github.com/BVLC/caffe) | A fast open framework for deep learning. | ![GitHub Badge](https://img.shields.io/github/stars/BVLC/caffe.svg?style=flat-square) |
+| [Candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust . | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/candle.svg?style=flat-square`) |
 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | An integrated large-scale model training system with efficient parallelization techniques. | ![GitHub Badge](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg?style=flat-square) |
 | [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | ![GitHub Badge](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=flat-square) |
 | [Horovod](https://github.com/horovod/horovod) | Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. | ![GitHub Badge](https://img.shields.io/github/stars/horovod/horovod.svg?style=flat-square) |
@@ -405,6 +407,8 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 |---|---|---|
 | [Upgini](https://github.com/upgini/upgini) | Free automated data & feature enrichment library for machine learning: automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features | ![GitHub Badge](https://img.shields.io/github/stars/upgini/upgini.svg?style=flat-square) |
 | [Feast](https://github.com/feast-dev/feast) | An open source feature store for machine learning. | ![GitHub Badge](https://img.shields.io/github/stars/feast-dev/feast.svg?style=flat-square) |
+| [distilabel](https://github.com/argilla-io/distilabel) |  ⚗️ distilabel is a framework for synthetic data and AI feedback for AI engineers that require high-quality outputs, full data ownership, and overall efficiency.  | ![GitHub Badge](https://img.shields.io/github/stars/argilla-io/distilabel.svg?style=flat-square) |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -484,6 +488,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | Project | Details | Repository |
 |---|---|---|
 | [ONNX-MLIR](https://github.com/onnx/onnx-mlir) | Compiler technology to transform a valid Open Neural Network Exchange (ONNX) graph into code that implements the graph with minimum runtime support. | ![GitHub Badge](https://img.shields.io/github/stars/onnx/onnx-mlir.svg?style=flat-square) |
+| [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) |  Accessible large language models via k-bit quantization for PyTorch.  | ![GitHub Badge](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=flat-square) |
 | [TVM](https://github.com/apache/tvm) | Open deep learning compiler stack for cpu, gpu and specialized accelerators | ![GitHub Badge](https://img.shields.io/github/stars/apache/tvm.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
@@ -533,12 +538,12 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [NNI](https://github.com/Microsoft/nni) | An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. | ![GitHub Badge](https://img.shields.io/github/stars/Microsoft/nni.svg?style=flat-square) |
 | [Optuna](https://github.com/optuna/optuna) | A hyperparameter optimization framework. | ![GitHub Badge](https://img.shields.io/github/stars/optuna/optuna.svg?style=flat-square) |
 | [Pycaret](https://github.com/pycaret/pycaret) | An open-source, low-code machine learning library in Python that automates machine learning workflows. | ![GitHub Badge](https://img.shields.io/github/stars/pycaret/pycaret.svg?style=flat-square) |
-| [Ray Tune](github.com/ray-project/ray) | Scalable Hyperparameter Tuning. | ![GitHub Badge](https://img.shields.io/github/stars/ect/ray.svg?style=flat-square) |
+| [Ray Tune](github.com/ray-project/ray) | Scalable Hyperparameter Tuning. | ![GitHub Badge](https://img.shields.io/github/stars/ray-project/ray.svg?style=flat-square) |
 | [REMBO](https://github.com/ziyuw/rembo) | Bayesian optimization in high-dimensions via random embedding. | ![GitHub Badge](https://img.shields.io/github/stars/ziyuw/rembo.svg?style=flat-square) |
 | [RoBO](https://github.com/automl/RoBO) | a Robust Bayesian Optimization framework. | ![GitHub Badge](https://img.shields.io/github/stars/automl/RoBO.svg?style=flat-square) |
 | [scikit-optimize(skopt)](https://github.com/scikit-optimize/scikit-optimize) | Sequential model-based optimization with a `scipy.optimize` interface. | ![GitHub Badge](https://img.shields.io/github/stars/scikit-optimize/scikit-optimize.svg?style=flat-square) |
 | [Spearmint](https://github.com/HIPS/Spearmint) | a software package to perform Bayesian optimization. | ![GitHub Badge](https://img.shields.io/github/stars/HIPS/Spearmint.svg?style=flat-square) |
-| [TPOT](http://automl.info/tpot/) | one of the very first AutoML methods and open-source software packages. | ![GitHub Badge](https://img.shields.io/github/stars/tpot/.svg?style=flat-square) |
+| [TPOT](http://automl.info/tpot/) | one of the very first AutoML methods and open-source software packages. | ![GitHub Badge](https://img.shields.io/github/stars/EpistasisLab/tpot.svg?style=flat-square) |
 | [Torchmeta](https://github.com/tristandeleu/pytorch-meta) | A Meta-Learning library for PyTorch. | ![GitHub Badge](https://img.shields.io/github/stars/tristandeleu/pytorch-meta.svg?style=flat-square) |
 | [Vegas](https://github.com/huawei-noah/vega) | an AutoML algorithm tool chain by Huawei Noah's Arb Lab. | ![GitHub Badge](https://img.shields.io/github/stars/huawei-noah/vega.svg?style=flat-square) |
 
@@ -554,6 +559,8 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [PocketFlow](https://github.com/Tencent/PocketFlow) | use AutoML to do model compression. | ![GitHub Badge](https://img.shields.io/github/stars/Tencent/PocketFlow.svg?style=flat-square) |
 | [TensorFlow Model Optimization](https://github.com/tensorflow/model-optimization) | A suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution. | ![GitHub Badge](https://img.shields.io/github/stars/tensorflow/model-optimization.svg?style=flat-square) |
 | [TNN](https://github.com/Tencent/TNN) | A uniform deep learning inference framework for mobile, desktop and server. | ![GitHub Badge](https://img.shields.io/github/stars/Tencent/TNN.svg?style=flat-square) |
+| [optimum-tpu](https://github.com/huggingface/optimum-tpu) |  Google TPU optimizations for transformers models  | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/optimum-tpu.svg?style=flat-square) |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 

@@ -1,55 +1,56 @@
 # Awesome LLMOps
 
-<a href="https://discord.gg/KqswhpVgdU"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/KqswhpVgdU?style=flat"></a>
+<a href="https://discord.gg/KqswhpVgdU"><img alt="discord invitation link" src="https://img.shields.io/discord/974584200327991326?style=flat&logo=discord&cacheSeconds=60"></a>
 <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a>
 
 An awesome & curated list of the best LLMOps tools for developers.
 
-## Contribute
-
-Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
+> [!NOTE]
+> Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Model](#model)
-  - [Large Language Model](#large-language-model)
-  - [CV Foundation Model](#cv-foundation-model)
-  - [Audio Foundation Model](#audio-foundation-model)
-- [Serving](#serving)
-  - [Large Model Serving](#large-model-serving)
-  - [Frameworks/Servers for Serving](#frameworksservers-for-serving)
-  - [Observability](#observability)
-- [Security](#security)
-- [LLMOps](#llmops)
-- [Search](#search)
-  - [Vector search](#vector-search)
-- [Code AI](#code-ai)
-- [Training](#training)
-  - [IDEs and Workspaces](#ides-and-workspaces)
-  - [Foundation Model Fine Tuning](#foundation-model-fine-tuning)
-  - [Frameworks for Training](#frameworks-for-training)
-  - [Experiment Tracking](#experiment-tracking)
-  - [Visualization](#visualization)
-  - [Model Editing](#model-editing)
-- [Data](#data)
-  - [Data Management](#data-management)
-  - [Data Storage](#data-storage)
-  - [Data Tracking](#data-tracking)
-  - [Feature Engineering](#feature-engineering)
-  - [Data/Feature enrichment](#datafeature-enrichment)
-- [Large Scale Deployment](#large-scale-deployment)
-  - [ML Platforms](#ml-platforms)
-  - [Workflow](#workflow)
-  - [Scheduling](#scheduling)
-  - [Model Management](#model-management)
-- [Performance](#performance)
-  - [ML Compiler](#ml-compiler)
-  - [Profiling](#profiling)
-- [AutoML](#automl)
-- [Optimizations](#optimizations)
-- [Federated ML](#federated-ml)
-- [Awesome Lists](#awesome-lists)
+- [Awesome LLMOps](#awesome-llmops)
+  - [Table of Contents](#table-of-contents)
+  - [Model](#model)
+    - [Large Language Model](#large-language-model)
+    - [CV Foundation Model](#cv-foundation-model)
+    - [Audio Foundation Model](#audio-foundation-model)
+  - [Serving](#serving)
+    - [Large Model Serving](#large-model-serving)
+    - [Frameworks/Servers for Serving](#frameworksservers-for-serving)
+  - [Security](#security)
+    - [Frameworks for LLM security](#frameworks-for-llm-security)
+    - [Observability](#observability)
+  - [LLMOps](#llmops)
+  - [Search](#search)
+    - [Vector search](#vector-search)
+  - [Code AI](#code-ai)
+  - [Training](#training)
+    - [IDEs and Workspaces](#ides-and-workspaces)
+    - [Foundation Model Fine Tuning](#foundation-model-fine-tuning)
+    - [Frameworks for Training](#frameworks-for-training)
+    - [Experiment Tracking](#experiment-tracking)
+    - [Visualization](#visualization)
+    - [Model Editing](#model-editing)
+  - [Data](#data)
+    - [Data Management](#data-management)
+    - [Data Storage](#data-storage)
+    - [Data Tracking](#data-tracking)
+    - [Feature Engineering](#feature-engineering)
+    - [Data/Feature enrichment](#datafeature-enrichment)
+  - [Large Scale Deployment](#large-scale-deployment)
+    - [ML Platforms](#ml-platforms)
+    - [Workflow](#workflow)
+    - [Scheduling](#scheduling)
+    - [Model Management](#model-management)
+  - [Performance](#performance)
+    - [ML Compiler](#ml-compiler)
+    - [Profiling](#profiling)
+  - [AutoML](#automl)
+  - [Optimizations](#optimizations)
+  - [Federated ML](#federated-ml)
+  - [Awesome Lists](#awesome-lists)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 

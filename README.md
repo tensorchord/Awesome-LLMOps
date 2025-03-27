@@ -139,6 +139,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Xinference](https://github.com/xorbitsai/inference)                       | Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop. | ![GitHub Badge](https://img.shields.io/github/stars/xorbitsai/inference.svg?style=flat-square)            |
 | [KubeAI](https://github.com/substratusai/kubeai)                       | Deploy and scale machine learning models on Kubernetes. Built for LLMs, embeddings, and speech-to-text. | ![GitHub Badge](https://img.shields.io/github/stars/substratusai/kubeai.svg?style=flat-square)             |
 | [Kaito](https://github.com/kaito-project/kaito)                            | A Kubernetes operator that simplifies serving and tuning large AI models (e.g. Falcon or phi-3) using container images and GPU auto-provisioning. Includes an OpenAI-compatible server for inference and preset configurations for popular runtimes such as vLLM and transformers.                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/kaito-project/kaito.svg?style=flat-square)            |
+| [Open Responses](https://docs.julep.ai/open-responses) | Serverless open-source platform for building long-running LLM agents with tool use. | ![GitHub Badge](https://img.shields.io/github/stars/julep-ai/julep.svg?style=flat-square) |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 

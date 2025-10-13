@@ -169,6 +169,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Traceloop OpenLLMetry](https://github.com/traceloop/openllmetry)                              | OpenTelemetry-based observability and monitoring for LLM and agents workflows.                                                           | ![GitHub Badge](https://img.shields.io/github/stars/traceloop/openllmetry.svg?style=flat-square)    
 | [Langfuse 🪢](https://langfuse.com) | Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. | ![GitHub Badge](https://img.shields.io/github/stars/langfuse/langfuse.svg?style=flat-square)              |
 | [whylogs](https://github.com/whylabs/whylogs)                                  | The open standard for data logging                                                                                                                                                                                             | ![GitHub Badge](https://img.shields.io/github/stars/whylabs/whylogs.svg?style=flat-square)                       |
+| [Maxim AI](https://getmaxim.ai) | Platform for AI Agent Simulation, Evaluation & Observability | ![GitHub Badge](https://img.shields.io/github/stars/maximhq/maxim.svg?style=flat-square)              |
 
 **[⬆ back to ToC](#table-of-contents)**
 

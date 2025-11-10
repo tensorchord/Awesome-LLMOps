@@ -286,6 +286,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [CodeT5](https://github.com/salesforce/CodeT5)      | Open Code LLMs for Code Understanding and Generation.                                                    | ![GitHub Badge](https://img.shields.io/github/stars/salesforce/CodeT5.svg?style=flat-square)    |
 | [Continue](https://github.com/continuedev/continue) | ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code              | ![GitHub Badge](https://img.shields.io/github/stars/continuedev/continue.svg?style=flat-square) |
 | [fauxpilot](https://github.com/fauxpilot/fauxpilot) | An open-source alternative to GitHub Copilot server                                                      | ![GitHub Badge](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg?style=flat-square)  |
+| [promptext](https://github.com/1broseidon/promptext) | Smart code context extractor for AI assistants with accurate token counting and budget management        | ![GitHub Badge](https://img.shields.io/github/stars/1broseidon/promptext.svg?style=flat-square) |
 | [tabby](https://github.com/TabbyML/tabby)           | Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.                  | ![GitHub Badge](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=flat-square)        |
 
 ## Training

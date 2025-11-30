@@ -171,6 +171,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Langfuse 🪢](https://langfuse.com) | Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. | ![GitHub Badge](https://img.shields.io/github/stars/langfuse/langfuse.svg?style=flat-square)              |
 | [whylogs](https://github.com/whylabs/whylogs)                                  | The open standard for data logging                                                                                                                                                                                             | ![GitHub Badge](https://img.shields.io/github/stars/whylabs/whylogs.svg?style=flat-square)                       |
 | [Maxim AI](https://getmaxim.ai) | Platform for AI Agent Simulation, Evaluation & Observability | |
+| [LaikaTest](https://laikatest.com/) | Test, monitor, and secure AI prompts with real-time insights and built-in safety. | |
 
 **[⬆ back to ToC](#table-of-contents)**
 

@@ -153,6 +153,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [promptfoo](https://github.com/promptfoo/promptfoo) | LLM red teaming and evaluation framework. Test for jailbreaks, prompt injection, and other vulnerabilities with adversarial attacks. CI/CD integration. | ![GitHub Badge](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

@@ -170,7 +170,10 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Traceloop OpenLLMetry](https://github.com/traceloop/openllmetry)                              | OpenTelemetry-based observability and monitoring for LLM and agents workflows.                                                           | ![GitHub Badge](https://img.shields.io/github/stars/traceloop/openllmetry.svg?style=flat-square)    
 | [Langfuse 🪢](https://langfuse.com) | Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. | ![GitHub Badge](https://img.shields.io/github/stars/langfuse/langfuse.svg?style=flat-square)              |
 | [whylogs](https://github.com/whylabs/whylogs)                                  | The open standard for data logging                                                                                                                                                                                             | ![GitHub Badge](https://img.shields.io/github/stars/whylabs/whylogs.svg?style=flat-square)                       |
-| [Maxim AI](https://getmaxim.ai) | Platform for AI Agent Simulation, Evaluation & Observability | |
+| [Maxim AI](https://getmaxim.ai) | Platform for AI Agent Simulation, Evaluation & Observability |
+| [traceAI](https://github.com/future-agi/traceAI)                                | Open-source AI tracing framework built on OpenTelemetry for deep observability across agentic and LLM workflows.                                                                   | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square)                         |
+| [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -245,6 +248,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Wordware](https://www.wordware.ai)                                | A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.                                                                                                                                                                                                      |                                                                                                           |
 | [xTuring](https://github.com/stochasticai/xturing)                 | Build and control your personal LLMs with fast and efficient fine-tuning.                                                                                                                                                                                                                                                                                                                               | ![GitHub Badge](https://img.shields.io/github/stars/stochasticai/xturing.svg?style=flat-square)           |
 | [ZenML](https://github.com/zenml-io/zenml)                         | Open-source framework for orchestrating, experimenting and deploying production-grade ML solutions, with built-in `langchain` & `llama_index` integrations.                                                                                                                                                                                                                                             | ![GitHub Badge](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=flat-square)                 |
+| [Future AGI](https://github.com/future-agi/ai-evaluation) | Evaluation framework for automated, reproducible scoring of LLM, agent, and workflow performance. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=flat-square) |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -486,6 +491,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Prefect](https://github.com/PrefectHQ/prefect)              | The easiest way to automate your data.                                                                            | ![GitHub Badge](https://img.shields.io/github/stars/PrefectHQ/prefect.svg?style=flat-square)       |
 | [VDP](https://github.com/instill-ai/vdp)                     | An open-source unstructured data ETL tool to streamline the end-to-end unstructured data processing pipeline.     | ![GitHub Badge](https://img.shields.io/github/stars/instill-ai/vdp.svg?style=flat-square)          |
 | [ZenML](https://github.com/zenml-io/zenml)                   | MLOps framework to create reproducible pipelines.                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=flat-square)          |
+| [simulate-sdk](https://github.com/future-agi/simulate-sdk) | Enterprise-grade Voice AI simulation SDK for scenario-driven stress testing of multimodal and agentic systems. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/simulate-sdk?style=flat-square) |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -594,6 +601,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [TensorFlow Model Optimization](https://github.com/tensorflow/model-optimization) | A suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution. | ![GitHub Badge](https://img.shields.io/github/stars/tensorflow/model-optimization.svg?style=flat-square) |
 | [TNN](https://github.com/Tencent/TNN)                                             | A uniform deep learning inference framework for mobile, desktop and server.                                                      | ![GitHub Badge](https://img.shields.io/github/stars/Tencent/TNN.svg?style=flat-square)                   |
 | [optimum-tpu](https://github.com/huggingface/optimum-tpu)                         | Google TPU optimizations for transformers models                                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/optimum-tpu.svg?style=flat-square)       |
+| [agent-opt](https://github.com/future-agi/agent-opt) | Automated optimization engine for improving agent workflows using feedback-driven iterative refinements. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/agent-opt?style=flat-square) |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 

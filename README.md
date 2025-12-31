@@ -254,6 +254,12 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 ## Search
 
+### Hybrid search
+| Project                                                   | Details                                                                                                                                                                                                                                                                                       | Repository                                                                                            |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [Airweave](https://github.com/airweave-ai/airweave)    | An easy way to turn any app into searchable data for LLMs.                                                                                                                                                                              | ![GitHub Badge](https://img.shields.io/github/stars/airweave-ai/airweave.svg?style=flat-square)    |
+
+
 ### Vector search
 
 | Project                                                   | Details                                                                                                                                                                                                                                                                                       | Repository                                                                                            |

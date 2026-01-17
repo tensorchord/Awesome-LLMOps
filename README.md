@@ -504,6 +504,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Slurm](https://github.com/SchedMD/slurm)           | A Highly Scalable Workload Manager.                                            | ![GitHub Badge](https://img.shields.io/github/stars/SchedMD/slurm.svg?style=flat-square)         |
 | [Volcano](https://github.com/volcano-sh/volcano)    | A Cloud Native Batch System (Project under CNCF).                              | ![GitHub Badge](https://img.shields.io/github/stars/volcano-sh/volcano.svg?style=flat-square)    |
 | [Yunikorn](https://github.com/apache/yunikorn-core) | Light-weight, universal resource scheduler for container orchestrator systems. | ![GitHub Badge](https://img.shields.io/github/stars/apache/yunikorn-core.svg?style=flat-square)  |
+| [agent-manager](https://github.com/fractalmind-ai/agent-manager-skill) | tmux + Python agent lifecycle manager; cron-friendly scheduling for multi-agent CLI workflows. | ![GitHub Badge](https://img.shields.io/github/stars/fractalmind-ai/agent-manager-skill.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

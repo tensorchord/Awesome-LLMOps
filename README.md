@@ -151,7 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
-| [MOSS](https://github.com/mosscomputing/moss) | Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for agent attribution, compliance, and policy enforcement. | ![GitHub Badge](https://img.shields.io/github/stars/mosscomputing/moss?style=flat-square) |
+| [MOSS](https://pypi.org/project/moss-sdk/) | Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for agent attribution, compliance, and policy enforcement. | ![GitHub Badge](https://img.shields.io/github/stars/mosscomputing/moss?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

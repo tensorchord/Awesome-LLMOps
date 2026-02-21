@@ -150,6 +150,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Blindfold](https://blindfold.dev)                      | PII detection and protection API for AI applications. Detects and tokenizes personal data (names, emails, phones, addresses, SSNs) across 18+ languages before it reaches LLMs. Supports redaction, masking, and encryption with GDPR/HIPAA compliance policies. | ![GitHub Badge](https://img.shields.io/github/stars/blindfold-dev/blindfold-sdk?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

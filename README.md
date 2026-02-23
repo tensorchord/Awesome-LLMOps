@@ -151,6 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [leashed](https://github.com/dormstern/leashed) | Policy engine, audit log, and kill switch for AI agents. Allow/deny patterns, time limits, and emergency revocation. | ![GitHub Badge](https://img.shields.io/github/stars/dormstern/leashed?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

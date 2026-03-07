@@ -152,7 +152,6 @@ An awesome & curated list of the best LLMOps tools for developers.
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 | [Safeguard](https://github.com/lukeslp/oss-safeguard-ux) | Web interface for OpenAI's gpt-oss-safeguard-20b model with streaming verdicts, editable policies for 8 safety categories, WCAG 2.1 AA accessibility. | ![GitHub Badge](https://img.shields.io/github/stars/lukeslp/oss-safeguard-ux.svg?style=flat-square) |
-| [Safeguard](https://github.com/lukeslp/oss-safeguard-ux) | Web interface for OpenAI's gpt-oss-safeguard-20b model with streaming verdicts, editable policies for 8 safety categories, WCAG 2.1 AA accessibility. | ![GitHub Badge](https://img.shields.io/github/stars/lukeslp/oss-safeguard-ux.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

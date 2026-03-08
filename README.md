@@ -151,6 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [Sentinel AI](https://github.com/MaxwellCalkin/sentinel-ai) | Real-time safety guardrails for LLM apps — prompt injection detection (12 languages), PII redaction, code vulnerability scanning, MCP safety proxy. Sub-millisecond latency, zero ML dependencies. | ![GitHub Badge](https://img.shields.io/github/stars/MaxwellCalkin/sentinel-ai?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

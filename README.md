@@ -224,6 +224,7 @@
 * **[Graphiti](https://github.com/getzep/graphiti)**: Build Real-Time Knowledge Graphs for AI Agents. ![Stars](https://img.shields.io/github/stars/getzep/graphiti.svg?style=flat&color=green) ![Contributors](https://img.shields.io/github/contributors/getzep/graphiti?color=green) ![LastCommit](https://img.shields.io/github/last-commit/getzep/graphiti?color=green)
 * **[Mem0](https://github.com/mem0ai/mem0)**: The Memory layer for AI Agents. ![Stars](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=flat&color=green) ![Contributors](https://img.shields.io/github/contributors/mem0ai/mem0?color=green) ![LastCommit](https://img.shields.io/github/last-commit/mem0ai/mem0?color=green)
 * **[OpenAI CUA](https://github.com/openai/openai-cua-sample-app)**: Computer Using Agent Sample App. ![Stars](https://img.shields.io/github/stars/openai/openai-cua-sample-app.svg?style=flat&color=green) ![Contributors](https://img.shields.io/github/contributors/openai/openai-cua-sample-app?color=green) ![LastCommit](https://img.shields.io/github/last-commit/openai/openai-cua-sample-app?color=green)
+* **[WritBase](https://github.com/Writbase/writbase)**: MCP-native task management for AI agent fleets ![Stars](https://img.shields.io/github/stars/Writbase/writbase.svg?style=flat&color=green) ![Contributors](https://img.shields.io/github/contributors/Writbase/writbase?color=green) ![LastCommit](https://img.shields.io/github/last-commit/Writbase/writbase?color=green)
 
 ### Chatbot
 

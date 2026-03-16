@@ -777,6 +777,11 @@ categories:
       homepage_url: https://github.com/openai/openai-cua-sample-app
       logo: openai.png
       repo_url: https://github.com/openai/openai-cua-sample-app
+    - name: WritBase
+      description: MCP-native task management for AI agent fleets
+      homepage_url: https://github.com/Writbase/writbase
+      logo: default.png
+      repo_url: https://github.com/Writbase/writbase
   - name: Chatbot
     items:
     - name: 5ire

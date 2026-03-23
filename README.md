@@ -150,6 +150,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [AgentStamp](https://github.com/vinaybhosle/agentstamp) | On-chain trust verification for AI agents — x402 micropayment identity, trust scoring (0-100), forensic audit trails, ERC-8004 bridge. SDK middleware for Express/Python. | ![GitHub Badge](https://img.shields.io/github/stars/vinaybhosle/agentstamp?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

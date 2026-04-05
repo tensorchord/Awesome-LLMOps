@@ -150,6 +150,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [agent-aegis](https://github.com/Acacian/aegis)         | Policy CI/CD for AI agents. Auto-instruments 11 frameworks with guardrails via `aegis plan` + `aegis test`. No infra required.      | ![GitHub Badge](https://img.shields.io/github/stars/Acacian/aegis?style=flat-square)          |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

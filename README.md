@@ -260,6 +260,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 **[⬆ back to ToC](#table-of-contents)**
 
+| [widemem-ai](https://github.com/remete618/widemem-ai) | Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization | ![GitHub Badge](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=flat-square) |
 ## Search
 
 ### Vector search

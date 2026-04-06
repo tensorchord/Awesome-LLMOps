@@ -151,6 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Cordum](https://github.com/cordum-io/cordum) | Safety-first agent orchestration platform with pre-dispatch policy evaluation, output scanning (PII, secrets, injection), job scheduling, workflow engine, and full audit trail. | ![GitHub Badge](https://img.shields.io/github/stars/cordum-io/cordum.svg?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

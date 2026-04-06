@@ -176,6 +176,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [traceAI](https://github.com/future-agi/traceAI)                                | Open-source AI tracing framework built on OpenTelemetry for deep observability across agentic and LLM workflows.                                                                   | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square)                         |
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
+| [shekel](https://github.com/arieradle/shekel) | Runtime budget guardrails for AI agents. Set hard spending limits to prevent runaway LLM costs from retries, tool loops, and long-running agents. Supports OpenAI, Anthropic, Gemini, LangChain, LangGraph, CrewAI, and more. | ![GitHub Badge](https://img.shields.io/github/stars/arieradle/shekel.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

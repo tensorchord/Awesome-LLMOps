@@ -301,6 +301,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [fauxpilot](https://github.com/fauxpilot/fauxpilot) | An open-source alternative to GitHub Copilot server                                                      | ![GitHub Badge](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg?style=flat-square)  |
 | [promptext](https://github.com/1broseidon/promptext) | Smart code context extractor for AI assistants with accurate token counting and budget management        | ![GitHub Badge](https://img.shields.io/github/stars/1broseidon/promptext.svg?style=flat-square) |
 | [tabby](https://github.com/TabbyML/tabby)           | Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.                  | ![GitHub Badge](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=flat-square)        |
+| [kimi-k-cli](https://github.com/suebi76/kimi-k-cli) | Self-improving terminal AI coding assistant with 11 tools, plugin system, and self-improvement. Powered by Kimi K2.5 via free NVIDIA NIM API. | ![GitHub Badge](https://img.shields.io/github/stars/suebi76/kimi-k-cli.svg?style=flat-square) |
 
 ## Training
 

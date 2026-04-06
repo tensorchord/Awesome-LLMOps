@@ -152,6 +152,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [AgentWard](https://github.com/agentward-ai/agentward) | Permission control plane for AI agents. MCP proxy that enforces least-privilege YAML policies on every tool call, classifies sensitive data (PII/PHI), and generates compliance audit trails. | ![GitHub Badge](https://img.shields.io/github/stars/agentward-ai/agentward?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

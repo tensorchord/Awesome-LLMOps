@@ -361,6 +361,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn)         | Machine Learning in Python.                                                                                                                                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg?style=flat-square)         |
 | [TensorFlow](https://github.com/tensorflow/tensorflow)               | An Open Source Machine Learning Framework for Everyone.                                                                                                                                                     | ![GitHub Badge](https://img.shields.io/github/stars/tensorflow/tensorflow.svg?style=flat-square)             |
 | [VectorFlow](https://github.com/Netflix/vectorflow)                  | A minimalist neural network library optimized for sparse data and single machine environments.                                                                                                              | ![GitHub Badge](https://img.shields.io/github/stars/Netflix/vectorflow.svg?style=flat-square)                |
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Multi-agent orchestration framework with 49 specialized Claude Code agents, anti-duplication task registry, quality gates, and heartbeat monitoring for production LLM operations.
 
 **[⬆ back to ToC](#table-of-contents)**
 

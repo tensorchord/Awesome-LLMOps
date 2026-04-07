@@ -176,6 +176,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [traceAI](https://github.com/future-agi/traceAI)                                | Open-source AI tracing framework built on OpenTelemetry for deep observability across agentic and LLM workflows.                                                                   | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square)                         |
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
+| [Weco Observe](https://weco.ai) | Observability and debugging tool for AI research agents. Trace multi-step LLM agent runs, visualize decision trees, and identify failure modes in autonomous research workflows. Cloud hosted with open-source agent integration. |                                                                                                                    |
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -301,6 +302,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [fauxpilot](https://github.com/fauxpilot/fauxpilot) | An open-source alternative to GitHub Copilot server                                                      | ![GitHub Badge](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg?style=flat-square)  |
 | [promptext](https://github.com/1broseidon/promptext) | Smart code context extractor for AI assistants with accurate token counting and budget management        | ![GitHub Badge](https://img.shields.io/github/stars/1broseidon/promptext.svg?style=flat-square) |
 | [tabby](https://github.com/TabbyML/tabby)           | Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.                  | ![GitHub Badge](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=flat-square)        |
+| [AIDE](https://github.com/WecoAI/aideml)            | Open-source ML engineering agent that uses tree search to explore solution spaces. Automates machine learning experimentation from data analysis to model training. [Paper](https://arxiv.org/abs/2502.13138). | ![GitHub Badge](https://img.shields.io/github/stars/WecoAI/aideml.svg?style=flat-square)        |
 
 ## Training
 

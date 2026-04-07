@@ -612,6 +612,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [TNN](https://github.com/Tencent/TNN)                                             | A uniform deep learning inference framework for mobile, desktop and server.                                                      | ![GitHub Badge](https://img.shields.io/github/stars/Tencent/TNN.svg?style=flat-square)                   |
 | [optimum-tpu](https://github.com/huggingface/optimum-tpu)                         | Google TPU optimizations for transformers models                                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/optimum-tpu.svg?style=flat-square)       |
 | [agent-opt](https://github.com/future-agi/agent-opt) | Automated optimization engine for improving agent workflows using feedback-driven iterative refinements. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/agent-opt?style=flat-square) |
+| [NexusQuant](https://github.com/jagmarques/nexusquant) | Training-free KV cache compression for LLMs. 10–33x compression via E8 lattice VQ + token eviction; drop-in one-liner with no retraining required. | ![GitHub Badge](https://img.shields.io/github/stars/jagmarques/nexusquant.svg?style=flat-square) |
 
 
 **[⬆ back to ToC](#table-of-contents)**

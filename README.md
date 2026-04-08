@@ -151,6 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Pegasus](https://github.com/Guipetris/pegasus) | Open-source compliance framework for LLM/AI systems with OWASP LLM Top 10 certification profile, prompt injection resistance policies, and AI safety benchmark integration (MLCommons AILuminate). | ![GitHub Badge](https://img.shields.io/github/stars/Guipetris/pegasus?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

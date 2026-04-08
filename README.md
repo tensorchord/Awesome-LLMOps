@@ -152,6 +152,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [SidClaw](https://github.com/sidclawhq/platform) | Governance proxy for AI agents with policy evaluation, human approval workflows, and hash-chain audit trails. 18+ framework integrations. Apache 2.0. | ![GitHub Badge](https://img.shields.io/github/stars/sidclawhq/platform?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

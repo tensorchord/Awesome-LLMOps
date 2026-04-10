@@ -483,6 +483,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 **[⬆ back to ToC](#table-of-contents)**
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=tensorchord_Awesome-LLMOps) - Follow database engineers on GitHub and see what DB tools and ORMs they are checking out.
 ### Workflow
 
 | Project                                                      | Details                                                                                                           | Repository                                                                                         |

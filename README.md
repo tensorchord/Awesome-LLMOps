@@ -97,6 +97,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 ## Serving
 
+- [ClawRouters](https://www.clawrouters.com) - Intelligent LLM router with AI-powered model selection. Sub-10ms overhead, 50+ models across 8 providers, cost/quality/latency routing strategies. Free BYOK tier.
 ### Large Model Serving
 
 | Project                                                                               | Details                                                                                                         | Repository                                                                                                       |

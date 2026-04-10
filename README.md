@@ -152,6 +152,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [semantix-ai](https://github.com/labrat-akhona/semantix-ai) | A semantic type system that validates LLM outputs against natural language intents using local NLI models with ~15ms latency and zero API cost. | ![GitHub Badge](https://img.shields.io/github/stars/labrat-akhona/semantix-ai?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

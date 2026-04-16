@@ -24,6 +24,7 @@ An awesome & curated list of the best LLMOps tools for developers.
     - [Observability](#observability)
   - [LLMOps](#llmops)
   - [Search](#search)
+    - [AI Tool Discovery](#ai-tool-discovery)
     - [Vector search](#vector-search)
   - [Code AI](#code-ai)
   - [Training](#training)
@@ -261,6 +262,14 @@ An awesome & curated list of the best LLMOps tools for developers.
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Search
+
+### AI Tool Discovery
+
+| Project                                                   | Details                                                                                                                                                                                       | Repository                                                                                            |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [Not Human Search](https://nothumansearch.ai)             | Search engine for AI agents indexing 9,000+ AI tools and APIs by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic discovery.               |                                                                                                       |
+
+**[⬆ back to ToC](#table-of-contents)**
 
 ### Vector search
 

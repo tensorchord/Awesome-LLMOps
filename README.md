@@ -152,6 +152,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [SentinelGate](https://github.com/Sentinel-Gate/Sentinelgate) | Open-source MCP proxy for AI agents. Identity-based access control, CEL policy engine, content scanning (PII, secrets, prompt injection), full audit log. | ![GitHub Badge](https://img.shields.io/github/stars/Sentinel-Gate/Sentinelgate?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

@@ -649,3 +649,4 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [pleisto/flappy](https://github.com/pleisto/flappy)                                                     | Production-Ready LLM Agent SDK for Every Developer                                                                                | ![GitHub Badge](https://img.shields.io/github/stars/pleisto/flappy.svg?style=flat-square)                                |
 
 **[⬆ back to ToC](#table-of-contents)**
+- [HolySheep](https://holysheep.ai) - OpenAI/Anthropic/Gemini API relay for China. Supports GPT-5, Claude Sonnet 4, Gemini 2.5 Pro. Pay-as-you-go, no VPN required.

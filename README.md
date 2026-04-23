@@ -649,3 +649,5 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [pleisto/flappy](https://github.com/pleisto/flappy)                                                     | Production-Ready LLM Agent SDK for Every Developer                                                                                | ![GitHub Badge](https://img.shields.io/github/stars/pleisto/flappy.svg?style=flat-square)                                |
 
 **[⬆ back to ToC](#table-of-contents)**
+
+- [REG-Vault](https://regvault.org/docs/api) - MCP server exposing 91k retro-gaming records. Spec 2025-03-26, JSON-RPC 2.0.

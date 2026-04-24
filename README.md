@@ -152,6 +152,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [@keelstack/guard](https://github.com/KeelStack-me/guard) | MIT, zero‑dependency TypeScript guardrails for AI agents – idempotency (replay on retry), per‑user LLM cost budgets, risk gates for irreversible actions. Works with LangGraph, Vercel AI SDK, Mastra, OpenAI Agents SDK, or raw fetch. | ![GitHub Badge](https://img.shields.io/github/stars/KeelStack-me/guard?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -176,7 +177,6 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [traceAI](https://github.com/future-agi/traceAI)                                | Open-source AI tracing framework built on OpenTelemetry for deep observability across agentic and LLM workflows.                                                                   | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square)                         |
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
-| [@keelstack/guard](https://github.com/KeelStack-me/guard) | MIT, zero‑dependency TypeScript guardrails for AI agents – idempotency (replay on retry), per‑user LLM cost budgets, risk gates for irreversible actions. Works with LangGraph, Vercel AI SDK, Mastra, OpenAI Agents SDK, or raw fetch. | ![GitHub Badge](https://img.shields.io/github/stars/KeelStack-me/guard?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

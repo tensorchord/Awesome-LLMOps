@@ -151,6 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [peyeeye](https://peyeeye.ai) | PII redaction and rehydration for LLM prompts. Hybrid regex + checksum validators (Luhn, mod-97, SSN) with optional Piiranha/Presidio ML layer. Stateful sessions or stateless AEAD-sealed blobs. Python + TypeScript SDKs with Vercel AI SDK, LangChain, and LiteLLM integrations. | ![GitHub Badge](https://img.shields.io/github/stars/peyeeye/peyeeye-python.svg?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

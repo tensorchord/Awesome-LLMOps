@@ -151,6 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [@keelstack/guard](https://github.com/KeelStack-me/guard) | MIT, zero‑dependency TypeScript runtime guardrails for AI agents – idempotency (replay on retry), per‑user LLM cost budgets, risk gates (allow/log/warn/block) for irreversible actions. Works with LangGraph, Vercel AI SDK, Mastra, OpenAI Agents SDK, or raw fetch. | ![GitHub Badge](https://img.shields.io/github/stars/KeelStack-me/guard?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

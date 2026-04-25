@@ -415,6 +415,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Delta-Lake](https://github.com/delta-io/delta)     | Storage layer that brings scalable, ACID transactions to Apache Spark and other engines.                                                                        | ![GitHub Badge](https://img.shields.io/github/stars/delta-io/delta.svg?style=flat-square)      |
 | [Pachyderm](https://github.com/pachyderm/pachyderm) | Pachyderm is a version control system for data.                                                                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/pachyderm/pachyderm.svg?style=flat-square) |
 | [Quilt](https://github.com/quiltdata/quilt)         | A self-organizing data hub for S3.                                                                                                                              | ![GitHub Badge](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=flat-square)     |
+| [pdfmux](https://github.com/NameetP/pdfmux) | PDF-to-Markdown extraction for RAG pipelines. Per-page confidence scoring with self-healing fallback re-extracts low-confidence pages automatically. Built-in MCP server, LangChain + LlamaIndex loaders. | ![GitHub Badge](https://img.shields.io/github/stars/NameetP/pdfmux.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

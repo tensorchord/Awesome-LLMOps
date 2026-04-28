@@ -151,6 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [AgentGuard](https://github.com/MukundaKatta/AgentGuard) | Network-egress firewall for AI agent tools. Declarative allowlist of domains agent tools can fetch, throws on violation. Stops data exfiltration via tool-call URLs. | ![GitHub Badge](https://img.shields.io/github/stars/MukundaKatta/AgentGuard?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**

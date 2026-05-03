@@ -177,6 +177,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 
+| [Bulwark](https://github.com/anilatambharii/bulwark) ![](https://img.shields.io/github/stars/anilatambharii/bulwark.svg?style=social) - Five-layer defense framework for AI agents — prompt injection detection, compartmentalized RBAC, encrypted audit trail, human-confirmation gate. |
+
 **[⬆ back to ToC](#table-of-contents)**
 
 ## LLMOps

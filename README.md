@@ -649,3 +649,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [pleisto/flappy](https://github.com/pleisto/flappy)                                                     | Production-Ready LLM Agent SDK for Every Developer                                                                                | ![GitHub Badge](https://img.shields.io/github/stars/pleisto/flappy.svg?style=flat-square)                                |
 
 **[⬆ back to ToC](#table-of-contents)**
+
+
+## Tools
+- [x711](https://x711.io) - Pay-per-call tool API for AI agents and LLM applications: web search, crypto data, blockchain tx simulation, shared memory, MCP-compatible.

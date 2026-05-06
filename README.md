@@ -262,6 +262,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 ## Search
 
+- [x711](https://x711.io) — Pay-per-call tool backend for AI agents. One endpoint for web search, price feeds, shared memory, LLM routing, and agent-to-agent calling. Free tier (10 calls/day, no signup). MCP server included. `npm install x711` / `pip install x711`.
 ### Vector search
 
 | Project                                                   | Details                                                                                                                                                                                                                                                                                       | Repository                                                                                            |

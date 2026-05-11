@@ -152,6 +152,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) | Static security scanner for MCP servers, AI agent skills, and plugins. Detects 68 attack patterns across CRITICAL/HIGH/MEDIUM/LOW — credential exfiltration, prompt injection, code execution, seed-phrase harvesting, auth bypass, path traversal. SARIF output for GitHub Code Scanning, multi-arch Docker image, and GitHub Action (`uses: eltociear/skill-audit-mcp@v1`). Zero dependencies, Python 3.6+. | ![GitHub Badge](https://img.shields.io/github/stars/eltociear/skill-audit-mcp?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

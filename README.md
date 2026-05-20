@@ -146,6 +146,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Security
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - Official OWASP reference implementation for defending AI agents against memory poisoning (ASI06) and indirect prompt injection attacks.
 
 ### Frameworks for LLM security
 

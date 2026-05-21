@@ -16,6 +16,7 @@ An awesome & curated list of the best LLMOps tools for developers.
     - [Large Language Model](#large-language-model)
     - [CV Foundation Model](#cv-foundation-model)
     - [Audio Foundation Model](#audio-foundation-model)
+    - [Robotics Foundation Model](#robotics-foundation-model)
   - [Serving](#serving)
     - [Large Model Serving](#large-model-serving)
     - [Frameworks/Servers for Serving](#frameworksservers-for-serving)
@@ -94,6 +95,25 @@ An awesome & curated list of the best LLMOps tools for developers.
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [bark](https://github.com/suno-ai/bark)      | Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. | ![GitHub Badge](https://img.shields.io/github/stars/suno-ai/bark.svg?style=flat-square)   |
 | [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision                                                                                                                                                    | ![GitHub Badge](https://img.shields.io/github/stars/openai/whisper.svg?style=flat-square) |
+
+**[⬆ back to ToC](#table-of-contents)**
+
+### Robotics Foundation Model
+
+> [!NOTE]
+> **Emerging Architectures in VLA:**
+> - **Continuous Diffusion Language Models:** Integrate diffusion heads or flow-matching to VLMs (e.g., DiVLA, OpenPI), enabling smooth, precise continuous action generation rather than discretized tokens.
+> - **Recurrent Language Models:** Utilize State Space Models (SSMs) like Mamba or recurrent transformers (e.g., RoboMamba, RD-VLA) to reduce inference memory and handle temporal dependencies, allowing iterative reasoning for complex robotic decision-making.
+
+| Project                                                   | Details                                                                                                                                                                                                    | Repository                                                                                             |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [DiVLA](https://github.com/hustvl/DiVLA)                  | A continuous diffusion-based Vision-Language-Action model that integrates diffusion policies into autoregressive VLMs for robust and precise continuous robotic control.                                   | ![GitHub Badge](https://img.shields.io/github/stars/hustvl/DiVLA.svg?style=flat-square)                |
+| [LeRobot](https://github.com/huggingface/lerobot)         | A central community library by Hugging Face for AI in robotics — end-to-end learning tools, data pipelines, and support for training/deploying VLA models.                                                 | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/lerobot.svg?style=flat-square)         |
+| [Octo](https://github.com/octo-models/octo)               | A transformer-based generalist robot policy pretrained on 800K+ robot trajectories from the Open X-Embodiment dataset. Supports language instructions, goal images, and fine-tuning to new embodiments.      | ![GitHub Badge](https://img.shields.io/github/stars/octo-models/octo.svg?style=flat-square)            |
+| [OpenPI](https://github.com/Physical-Intelligence/openpi) | Open-source VLA models from Physical Intelligence, including π₀ and π₀.5 — flow-based vision-language-action models pretrained on large-scale robot data with fine-tuning support.                         | ![GitHub Badge](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg?style=flat-square) |
+| [OpenVLA](https://github.com/openvla/openvla)             | A 7B-parameter open-source Vision-Language-Action model trained on 970K+ robot demonstrations from the Open X-Embodiment dataset for generalist robotic manipulation.                                      | ![GitHub Badge](https://img.shields.io/github/stars/openvla/openvla.svg?style=flat-square)             |
+| [RoboMamba](https://github.com/hustvl/RoboMamba)          | An efficient VLA model leveraging State Space Models (Mamba) instead of standard self-attention, offering linear inference complexity for efficient, recurrent robotic reasoning.                          | ![GitHub Badge](https://img.shields.io/github/stars/hustvl/RoboMamba.svg?style=flat-square)            |
+| [SmolVLA](https://huggingface.co/blog/smolvla)            | A compact ~450M parameter VLA by Hugging Face, designed to be computationally efficient and accessible, running on consumer GPUs or CPUs. Part of the LeRobot ecosystem.                                   |                                                                                                        |
 
 ## Serving
 

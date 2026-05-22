@@ -76,6 +76,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Mixtral-8x7B-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1) | The Mixtral-8x7B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts.                                                                                          |                                                                                                           |
 | [StableLM](https://github.com/Stability-AI/StableLM)                    | StableLM: Stability AI Language Models                                                                                                                                                     | ![GitHub Badge](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?style=flat-square)          |
 
+| [AI Models Catalog](https://github.com/i-need-token/ai-models) | Structured catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive catalog at https://i-need-token.github.io/ai-models/ | ![GitHub Badge](https://img.shields.io/github/stars/i-need-token/ai-models.svg?style=flat-square) |
+
 **[⬆ back to ToC](#table-of-contents)**
 
 ### CV Foundation Model

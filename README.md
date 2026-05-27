@@ -703,3 +703,5 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [pleisto/flappy](https://github.com/pleisto/flappy)                                                     | Production-Ready LLM Agent SDK for Every Developer                                                                                | ![GitHub Badge](https://img.shields.io/github/stars/pleisto/flappy.svg?style=flat-square)                                |
 
 **[⬆ back to ToC](#table-of-contents)**
+
+| [llmops-radar](https://github.com/linny006/llmops-radar) | Live, auto-updated index of newest LLMOps tooling (observability, deployment, prompt management) on GitHub, refreshed every 15 minutes. | ![GitHub Badge](https://img.shields.io/github/stars/linny006/llmops-radar.svg?style=flat-square) |

@@ -209,6 +209,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [Weco Observe](https://weco.ai) | Observability and debugging tool for AI research agents. Trace multi-step LLM agent runs, visualize decision trees, and identify failure modes in autonomous research workflows. Cloud hosted with open-source agent integration. |                                                                                                                    |
 
+| [AgentHUD](https://github.com/IAMMARBIT/AgentHUD) | Game-style HUD overlay for AI agent observability. Live animated cards per agent with tool calls, tokens, cost, latency, success rate, and sparkline. Drop-in callback handlers for LangChain, OpenAI Agents SDK, Claude Agent SDK, CrewAI, and AutoGen. 14 polished skins + community skin marketplace. Localhost-only, no telemetry, MIT. | ![GitHub Badge](https://img.shields.io/github/stars/IAMMARBIT/AgentHUD?style=flat-square) |
+
 **[⬆ back to ToC](#table-of-contents)**
 
 ## LLMOps

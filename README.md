@@ -181,6 +181,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [brood-box](https://github.com/stacklok/brood-box) | CLI tool for running coding agents inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization. | ![GitHub Badge](https://img.shields.io/github/stars/stacklok/brood-box?style=flat-square) |
 | [dstack](https://github.com/Dstack-TEE/dstack)          | Open-source confidential AI framework for secure LLM deployment with data privacy, providing hardware-enforced isolation using Intel TDX and NVIDIA Confidential Computing. | ![GitHub Badge](https://img.shields.io/github/stars/Dstack-TEE/dstack?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [Vertex](https://www.vertex.blue/) | Zero-trust proxy between AI agents and the production APIs they call. A human vaults a provider key once; the agent gets a scoped, revocable token it can never read, with per-service/method policy, operator-set spend caps, taint-based prompt-injection blocking, and a tamper-evident audit log. Ships an npm SDK (vertex-blue-client) and a CLI. |  |
 
 **[⬆ back to ToC](#table-of-contents)**
 

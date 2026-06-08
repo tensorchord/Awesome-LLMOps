@@ -181,6 +181,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [brood-box](https://github.com/stacklok/brood-box) | CLI tool for running coding agents inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization. | ![GitHub Badge](https://img.shields.io/github/stars/stacklok/brood-box?style=flat-square) |
 | [dstack](https://github.com/Dstack-TEE/dstack)          | Open-source confidential AI framework for secure LLM deployment with data privacy, providing hardware-enforced isolation using Intel TDX and NVIDIA Confidential Computing. | ![GitHub Badge](https://img.shields.io/github/stars/Dstack-TEE/dstack?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring MCP server for AI agent wallets on Solana. Provides `score_agent`, `preflight_check`, and `get_trust_receipt` tools for verifying agent identity before x402 micropayments. Free streamable-http MCP endpoint. | |
 
 **[⬆ back to ToC](#table-of-contents)**
 
@@ -208,7 +209,6 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [Weco Observe](https://weco.ai) | Observability and debugging tool for AI research agents. Trace multi-step LLM agent runs, visualize decision trees, and identify failure modes in autonomous research workflows. Cloud hosted with open-source agent integration. |                                                                                                                    |
-| [TWZRD Agent Intel](https://intel.twzrd.xyz) | MCP server for agent trust verification in multi-agent systems on Solana. Free preflight scoring + paid signed USDC trust receipts (<1s settlement) for agent-to-agent communication reliability. Tools: resolve_agent, score_agent, get_trust_receipt, verify_trust_receipt. |                                                                                                                    |
 
 **[⬆ back to ToC](#table-of-contents)**
 

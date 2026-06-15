@@ -296,6 +296,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | Self-hosted multi-agent AI runtime with 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and MCP client + server support. Ships as desktop app, CLI, or Docker. | ![GitHub Badge](https://img.shields.io/github/stars/swarmclawai/swarmclaw.svg?style=flat-square) |
 | [ai-evaluation](https://github.com/future-agi/ai-evaluation) | Evaluation framework for automated, reproducible scoring of LLM, agent, and workflow performance. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=flat-square) |
 | [future-agi](https://github.com/future-agi/future-agi) | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for LLM and AI agent applications. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square) |
+| [ultracost](https://github.com/danielkremen818/ultracost) | Per-stage model routing and a pre-flight cost gate for Claude Code `ultracode` dynamic workflows. Statically guards `agent()` stages that would inherit the session's Opus model, estimates each run before launch, and reconciles the estimate against real per-stage token usage. Zero dependencies, no telemetry, MIT. | ![GitHub Badge](https://img.shields.io/github/stars/danielkremen818/ultracost.svg?style=flat-square) |
 
 
 **[⬆ back to ToC](#table-of-contents)**

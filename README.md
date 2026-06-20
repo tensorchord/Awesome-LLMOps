@@ -703,3 +703,5 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [pleisto/flappy](https://github.com/pleisto/flappy)                                                     | Production-Ready LLM Agent SDK for Every Developer                                                                                | ![GitHub Badge](https://img.shields.io/github/stars/pleisto/flappy.svg?style=flat-square)                                |
 
 **[⬆ back to ToC](#table-of-contents)**
+
+- [AI Prompt Architect](https://aipromptarchitect.co.uk) - Enterprise prompt engineering IDE with version control, automated evals, and multi-model testing.

@@ -308,6 +308,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Airweave](https://github.com/airweave-ai/airweave)    | An easy way to turn any app into searchable data for LLMs.                                                                                                                                                                              | ![GitHub Badge](https://img.shields.io/github/stars/airweave-ai/airweave.svg?style=flat-square)    |
 
 
+| [Inite Brain](https://github.com/inite-ai/inite-brain-service)    | Open-source bitemporal memory layer for LLM agents. Hybrid vector + BM25 + multi-hop retrieval over a knowledge graph (SurrealDB). MCP server, AGPL-3.0.                       | ![GitHub Badge](https://img.shields.io/github/stars/inite-ai/inite-brain-service.svg?style=flat-square) |
 ### Vector search
 
 | Project                                                   | Details                                                                                                                                                                                                                                                                                       | Repository                                                                                            |

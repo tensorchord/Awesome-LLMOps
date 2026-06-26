@@ -338,6 +338,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Code AI
+| [SuperCompress](https://github.com/arjunkshah/supercompress) | Learned context compression for LLMs. ~5K param CPU policy cuts 65% of tokens with 100% oracle recall. | [![GitHub](https://img.shields.io/github/stars/arjunkshah/supercompress)](https://github.com/arjunkshah/supercompress) |
 
 | Project                                             | Details                                                                                                  | Repository                                                                                      |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |

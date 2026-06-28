@@ -665,6 +665,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [TNN](https://github.com/Tencent/TNN)                                             | A uniform deep learning inference framework for mobile, desktop and server.                                                      | ![GitHub Badge](https://img.shields.io/github/stars/Tencent/TNN.svg?style=flat-square)                   |
 | [optimum-tpu](https://github.com/huggingface/optimum-tpu)                         | Google TPU optimizations for transformers models                                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/optimum-tpu.svg?style=flat-square)       |
 | [agent-opt](https://github.com/future-agi/agent-opt) | Automated optimization engine for improving agent workflows using feedback-driven iterative refinements. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/agent-opt?style=flat-square) |
+| [SuperCompress](https://supercompress.vercel.app) | Learned prompt compression that reduces LLM token costs by ~65% at 100% oracle recall. ~5K-param CPU policy (~60ms). Open-source (MIT). | ![GitHub Badge](https://img.shields.io/github/stars/arjunkshah21/supercompress-tv.svg?style=flat-square) |
 
 
 **[⬆ back to ToC](#table-of-contents)**

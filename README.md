@@ -670,6 +670,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 **[⬆ back to ToC](#table-of-contents)**
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression that cuts LLM token costs by ~65% before inference. CPU-only ~5K-parameter policy with ~60ms latency and 100% oracle recall. Open source (MIT).
 ## Federated ML
 
 | Project                                                         | Details                                                                                                                                                                                                                                                                          | Repository                                                                                      |

@@ -350,6 +350,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [fauxpilot](https://github.com/fauxpilot/fauxpilot) | An open-source alternative to GitHub Copilot server                                                      | ![GitHub Badge](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg?style=flat-square)  |
 | [promptext](https://github.com/1broseidon/promptext) | Smart code context extractor for AI assistants with accurate token counting and budget management        | ![GitHub Badge](https://img.shields.io/github/stars/1broseidon/promptext.svg?style=flat-square) |
 | [tabby](https://github.com/TabbyML/tabby)           | Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.                  | ![GitHub Badge](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=flat-square)        |
+| [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) | Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar). | ![GitHub Badge](https://img.shields.io/github/stars/IvanMurzak/Unreal-MCP.svg?style=flat-square) |
 | [AIDE](https://github.com/WecoAI/aideml)            | Open-source ML engineering agent that uses tree search to explore solution spaces. Automates machine learning experimentation from data analysis to model training. [Paper](https://arxiv.org/abs/2502.13138). | ![GitHub Badge](https://img.shields.io/github/stars/WecoAI/aideml.svg?style=flat-square)        |
 
 ## Training

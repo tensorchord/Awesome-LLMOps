@@ -351,6 +351,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [promptext](https://github.com/1broseidon/promptext) | Smart code context extractor for AI assistants with accurate token counting and budget management        | ![GitHub Badge](https://img.shields.io/github/stars/1broseidon/promptext.svg?style=flat-square) |
 | [tabby](https://github.com/TabbyML/tabby)           | Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.                  | ![GitHub Badge](https://img.shields.io/github/stars/TabbyML/tabby.svg?style=flat-square)        |
 | [AIDE](https://github.com/WecoAI/aideml)            | Open-source ML engineering agent that uses tree search to explore solution spaces. Automates machine learning experimentation from data analysis to model training. [Paper](https://arxiv.org/abs/2502.13138). | ![GitHub Badge](https://img.shields.io/github/stars/WecoAI/aideml.svg?style=flat-square)        |
+| [UACOS](https://github.com/caotiensinh/uacos)       | Local-first safety and context layer for AI coding agents: AST-based context compression, patch-scope safety gates with secret scanning, git-independent transaction rollback, budget/cache-gated LLM calls, and a built-in local MCP server. | ![GitHub Badge](https://img.shields.io/github/stars/caotiensinh/uacos.svg?style=flat-square)    |
 
 ## Training
 

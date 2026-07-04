@@ -10,6 +10,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 ## Table of Contents
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): 4 Markdown templates + 5 AI skills for giving AI agents deep personal context. MIT, one-command install.
 - [Awesome LLMOps](#awesome-llmops)
   - [Table of Contents](#table-of-contents)
   - [Model](#model)

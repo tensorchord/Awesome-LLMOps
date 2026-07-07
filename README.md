@@ -95,6 +95,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [bark](https://github.com/suno-ai/bark)      | Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. | ![GitHub Badge](https://img.shields.io/github/stars/suno-ai/bark.svg?style=flat-square)   |
 | [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision                                                                                                                                                    | ![GitHub Badge](https://img.shields.io/github/stars/openai/whisper.svg?style=flat-square) |
+| [FunASR](https://github.com/modelscope/FunASR) | Industrial-grade speech recognition toolkit with 170x realtime speed, supporting 50+ languages, with built-in VAD, punctuation, speaker diarization, and emotion detection. | ![GitHub Badge](https://img.shields.io/github/stars/modelscope/FunASR.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

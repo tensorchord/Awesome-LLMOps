@@ -208,6 +208,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [Weco Observe](https://weco.ai) | Observability and debugging tool for AI research agents. Trace multi-step LLM agent runs, visualize decision trees, and identify failure modes in autonomous research workflows. Cloud hosted with open-source agent integration. |                                                                                                                    |
+| [BenchGen](https://benchgen.com) | AI agent benchmarking and evaluation platform. Run structured benchmark suites, score agents across tool-call accuracy, goal completion, and skill coverage, then export filtered trajectories for LoRA fine-tuning. |                                                                                                                    |
 
 **[⬆ back to ToC](#table-of-contents)**
 

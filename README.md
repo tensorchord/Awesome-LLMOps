@@ -665,6 +665,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [TNN](https://github.com/Tencent/TNN)                                             | A uniform deep learning inference framework for mobile, desktop and server.                                                      | ![GitHub Badge](https://img.shields.io/github/stars/Tencent/TNN.svg?style=flat-square)                   |
 | [optimum-tpu](https://github.com/huggingface/optimum-tpu)                         | Google TPU optimizations for transformers models                                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/optimum-tpu.svg?style=flat-square)       |
 | [agent-opt](https://github.com/future-agi/agent-opt) | Automated optimization engine for improving agent workflows using feedback-driven iterative refinements. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/agent-opt?style=flat-square) |
+| [cap-evolve](https://github.com/skillberry-ai/cap-evolve) | Optimize agentic capabilities with agents. Reflective optimizer for AI agent prompts, tool code, MCP tool surfaces, and skill packages; learning from evaluation traces, val-only significance gate with a sealed test split scored once. Adapters for τ²-bench, SWE-bench, SkillsBench. Zero runtime deps, Apache-2.0. | ![GitHub Badge](https://img.shields.io/github/stars/skillberry-ai/cap-evolve.svg?style=flat-square) |
 
 
 **[⬆ back to ToC](#table-of-contents)**

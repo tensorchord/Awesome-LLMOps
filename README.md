@@ -173,6 +173,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 ## Security
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) autonomous AI penetration testing platform for offensive security assessments, MCP tool orchestration, local or cloud LLM backends.
 ### Frameworks for LLM security
 
 | Project                                                 | Details                                                                                                                             | Repository                                                                                    |

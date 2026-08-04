@@ -181,6 +181,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [brood-box](https://github.com/stacklok/brood-box) | CLI tool for running coding agents inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization. | ![GitHub Badge](https://img.shields.io/github/stars/stacklok/brood-box?style=flat-square) |
 | [dstack](https://github.com/Dstack-TEE/dstack)          | Open-source confidential AI framework for secure LLM deployment with data privacy, providing hardware-enforced isolation using Intel TDX and NVIDIA Confidential Computing. | ![GitHub Badge](https://img.shields.io/github/stars/Dstack-TEE/dstack?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [tool-call-guard](https://github.com/binaydhakal/tool-call-guard) | Deny-by-default policy gate for AI agent tool calls: allowlists, argument validation, rate caps, approval hooks, dry-run mode, and an audit trail. One JSON policy enforced in both JavaScript and Python. | ![GitHub Badge](https://img.shields.io/github/stars/binaydhakal/tool-call-guard.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

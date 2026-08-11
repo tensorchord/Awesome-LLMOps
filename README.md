@@ -169,6 +169,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [KubeStellar Console](https://github.com/kubestellar/console) | AI-powered multi-cluster Kubernetes dashboard for hybrid edge and cloud. GPU monitoring, LLM inference cluster management, benchmark streaming, and 20+ CNCF integrations. CNCF Sandbox (Apache 2.0). | ![GitHub Badge](https://img.shields.io/github/stars/kubestellar/console.svg?style=flat-square) |
 
 
+| [Token Efficiency](https://github.com/zangxin75/token-efficiency)                            | Open-source LLM gateway with token compression, semantic caching, multi-tenant cost analytics, and pre-request quota enforcement. Compatible with OpenAI/Claude/DeepSeek/GLM APIs.                                                                                               | ![GitHub Badge](https://img.shields.io/github/stars/zangxin75/token-efficiency.svg?style=flat-square)     |
 **[⬆ back to ToC](#table-of-contents)**
 
 ## Security

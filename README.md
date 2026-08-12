@@ -25,6 +25,7 @@ An awesome & curated list of the best LLMOps tools for developers.
     - [Observability](#observability)
   - [LLMOps](#llmops)
   - [Search](#search)
+    - [Hybrid search](#hybrid-search)
     - [Vector search](#vector-search)
   - [Code AI](#code-ai)
   - [Training](#training)
@@ -205,6 +206,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [onWatch](https://github.com/onllm-dev/onwatch) | Lightweight Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Background daemon, <50MB RAM, zero telemetry, SQLite storage. | ![GitHub Badge](https://img.shields.io/github/stars/onllm-dev/onwatch.svg?style=flat-square) |
 | [RagTune](https://github.com/metawake/ragtune) | CLI tool for debugging and benchmarking RAG retrieval. EXPLAIN ANALYZE for your retrieval layer. | ![GitHub Badge](https://img.shields.io/github/stars/metawake/ragtune.svg?style=flat-square) |
 | [traceAI](https://github.com/future-agi/traceAI)                                | Open-source AI tracing framework built on OpenTelemetry for deep observability across agentic and LLM workflows.                                                                   | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square)                         |
+| [Traccia](https://github.com/traccia-ai/traccia-py) | OpenTelemetry-native observability, governance, and compliance for AI agents and LLM applications. Integrates with OpenAI Agents SDK, CrewAI, Langchain, Claude Code, and more | ![GitHub Badge](https://img.shields.io/github/stars/traccia-ai/traccia-py.svg?style=flat-square) |
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [Weco Observe](https://weco.ai) | Observability and debugging tool for AI research agents. Trace multi-step LLM agent runs, visualize decision trees, and identify failure modes in autonomous research workflows. Cloud hosted with open-source agent integration. |                                                                                                                    |

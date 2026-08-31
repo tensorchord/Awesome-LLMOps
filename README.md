@@ -493,6 +493,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [Featureform](https://github.com/featureform/featureform)    | The Virtual Feature Store. Turn your existing data infrastructure into a feature store. | ![GitHub Badge](https://img.shields.io/github/stars/featureform/featureform.svg?style=flat-square)   |
 | [FeatureTools](https://github.com/Featuretools/featuretools) | An open source python framework for automated feature engineering                       | ![GitHub Badge](https://img.shields.io/github/stars/Featuretools/featuretools.svg?style=flat-square) |
+| [mloda](https://github.com/mloda-ai/mloda) | Open source, plugin-based feature engineering framework connecting raw data to AI-ready features, with built-in lineage. | ![GitHub Badge](https://img.shields.io/github/stars/mloda-ai/mloda.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

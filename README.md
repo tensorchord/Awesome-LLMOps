@@ -484,6 +484,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Piperider](https://github.com/InfuseAI/piperider) | A CLI tool that allows you to build data profiles and write assertion tests for easily evaluating and tracking your data's reliability over time. | ![GitHub Badge](https://img.shields.io/github/stars/InfuseAI/piperider.svg?style=flat-square) |
 | [LUX](https://github.com/lux-org/lux)              | A Python library that facilitates fast and easy data exploration by automating the visualization and data analysis process.                       | ![GitHub Badge](https://img.shields.io/github/stars/lux-org/lux.svg?style=flat-square)        |
+| [ragfresh](https://github.com/nac7/ragfresh)       | A CLI that detects stale, drifted, and ghost documents in RAG vector indexes by diffing content hashes and embedding drift against the source of truth. | ![GitHub Badge](https://img.shields.io/github/stars/nac7/ragfresh.svg?style=flat-square)      |
 
 **[⬆ back to ToC](#table-of-contents)**
 

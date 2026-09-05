@@ -456,6 +456,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 ## Data
 
 ### Data Management
+- [FlyCrawl](https://flycrawl.net) - High-throughput Web-to-Markdown scraper and site crawler engineered for RAG data ingestion and LLM training datasets with heuristic boilerplate filtering. ([Source](https://github.com/FlyCrawl-ai/flycrawl))
 
 | Project                                             | Details                                                                                                                                                         | Repository                                                                                     |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |

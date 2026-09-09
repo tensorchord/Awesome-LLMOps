@@ -296,6 +296,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | Self-hosted multi-agent AI runtime with 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and MCP client + server support. Ships as desktop app, CLI, or Docker. | ![GitHub Badge](https://img.shields.io/github/stars/swarmclawai/swarmclaw.svg?style=flat-square) |
 | [ai-evaluation](https://github.com/future-agi/ai-evaluation) | Evaluation framework for automated, reproducible scoring of LLM, agent, and workflow performance. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=flat-square) |
 | [future-agi](https://github.com/future-agi/future-agi) | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for LLM and AI agent applications. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square) |
+| [Modelglass](https://modelglass.com.au) | Sourced, versioned pricing and capability data for AI models (image, language, video, audio, plus coding/science/agentic benchmark verticals) to find the cheapest model that clears a capability bar. | |
 
 
 **[⬆ back to ToC](#table-of-contents)**

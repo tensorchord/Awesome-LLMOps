@@ -665,6 +665,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [TNN](https://github.com/Tencent/TNN)                                             | A uniform deep learning inference framework for mobile, desktop and server.                                                      | ![GitHub Badge](https://img.shields.io/github/stars/Tencent/TNN.svg?style=flat-square)                   |
 | [optimum-tpu](https://github.com/huggingface/optimum-tpu)                         | Google TPU optimizations for transformers models                                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/huggingface/optimum-tpu.svg?style=flat-square)       |
 | [agent-opt](https://github.com/future-agi/agent-opt) | Automated optimization engine for improving agent workflows using feedback-driven iterative refinements. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/agent-opt?style=flat-square) |
+| [llm-vram-calculator](https://github.com/DangerousANEN/llm-vram-calculator) | Accurate VRAM & dynamic KV-cache (MHA/GQA/MLA) estimator and inference speedtest for vLLM & llama.cpp. | ![GitHub Badge](https://img.shields.io/github/stars/DangerousANEN/llm-vram-calculator.svg?style=flat-square) |
 
 
 **[⬆ back to ToC](#table-of-contents)**

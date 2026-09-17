@@ -11,6 +11,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 ## Table of Contents
 
 - [Awesome LLMOps](#awesome-llmops)
+- [marketing-mindset](https://axelfreeman.github.io/marketing-mindset/) — open agent skill (SKILL.md) for B2B marketing tests: sample size, kill rules, pricing a first client, cold-email deliverability. Install: `npx marketing-mindset`
   - [Table of Contents](#table-of-contents)
   - [Model](#model)
     - [Large Language Model](#large-language-model)

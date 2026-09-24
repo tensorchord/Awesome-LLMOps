@@ -167,6 +167,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Kaito](https://github.com/kaito-project/kaito)                            | A Kubernetes operator that simplifies serving and tuning large AI models (e.g. Falcon or phi-3) using container images and GPU auto-provisioning. Includes an OpenAI-compatible server for inference and preset configurations for popular runtimes such as vLLM and transformers.                                                                 | ![GitHub Badge](https://img.shields.io/github/stars/kaito-project/kaito.svg?style=flat-square)            |
 | [Open Responses](https://docs.julep.ai/open-responses) | Serverless open-source platform for building long-running LLM agents with tool use. | ![GitHub Badge](https://img.shields.io/github/stars/julep-ai/julep.svg?style=flat-square) |
 | [KubeStellar Console](https://github.com/kubestellar/console) | AI-powered multi-cluster Kubernetes dashboard for hybrid edge and cloud. GPU monitoring, LLM inference cluster management, benchmark streaming, and 20+ CNCF integrations. CNCF Sandbox (Apache 2.0). | ![GitHub Badge](https://img.shields.io/github/stars/kubestellar/console.svg?style=flat-square) |
+| [laya-decision-api](https://github.com/bmw8080/laya-decision-api) | FastAPI HTTP service for the local Laya System-1 decision model: offline structured decisions (choice / score / yes-no) with probabilities and confidence; MLX and torch backends |
 
 
 **[⬆ back to ToC](#table-of-contents)**

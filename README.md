@@ -703,3 +703,10 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [pleisto/flappy](https://github.com/pleisto/flappy)                                                     | Production-Ready LLM Agent SDK for Every Developer                                                                                | ![GitHub Badge](https://img.shields.io/github/stars/pleisto/flappy.svg?style=flat-square)                                |
 
 **[⬆ back to ToC](#table-of-contents)**
+
+
+## Hosted AI API Gateways
+
+| Project | Details | Pricing |
+| --- | --- | --- |
+| [APIClaw](https://apiclaw.biz) | OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM through one endpoint. | Flat-rate plans from $19/month; 50-request free trial. |

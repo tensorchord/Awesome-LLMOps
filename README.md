@@ -189,6 +189,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [dstack](https://github.com/Dstack-TEE/dstack)          | Open-source confidential AI framework for secure LLM deployment with data privacy, providing hardware-enforced isolation using Intel TDX and NVIDIA Confidential Computing. | ![GitHub Badge](https://img.shields.io/github/stars/Dstack-TEE/dstack?style=flat-square) |
 | [EmbedGuard](https://github.com/neerazz/embedguard) | Cross-layer detection and provenance attestation for adversarial embedding attacks in RAG systems. Flags poisoned or manipulated embeddings before they reach the retrieval layer. | ![GitHub Badge](https://img.shields.io/github/stars/neerazz/embedguard?style=flat-square) |
 | [Plexiglass](https://github.com/kortex-labs/plexiglass) | A Python Machine Learning Pentesting Toolbox for Adversarial Attacks. Works with LLMs, DNNs, and other machine learning algorithms. | ![GitHub Badge](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=flat-square) |
+| [PrivacyScrubber](https://github.com/moxno/privacyscrubber-mcp) | Zero-Trust client-side PII and developer secrets sanitizer and MCP server for Cursor, Windsurf, and Claude Desktop with sub-2ms in-memory tokenization. | ![GitHub Badge](https://img.shields.io/github/stars/moxno/privacyscrubber-mcp.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

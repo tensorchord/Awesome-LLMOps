@@ -475,6 +475,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [JuiceFS](https://github.com/juicedata/juicefs) | A distributed POSIX file system built on top of Redis and S3. | ![GitHub Badge](https://img.shields.io/github/stars/juicedata/juicefs.svg?style=flat-square) |
 | [LakeFS](https://github.com/treeverse/lakeFS)   | Git-like capabilities for your object storage.                | ![GitHub Badge](https://img.shields.io/github/stars/treeverse/lakeFS.svg?style=flat-square)  |
 | [Lance](https://github.com/eto-ai/lance)        | Modern columnar data format for ML implemented in Rust.       | ![GitHub Badge](https://img.shields.io/github/stars/eto-ai/lance.svg?style=flat-square)      |
+| [Pixeltable](https://github.com/pixeltable/pixeltable) | Declarative multimodal AI data engine for versioned tables, computed columns, and vector search. | ![GitHub Badge](https://img.shields.io/github/stars/pixeltable/pixeltable.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

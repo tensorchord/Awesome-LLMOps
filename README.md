@@ -780,3 +780,5 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [pleisto/flappy](https://github.com/pleisto/flappy)                                                     | Production-Ready LLM Agent SDK for Every Developer                                                                                | ![GitHub Badge](https://img.shields.io/github/stars/pleisto/flappy.svg?style=flat-square)                                |
 
 **[⬆ back to ToC](#table-of-contents)**
+
+- [eyestech-mla](https://github.com/abhishek2512mishra/deepseek-mla-kvcache) - Reference PyTorch kernel and memory scaling benchmarks for DeepSeek Multi-Head Latent Attention (MLA) with absorbed query decoding. [Documentation & Math](https://eyestech.in/deepseek-mla-architecture-kv-cache-math/).

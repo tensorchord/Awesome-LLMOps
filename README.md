@@ -75,6 +75,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM)                  | A Chinese LLM, Based on LLaMA and fine tune by Stanford Alpaca, Alpaca LoRA, Japanese-Alpaca-LoRA.                                                                                         | ![GitHub Badge](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM.svg?style=flat-square)      |
 | [Mixtral-8x7B-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1) | The Mixtral-8x7B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts.                                                                                          |                                                                                                           |
 | [StableLM](https://github.com/Stability-AI/StableLM)                    | StableLM: Stability AI Language Models                                                                                                                                                     | ![GitHub Badge](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?style=flat-square)          |
+| [RoboIntuition](https://www.robointuition.net) |  Fully local, offline AI coding assistant for secure and private development workflows. C programming. |
 
 **[⬆ back to ToC](#table-of-contents)**
 

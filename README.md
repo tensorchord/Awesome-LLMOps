@@ -230,6 +230,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Weco Observe](https://weco.ai) | Observability and debugging tool for AI research agents. Trace multi-step LLM agent runs, visualize decision trees, and identify failure modes in autonomous research workflows. Cloud hosted with open-source agent integration. |                                                                                                                    |
 | [witness](https://github.com/anzal1/witness)                                   | A recording cache for model APIs: one Rust binary that proxies any LLM endpoint, dedupes repeat calls, and writes every model call, MCP tool call, and command side effect into a tamper-evident hash-chained journal with Ed25519 agent identity and Merkle proofs anchored to Sigstore Rekor.        | ![GitHub Badge](https://img.shields.io/github/stars/anzal1/witness?style=flat-square)                             |
 
+| [AgentHUD](https://github.com/IAMMARBIT/AgentHUD) | Game-style HUD overlay for AI agent observability. Live animated cards per agent with tool calls, tokens, cost, latency, success rate, and sparkline. Drop-in callback handlers for LangChain, OpenAI Agents SDK, Claude Agent SDK, CrewAI, and AutoGen. 14 polished skins + community skin marketplace. Localhost-only, no telemetry, MIT. | ![GitHub Badge](https://img.shields.io/github/stars/IAMMARBIT/AgentHUD?style=flat-square) |
+
 **[⬆ back to ToC](#table-of-contents)**
 
 ## LLMOps

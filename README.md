@@ -241,6 +241,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [witness](https://github.com/anzal1/witness)                                   | A recording cache for model APIs: one Rust binary that proxies any LLM endpoint, dedupes repeat calls, and writes every model call, MCP tool call, and command side effect into a tamper-evident hash-chained journal with Ed25519 agent identity and Merkle proofs anchored to Sigstore Rekor.        | ![GitHub Badge](https://img.shields.io/github/stars/anzal1/witness?style=flat-square)                             |
 | [wobbly](https://github.com/tarunagarwal1981/wobbly) | Metamorphic testing for LLM extraction — catch wrong outputs with no ground-truth labels: perturb inputs in ways that shouldn't change the answer, flag when they do. | ![](https://img.shields.io/github/stars/tarunagarwal1981/wobbly.svg?style=flat-square) |
 
+| [AgentHUD](https://github.com/IAMMARBIT/AgentHUD) | Game-style HUD overlay for AI agent observability. Live animated cards per agent with tool calls, tokens, cost, latency, success rate, and sparkline. Drop-in callback handlers for LangChain, OpenAI Agents SDK, Claude Agent SDK, CrewAI, and AutoGen. 14 polished skins + community skin marketplace. Localhost-only, no telemetry, MIT. | ![GitHub Badge](https://img.shields.io/github/stars/IAMMARBIT/AgentHUD?style=flat-square) |
+
 **[⬆ back to ToC](#table-of-contents)**
 
 ## LLMOps

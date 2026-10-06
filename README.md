@@ -434,6 +434,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [AIDE](https://github.com/WecoAI/aideml)            | Open-source ML engineering agent that uses tree search to explore solution spaces. Automates machine learning experimentation from data analysis to model training. [Paper](https://arxiv.org/abs/2502.13138). | ![GitHub Badge](https://img.shields.io/github/stars/WecoAI/aideml.svg?style=flat-square)        |
 | [Kapso](https://github.com/Leeroo-AI/kapso) | Long-running agents that optimize AI and Data systems, and learn from every experience. \#1 open-source on MLE-Bench; ALE-Bench; RelBench. | ![GitHub Badge](https://img.shields.io/github/stars/Leeroo-AI/kapso.svg?style=flat-square) |
 | [webcmd](https://github.com/agentrhq/webcmd) | Self-learning browser infrastructure for AI coding agents that compiles site navigation into deterministic per-site CLI commands. | ![GitHub Badge](https://img.shields.io/github/stars/agentrhq/webcmd.svg?style=flat-square) |
+| [workkit](https://github.com/ITW-Creative-Works/workkit) | Claude Code plugin that runs GitHub Issues as a delivery pipeline. A manager agent dispatches scout, worker and verifier subagents; labels track each issue from spec to build, QA and ship; hooks gate commits on tests and human review. | ![GitHub Badge](https://img.shields.io/github/stars/ITW-Creative-Works/workkit.svg?style=flat-square) |
 
 ## Training
 

@@ -25,6 +25,7 @@ An awesome & curated list of the best LLMOps tools for developers.
     - [Observability](#observability)
   - [LLMOps](#llmops)
   - [Search](#search)
+    - [Hybrid search](#hybrid-search)
     - [Vector search](#vector-search)
   - [Code AI](#code-ai)
   - [Training](#training)
@@ -234,6 +235,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [RagTune](https://github.com/metawake/ragtune) | CLI tool for debugging and benchmarking RAG retrieval. EXPLAIN ANALYZE for your retrieval layer. | ![GitHub Badge](https://img.shields.io/github/stars/metawake/ragtune.svg?style=flat-square) |
 | [runtape](https://github.com/RehanMohammed985/runtape) | Finds which part of an agent's context caused a bad decision by rerunning it with pieces removed, checks candidate fixes the same way, and writes a pytest regression test. Runs locally with OpenAI, Anthropic, LangGraph and Ollama. | ![GitHub Badge](https://img.shields.io/github/stars/RehanMohammed985/runtape.svg?style=flat-square) |
 | [traceAI](https://github.com/future-agi/traceAI)                                | Open-source AI tracing framework built on OpenTelemetry for deep observability across agentic and LLM workflows.                                                                   | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square)                         |
+| [Traccia](https://github.com/traccia-ai/traccia-py) | OpenTelemetry-native observability, governance, and compliance for AI agents and LLM applications. Integrates with OpenAI Agents SDK, CrewAI, Langchain, Claude Code, and more | ![GitHub Badge](https://img.shields.io/github/stars/traccia-ai/traccia-py.svg?style=flat-square) |
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [Token Police](https://github.com/tokenpolice/token-police-python) | SDK (Python, Node) that prices each LLM call before it is made and blocks or reroutes it on per-user, per-session or per-workflow budget rules; prompt text never leaves the app. | ![GitHub Badge](https://img.shields.io/github/stars/tokenpolice/token-police-python?style=flat-square) |

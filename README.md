@@ -379,6 +379,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [MemorySync](https://github.com/memorysyncio/memorysync-cursor-starter) | Persistent multi-tenant memory layer and MCP server for AI coding assistants with sub-50ms hybrid recall. | [![GitHub Badge](https://img.shields.io/github/stars/memorysyncio/memorysync-cursor-starter.svg?style=flat-square)](https://github.com/memorysyncio/memorysync-cursor-starter) |
 
 
+| [Inite Brain](https://github.com/inite-ai/inite-brain-service)    | Open-source bitemporal memory layer for LLM agents. Hybrid vector + BM25 + multi-hop retrieval over a knowledge graph (SurrealDB). MCP server, AGPL-3.0.                       | ![GitHub Badge](https://img.shields.io/github/stars/inite-ai/inite-brain-service.svg?style=flat-square) |
 ### Vector search
 
 | Project                                                   | Details                                                                                                                                                                                                                                                                                       | Repository                                                                                            |

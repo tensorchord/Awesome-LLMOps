@@ -198,6 +198,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [PrivAiTe](https://github.com/crp4222/PrivAiTe) | Self-hosted OpenAI-compatible proxy that reversibly pseudonymizes PII before requests reach the provider, tool-call arguments and multimodal included. | ![GitHub Badge](https://img.shields.io/github/stars/crp4222/PrivAiTe.svg?style=flat-square) |
 | [shim](https://github.com/GetSHIM/shim) | Open-core AI gateway that redacts PII before prompts reach model providers (Presidio plus Turkish TCKN/VKN recognizers). The source-available enterprise edition adds a tamper-evident hash-chain audit log with daily Merkle anchors as evidence for EU AI Act and KVKK record-keeping. | ![GitHub Badge](https://img.shields.io/github/stars/GetSHIM/shim.svg?style=flat-square) |
 | [wardcat](https://github.com/oguzhantopcu0/wardcat) | On-premises PII and sensitive-data detection and masking for LLM and RAG workflows, combining regex, NER, and optional local LLMs with reversible masking. | ![GitHub Badge](https://img.shields.io/github/stars/oguzhantopcu0/wardcat?style=flat-square) |
+| [AgentLeak](https://github.com/Privatris/AgentLeak) | Open-source privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 internal communication pathways, 1,000 scenarios, 4,979 validated traces; 68.8% inter-agent leakage vs 27.2% in final outputs. | ![GitHub Badge](https://img.shields.io/github/stars/Privatris/AgentLeak.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

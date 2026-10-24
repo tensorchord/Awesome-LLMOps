@@ -199,6 +199,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [shim](https://github.com/GetSHIM/shim) | Open-core AI gateway that redacts PII before prompts reach model providers (Presidio plus Turkish TCKN/VKN recognizers). The source-available enterprise edition adds a tamper-evident hash-chain audit log with daily Merkle anchors as evidence for EU AI Act and KVKK record-keeping. | ![GitHub Badge](https://img.shields.io/github/stars/GetSHIM/shim.svg?style=flat-square) |
 | [wardcat](https://github.com/oguzhantopcu0/wardcat) | On-premises PII and sensitive-data detection and masking for LLM and RAG workflows, combining regex, NER, and optional local LLMs with reversible masking. | ![GitHub Badge](https://img.shields.io/github/stars/oguzhantopcu0/wardcat?style=flat-square) |
 
+| [Squidbrake](https://github.com/batrapulkit/squidbrake) | Change control for AI agents: deterministic rules allow, hold for human approval, or block agent tool calls across Claude Code, Codex, Cursor and MCP, with a hash-chained audit trail. | ![GitHub Badge](https://img.shields.io/github/stars/batrapulkit/squidbrake.svg?style=flat-square) |
+
 **[⬆ back to ToC](#table-of-contents)**
 
 ### Observability

@@ -243,7 +243,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Weco Observe](https://weco.ai) | Observability and debugging tool for AI research agents. Trace multi-step LLM agent runs, visualize decision trees, and identify failure modes in autonomous research workflows. Cloud hosted with open-source agent integration. |                                                                                                                    |
 | [witness](https://github.com/anzal1/witness)                                   | A recording cache for model APIs: one Rust binary that proxies any LLM endpoint, dedupes repeat calls, and writes every model call, MCP tool call, and command side effect into a tamper-evident hash-chained journal with Ed25519 agent identity and Merkle proofs anchored to Sigstore Rekor.        | ![GitHub Badge](https://img.shields.io/github/stars/anzal1/witness?style=flat-square)                             |
 | [wobbly](https://github.com/tarunagarwal1981/wobbly) | Metamorphic testing for LLM extraction — catch wrong outputs with no ground-truth labels: perturb inputs in ways that shouldn't change the answer, flag when they do. | ![](https://img.shields.io/github/stars/tarunagarwal1981/wobbly.svg?style=flat-square) |
-[Tracify](https://www.tracify.tech) - Tracing and observability for AI agents: every model call, tool call, retry and cost in one trace per run.
+[Uncoil.dev](https://www.uncoil.dev) - Tracing and observability for AI agents: every model call, tool call, retry and cost in one trace per run.
 
 **[⬆ back to ToC](#table-of-contents)**
 

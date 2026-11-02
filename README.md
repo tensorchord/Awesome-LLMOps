@@ -88,6 +88,9 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium |
 | [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 | [segment-anything (SAM)](https://github.com/facebookresearch/segment-anything) | produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. | ![GitHub Badge](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=flat-square) |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)                | A latent text-to-image diffusion model                                                                                                           | ![GitHub Badge](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=flat-square)          |
 

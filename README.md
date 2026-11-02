@@ -91,6 +91,9 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 | [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 | [segment-anything (SAM)](https://github.com/facebookresearch/segment-anything) | produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. | ![GitHub Badge](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=flat-square) |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)                | A latent text-to-image diffusion model                                                                                                           | ![GitHub Badge](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=flat-square)          |
 

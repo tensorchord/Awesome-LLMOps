@@ -617,6 +617,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [distilabel](https://github.com/argilla-io/distilabel) | ⚗️ distilabel is a framework for synthetic data and AI feedback for AI engineers that require high-quality outputs, full data ownership, and overall efficiency.                                                                                                    | ![GitHub Badge](https://img.shields.io/github/stars/argilla-io/distilabel.svg?style=flat-square) |
 | [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) | A powerful tool for creating high-quality training datasets for Large Language Models. | ![GitHub Badge](https://img.shields.io/github/stars/ZhuLinsen/FastDatasets.svg?style=flat-square) |
 | [fastdocparse](https://github.com/pranjalparmar/fastdocparse) | Extracts structured data from documents with an LLM, then grounds every field against the source text to flag hallucinated values automatically. | ![GitHub Badge](https://img.shields.io/github/stars/pranjalparmar/fastdocparse.svg?style=flat-square) |
+| [Sugo](https://github.com/Muralnick/sugo) | Local-first, offline tool that cleans and converts PDFs, Office files, screenshots and images into compact Markdown for LLM/RAG pipelines, stripping repeated headers/footers and tracking noise while recording every removal. | ![GitHub Badge](https://img.shields.io/github/stars/Muralnick/sugo.svg?style=flat-square) |
 
 **[⬆ back to ToC](#table-of-contents)**
 

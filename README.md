@@ -392,6 +392,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 
 **[⬆ back to ToC](#table-of-contents)**
+| [Clearbar](https://clearbar.grain64.com/) | Finds the cheapest LLM that passes your task: runs candidate models on your own examples with your own OpenRouter key and names the cheapest one that clears your pass bar, priced per successful task with retries counted. Public verdicts show the table, failures and a re-run script. | |
 
 ## Search
 

@@ -151,6 +151,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2)              |  is a 4x faster and low-memory usage drop-in cli replacement that supports word-level timestamps and VAD filter | ![GitHub Badge](https://img.shields.io/github/stars/Softcatala/whisper-cTranslate2?style=flat-square)                   |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp)                               | Port of OpenAI's Whisper model in C/C++                                                                         | ![GitHub Badge](https://img.shields.io/github/stars/ggerganov/whisper.cpp.svg?style=flat-square)                 |
 | [x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion)              | Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention. *(Archived)* | ![GitHub Badge](https://img.shields.io/github/stars/stochasticai/x-stable-diffusion.svg?style=flat-square)       |
+| [Swizzle Runtime](https://github.com/Swizzle-AI/swizzle-runtime)                     | Single-binary Rust + CUDA/Vulkan GGUF inference engine with exact self-speculative decoding, XOR SMEM swizzling, and verifiable execution receipts | ![GitHub stars](https://img.shields.io/github/stars/Swizzle-AI/swizzle-runtime.svg?style=flat-square)           |
 
 **[⬆ back to ToC](#table-of-contents)**
 

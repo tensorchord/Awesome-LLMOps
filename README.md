@@ -404,6 +404,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [MemorySync](https://github.com/memorysyncio/memorysync-cursor-starter) | Persistent multi-tenant memory layer and MCP server for AI coding assistants with sub-50ms hybrid recall. | [![GitHub Badge](https://img.shields.io/github/stars/memorysyncio/memorysync-cursor-starter.svg?style=flat-square)](https://github.com/memorysyncio/memorysync-cursor-starter) |
 | [PipesHub](https://github.com/pipeshub-ai/pipeshub-ai) | Enterprise search for LLMs and agents: hybrid and knowledge-graph retrieval over 30+ workplace sources, with source permissions enforced and an MCP server. | ![GitHub Badge](https://img.shields.io/github/stars/pipeshub-ai/pipeshub-ai.svg?style=flat-square) |
 | [Remio](https://remio.ai/)                                | Local-first personal knowledge base that pre-parses files, webpages, recordings, notes, emails, messages, and images into indexed and vector-retrievable context for faster AI search and agent workflows, reducing repeated raw-file scans and context-token cost. |                                                                                                       |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | Remote MCP server for searching 2,200+ North American live-music venues, drive-time routing, and booking contacts. | |
 
 
 ### Vector search

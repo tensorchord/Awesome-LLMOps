@@ -152,6 +152,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 **[⬆ back to ToC](#table-of-contents)**
 
+- [bf16.ai](https://bf16.ai): Uncensored LLM API gateway for coding and personal AI agents with 1M context, native OpenAI & Anthropic endpoints, and zero prompt retention.
 ### Frameworks/Servers for Serving
 
 | Project                                                                    | Details                                                                                                                                                                                                                                                                                                                                            | Repository                                                                                                |

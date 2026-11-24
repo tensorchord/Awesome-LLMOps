@@ -391,6 +391,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [ai-evaluation](https://github.com/future-agi/ai-evaluation) | Evaluation framework for automated, reproducible scoring of LLM, agent, and workflow performance. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=flat-square) |
 | [future-agi](https://github.com/future-agi/future-agi) | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for LLM and AI agent applications. | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square) |
 | [Modelglass](https://modelglass.com.au) | Sourced, versioned pricing and capability data for AI models (image, language, video, audio, plus coding/science/agentic benchmark verticals) to find the cheapest model that clears a capability bar. | |
+| [AmendAQ](https://github.com/zealot2002/AmendAQ) | Zero-reindex FAQ & policy Q&A engine (FastAPI + Vue 3 + SQLite) with title-first routing, deterministic rule verification, and a reproducible 80-question benchmark against Traditional RAG and LightRAG. | ![GitHub Badge](https://img.shields.io/github/stars/zealot2002/AmendAQ.svg?style=flat-square) |
 
 
 **[⬆ back to ToC](#table-of-contents)**

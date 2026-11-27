@@ -406,6 +406,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [Remio](https://remio.ai/)                                | Local-first personal knowledge base that pre-parses files, webpages, recordings, notes, emails, messages, and images into indexed and vector-retrievable context for faster AI search and agent workflows, reducing repeated raw-file scans and context-token cost. |                                                                                                       |
 
 
+| [Inite Brain](https://github.com/inite-ai/inite-brain-service)    | Open-source bitemporal memory layer for LLM agents. Hybrid vector + BM25 + multi-hop retrieval over a knowledge graph (SurrealDB). MCP server, AGPL-3.0.                       | ![GitHub Badge](https://img.shields.io/github/stars/inite-ai/inite-brain-service.svg?style=flat-square) |
 ### Vector search
 
 | Project                                                   | Details                                                                                                                                                                                                                                                                                       | Repository                                                                                            |

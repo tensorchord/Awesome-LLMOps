@@ -25,6 +25,7 @@ An awesome & curated list of the best LLMOps tools for developers.
     - [Observability](#observability)
   - [LLMOps](#llmops)
   - [Search](#search)
+    - [Hybrid search](#hybrid-search)
     - [Vector search](#vector-search)
   - [Code AI](#code-ai)
   - [Training](#training)
@@ -244,6 +245,7 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [RAGeval](https://github.com/Yacine-ai-tech/RAGeval?ref=awesome-llmops) | Drop-in LLMOps observability platform for RAG with built-in UI and tracing. | ![GitHub Badge](https://img.shields.io/github/stars/Yacine-ai-tech/RAGeval.svg?style=flat-square) |
 | [runtape](https://github.com/RehanMohammed985/runtape) | Finds which part of an agent's context caused a bad decision by rerunning it with pieces removed, checks candidate fixes the same way, and writes a pytest regression test. Runs locally with OpenAI, Anthropic, LangGraph and Ollama. | ![GitHub Badge](https://img.shields.io/github/stars/RehanMohammed985/runtape.svg?style=flat-square) |
 | [traceAI](https://github.com/future-agi/traceAI)                                | Open-source AI tracing framework built on OpenTelemetry for deep observability across agentic and LLM workflows.                                                                   | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square)                         |
+| [Traccia](https://github.com/traccia-ai/traccia-py) | OpenTelemetry-native observability, governance, and compliance for AI agents and LLM applications. Integrates with OpenAI Agents SDK, CrewAI, Langchain, Claude Code, and more | ![GitHub Badge](https://img.shields.io/github/stars/traccia-ai/traccia-py.svg?style=flat-square) |
 | [Future AGI](https://github.com/future-agi/futureagi-sdk)                    | Production-grade SDK for observability, automated evaluations and prompt management with sub-100ms guardrails for LLM/agent workflows.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [semantic-coverage](https://github.com/aashirpersonal/semantic-coverage) | Visualizes RAG knowledge gaps and "blind spots" using 2D UMAP clustering and density detection.                                             | ![GitHub Badge](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square)                   |
 | [spantruth](https://github.com/Plexito-de/spantruth) | Tests LLM instrumentation libraries against a local fake provider and reports where their spans disagree with what the provider sent: tokens, cost, errors and streams. CLI, GitHub Action, and `uvx spantruth doctor` for your own lock file. | ![GitHub Badge](https://img.shields.io/github/stars/Plexito-de/spantruth?style=flat-square) |
